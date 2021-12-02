@@ -1,0 +1,976 @@
+State,County,Abbreviation,Max AQI,90th Percentile AQI,Median AQI,"Percent of adults with a high school diploma only, 2015-19","Percent of adults with a bachelor's degree or higher, 2015-19",# Employed,# Unemployed
+Alabama,Baldwin,AlabamaBaldwin,74,49,36,27.7,31.9,91338,5425
+Alabama,Russell,AlabamaRussell,99,56,36,31.4,17.8,22290,1210
+Alabama,Shelby,AlabamaShelby,71,46,28,19.8,42.9,109646,4402
+Alabama,Sumter,AlabamaSumter,70,43,29,35.4,21.6,4414,331
+Alabama,Tuscaloosa,AlabamaTuscaloosa,97,45,31,29.9,30.7,95473,6749
+Alaska,Denali ,AlaskaDenali,54,42,33,26,41.1,573,107
+Alaska,Fairbanks North Star ,AlaskaFairbanks,170,106,33,22.6,31.4,41838,2841
+Alaska,Juneau ,AlaskaJuneau,101,40,14,21.6,38.4,15293,1081
+Alaska,Kenai Peninsula ,AlaskaKenai,43,15,8,31.2,24.6,23948,2393
+Alaska,Matanuska-Susitna ,AlaskaMatanuska-Susitna,103,45,14,33.1,21.6,43858,3990
+Alaska,North Slope ,AlaskaNorth,36,12,5,43,16.5,3011,189
+Arizona,Apache,ArizonaApache,58,29,14,32.2,12.3,17614,2581
+Arizona,Cochise,ArizonaCochise,108,61,45,24.1,23.1,48368,3627
+Arizona,Coconino,ArizonaCoconino,93,54,44,22,36.2,67985,7295
+Arizona,Gila,ArizonaGila,174,77,47,27.9,18.7,19387,1621
+Arizona,La Paz,ArizonaLa,125,58,44,31.1,12,8343,636
+Arizona,Maricopa,ArizonaMaricopa,282,215,112,22.4,32.7,2159267,172361
+Arizona,Mohave,ArizonaMohave,116,34,18,35.3,12.9,79889,8854
+Arizona,Navajo,ArizonaNavajo,136,54,43,30.3,15.3,36322,4097
+Arizona,Pima,ArizonaPima,277,77,53,22.2,32.4,457683,38308
+Arizona,Pinal,ArizonaPinal,1124,119,72,29.3,19.5,176674,14400
+Arizona,Santa Cruz,ArizonaSanta,165,69,34,28.7,20.4,17209,2220
+Arizona,Yavapai,ArizonaYavapai,119,61,45,25.8,25.9,98978,8007
+Arizona,Yuma,ArizonaYuma,321,69,44,25.7,15,81310,16810
+Arkansas,Arkansas,ArkansasArkansas,82,50,27,34,23,1272344,81952
+Arkansas,Arkansas,ArkansasArkansas,82,50,27,34,23,9044,378
+Arkansas,Ashley,ArkansasAshley,89,49,28,43.7,12.3,6518,668
+Arkansas,Clark,ArkansasClark,67,40,29,30.2,26.6,8765,549
+Arkansas,Crittenden,ArkansasCrittenden,115,54,38,34.8,17.4,19459,1750
+Arkansas,Garland,ArkansasGarland,83,53,29,31.4,21.6,38052,3295
+Arkansas,Jackson,ArkansasJackson,77,51,26,42.5,10.1,5444,419
+Arkansas,Newton,ArkansasNewton,84,45,35,35.4,20.5,3084,162
+Arkansas,Polk,ArkansasPolk,84,47,36,36.5,14.1,7482,531
+Arkansas,Pulaski,ArkansasPulaski,132,59,42,26,34.3,174884,14044
+Arkansas,Union,ArkansasUnion,89,52,34,35.5,21.1,14325,1297
+Arkansas,Washington,ArkansasWashington,150,52,39,25.7,33.3,120346,5795
+California,Alameda,CaliforniaAlameda,218,79,43,17.6,47.4,742411,71396
+California,Amador,CaliforniaAmador,156,50,37,27.5,19.3,13107,1317
+California,Butte,CaliforniaButte,379,110,51,22.5,27.2,84095,8509
+California,Calaveras,CaliforniaCalaveras,192,77,44,28,18.3,19588,1619
+California,Colusa,CaliforniaColusa,198,86,38,26.2,15,8824,1675
+California,Contra Costa,CaliforniaContra,197,74,41,17.3,42.4,493236,48020
+California,Del Norte,CaliforniaDel,220,55,32,31,14.8,8466,884
+California,El Dorado,CaliforniaEl,190,90,43,21.3,34.3,83262,7490
+California,Fresno,CaliforniaFresno,298,153,74,22.7,21.2,395258,50260
+California,Glenn,CaliforniaGlenn,197,82,43,27.2,14.2,11455,1113
+California,Humboldt,CaliforniaHumboldt,109,44,29,22.2,30.4,54446,4965
+California,Imperial,CaliforniaImperial,166,97,58,24.3,15.2,53949,15653
+California,Inyo,CaliforniaInyo,684,130,52,28.6,27.2,7658,647
+California,Kern,CaliforniaKern,267,140,81,27.8,16.4,335707,48062
+California,Kings,CaliforniaKings,543,124,67,25.3,14.7,49883,6533
+California,Lake,CaliforniaLake,180,43,32,30.5,15.5,25567,2700
+California,Los Angeles,CaliforniaLos,235,165,83,20.6,32.5,4291688,629811
+California,Madera,CaliforniaMadera,250,113,61,24.9,14.6,55089,6649
+California,Marin,CaliforniaMarin,206,57,33,10.5,59.5,121476,8662
+California,Mariposa,CaliforniaMariposa,618,111,47,24.4,24.6,6381,781
+California,Mendocino,CaliforniaMendocino,456,76,34,25,24.4,33723,3292
+California,Merced,CaliforniaMerced,183,95,53,25.3,13.8,100755,13981
+California,Mono,CaliforniaMono,1928,199,40,24.2,28.8,6917,929
+California,Monterey,CaliforniaMonterey,250,63,36,20.3,24.7,190389,23082
+California,Napa,CaliforniaNapa,199,62,36,17.8,35.7,62853,6014
+California,Nevada,CaliforniaNevada,252,90,41,18.4,37.2,42787,3702
+California,Orange,CaliforniaOrange,218,108,51,17.2,40.6,1416738,136563
+California,Placer,CaliforniaPlacer,222,108,54,18,39.7,171319,13573
+California,Plumas,CaliforniaPlumas,469,146,49,26.1,23.7,6753,806
+California,Riverside,CaliforniaRiverside,576,159,87,26.9,22.3,997725,109998
+California,Sacramento,CaliforniaSacramento,200,100,52,22.4,30.9,641624,65558
+California,Shasta,CaliforniaShasta,166,64,41,25.4,22.2,66484,6343
+California,Siskiyou,CaliforniaSiskiyou,359,61,36,25.5,23.2,15286,1637
+California,Solano,CaliforniaSolano,204,76,41,23.8,26.9,183607,19205
+California,Sonoma,CaliforniaSonoma,187,53,33,18.7,35.5,225791,19300
+California,Stanislaus,CaliforniaStanislaus,189,102,55,29.3,17.1,214885,25756
+California,Sutter,CaliforniaSutter,303,89,48,23.3,18.2,40472,4995
+California,Tehama,CaliforniaTehama,196,93,43,30.1,15.7,23317,2262
+California,Trinity,CaliforniaTrinity,193,79,27,34.8,19.5,4155,360
+California,Tulare,CaliforniaTulare,209,145,79,25.5,14.6,172852,26299
+California,Tuolumne,CaliforniaTuolumne,143,64,41,28.3,20.5,17954,2084
+California,Ventura,CaliforniaVentura,174,90,47,19.2,33.8,373903,34964
+California,Yolo,CaliforniaYolo,192,84,42,18.1,41.4,97111,7915
+Colorado,Adams,ColoradoAdams,151,72,47,28.6,24.3,252469,22029
+Colorado,Alamosa,ColoradoAlamosa,60,30,11,28.5,25,7868,535
+Colorado,Arapahoe,ColoradoArapahoe,159,76,45,20.8,42.8,337943,28825
+Colorado,Archuleta,ColoradoArchuleta,93,58,43,21,37.2,6585,538
+Colorado,Boulder,ColoradoBoulder,173,84,47,11.7,62.1,180992,11887
+Colorado,Clear Creek,ColoradoClear,143,71,47,21.9,48.1,5628,523
+Colorado,Delta,ColoradoDelta,97,51,41,38.3,21.7,13400,940
+Colorado,Denver,ColoradoDenver,150,80,50,16.8,49.4,388924,34900
+Colorado,Douglas,ColoradoDouglas,159,80,46,12,58,183412,11237
+Colorado,El Paso,ColoradoEl,151,74,45,20.4,38.5,319084,25036
+Colorado,Fremont,ColoradoFremont,27,20,11,39.3,18.5,14203,1190
+Colorado,Garfield,ColoradoGarfield,122,74,46,27,31,29606,2156
+Colorado,Gilpin,ColoradoGilpin,136,67,45,21.4,39.6,3562,454
+Colorado,Gunnison,ColoradoGunnison,108,54,44,15.9,56.2,10596,751
+Colorado,Jackson,ColoradoJackson,84,46,8,28.1,20,900,40
+Colorado,Jefferson,ColoradoJefferson,161,90,46,20.3,45.2,310057,23625
+Colorado,La Plata,ColoradoLa,101,61,44,20,44.2,29219,2147
+Colorado,Larimer,ColoradoLarimer,157,87,48,19,47.3,190842,12841
+Colorado,Mesa,ColoradoMesa,108,58,44,27.6,28.2,69917,5634
+Colorado,Montezuma,ColoradoMontezuma,126,58,44,29.3,29.6,11795,908
+Colorado,Pitkin,ColoradoPitkin,68,33,12,17,60.8,10077,1176
+Colorado,Prowers,ColoradoProwers,238,42,17,26.1,18.3,5937,276
+Colorado,Pueblo,ColoradoPueblo,63,45,19,29.1,21.8,71037,6318
+Colorado,Rio Blanco,ColoradoRio,115,54,42,31.5,22.7,2789,160
+Colorado,Rio Blanco,ColoradoRio,115,54,42,31.5,22.7,5068,385
+Colorado,Routt,ColoradoRoutt,68,29,14,20.2,49.8,14929,1277
+Colorado,Weld,ColoradoWeld,140,82,48,27.3,27.5,155042,11624
+Connecticut,Fairfield,ConnecticutFairfield,161,80,44,21.5,47.9,429164,37044
+Connecticut,Hartford,ConnecticutHartford,98,55,39,26.6,38.1,437433,38682
+Connecticut,Litchfield,ConnecticutLitchfield,84,50,38,29.9,35.4,95102,7007
+Connecticut,Middlesex,ConnecticutMiddlesex,129,54,39,25.8,42.2,86211,6010
+Connecticut,New Haven,ConnecticutNew,174,77,42,30.7,35,420669,36502
+Connecticut,New Haven,ConnecticutNew,174,77,42,30.7,35,119313,12679
+Connecticut,Tolland,ConnecticutTolland,93,48,39,27,41.8,79362,5236
+Connecticut,Windham,ConnecticutWindham,87,44,35,33.2,24.3,57369,4849
+Delaware,Kent,DelawareKent,80,48,36,32.9,23.7,72843,6872
+Delaware,New Castle,DelawareNew,105,58,40,30.8,36.2,275601,23039
+Delaware,Sussex,DelawareSussex,87,51,38,31.2,28.3,98014,7990
+Florida,Alachua,FloridaAlachua,105,52,36,21.2,43.3,127696,7235
+Florida,Baker,FloridaBaker,140,49,35,42.6,13.2,11179,580
+Florida,Bay,FloridaBay,146,58,40,31,23.7,77746,5017
+Florida,Brevard,FloridaBrevard,84,52,39,28.3,30.2,262867,18724
+Florida,Broward,FloridaBroward,142,57,40,27.3,32.4,930297,90289
+Florida,Citrus,FloridaCitrus,125,54,32,37.2,18.3,42582,3918
+Florida,Collier,FloridaCollier,85,54,36,25.8,36.4,165287,12210
+Florida,Columbia,FloridaColumbia,158,56,36,36.7,14.9,27840,1726
+Florida,Duval,FloridaDuval,125,59,42,27.8,30,452481,32633
+Florida,Escambia,FloridaEscambia,80,58,42,27.2,26.5,135108,9671
+Florida,Flagler,FloridaFlagler,64,43,31,34.3,25.1,43083,3553
+Florida,Hamilton,FloridaHamilton,154,52,33,45.4,7.9,3880,319
+Florida,Highlands,FloridaHighlands,74,44,31,38.8,17.2,31967,2674
+Florida,Hillsborough,FloridaHillsborough,112,61,43,27.1,33.5,700764,53788
+Florida,Holmes,FloridaHolmes,138,54,38,40.7,10.7,6472,378
+Florida,Indian River,FloridaIndian,87,47,37,30.4,29.1,59482,4751
+Florida,Lake,FloridaLake,87,45,32,32.1,24,140383,13645
+Florida,Lee,FloridaLee,100,50,36,31,28.2,320161,25256
+Florida,Leon,FloridaLeon,160,58,40,19,46.2,141883,8743
+Florida,Liberty,FloridaLiberty,51,44,31,45.8,14.4,2473,125
+Florida,Manatee,FloridaManatee,97,44,33,30.1,29.8,164571,11925
+Florida,Marion,FloridaMarion,100,55,39,36.9,20.1,128709,9760
+Florida,Martin,FloridaMartin,95,52,36,24.9,34.1,67796,4384
+Florida,Miami-Dade,FloridaMiami-Dade,90,58,39,27.3,29.8,1188173,103681
+Florida,Nassau,FloridaNassau,157,34,4,31.7,29.6,38991,2347
+Florida,Okaloosa,FloridaOkaloosa,74,46,34,24.7,31.1,90729,5281
+Florida,Orange,FloridaOrange,93,51,36,24.4,34.6,659050,78496
+Florida,Osceola,FloridaOsceola,90,44,32,31.3,21.8,160638,25155
+Florida,Palm Beach,FloridaPalm,92,54,38,24,36.7,662945,54434
+Florida,Pasco,FloridaPasco,77,46,35,33.2,24,221185,17142
+Florida,Pinellas,FloridaPinellas,100,56,40,28,31.7,450266,34064
+Florida,Polk,FloridaPolk,87,54,37,34.7,20.2,287979,28647
+Florida,Putnam,FloridaPutnam,67,27,14,41.2,12.3,24378,2092
+Florida,Santa Rosa,FloridaSanta,84,57,40,26.8,27.7,78348,4299
+Florida,Sarasota,FloridaSarasota,90,55,38,28.9,35.4,171875,12589
+Florida,Seminole,FloridaSeminole,84,49,36,21.1,39.6,220602,17167
+Florida,St. Lucie,FloridaSt.,74,44,33,21.4,44.7,126772,7071
+Florida,St. Lucie,FloridaSt.,74,44,33,21.4,44.7,134060,11303
+Florida,Volusia,FloridaVolusia,77,50,38,31.8,23.7,230585,18975
+Florida,Wakulla,FloridaWakulla,161,54,35,36.2,18.3,14216,669
+Georgia,Bibb,GeorgiaBibb,97,52,35,30.5,25.4,62371,5050
+Georgia,Charlton,GeorgiaCharlton,139,34,20,40.1,8.8,4660,182
+Georgia,Chatham,GeorgiaChatham,131,58,39,24.2,33.6,129918,10713
+Georgia,Chattooga,GeorgiaChattooga,58,43,32,40.1,8.9,8947,820
+Georgia,Clarke,GeorgiaClarke,99,54,36,19.9,44,54453,3753
+Georgia,Clayton,GeorgiaClayton,90,54,28,33.6,19.5,125357,14433
+Georgia,Cobb,GeorgiaCobb,90,49,35,18.5,47.4,389904,24453
+Georgia,Coffee,GeorgiaCoffee,108,42,25,37.2,13,17835,1103
+Georgia,Columbia,GeorgiaColumbia,51,44,31,23.8,36.4,71266,3145
+Georgia,Dawson,GeorgiaDawson,74,43,31,29.1,30.6,11735,584
+Georgia,DeKalb,GeorgiaDeKalb,106,57,38,20.9,44.2,364209,31474
+Georgia,Dougherty,GeorgiaDougherty,114,61,37,30.2,21.4,34469,3243
+Georgia,Douglas,GeorgiaDouglas,77,44,32,30.4,28.2,66930,5367
+Georgia,Floyd,GeorgiaFloyd,80,52,30,34.3,20.9,40522,2712
+Georgia,Fulton,GeorgiaFulton,125,62,43,17.7,52.9,512593,44639
+Georgia,Glynn,GeorgiaGlynn,96,44,31,26.7,29.9,35610,2605
+Georgia,Gwinnett,GeorgiaGwinnett,101,55,37,22.3,36.9,450909,30544
+Georgia,Hall,GeorgiaHall,98,55,33,27.7,24.5,97133,4816
+Georgia,Henry,GeorgiaHenry,95,50,32,31.7,28.5,106831,8521
+Georgia,Houston,GeorgiaHouston,114,57,35,27,28.3,66769,3649
+Georgia,Lowndes,GeorgiaLowndes,141,54,30,31.4,25.3,48484,3115
+Georgia,Murray,GeorgiaMurray,61,46,35,37.4,10.1,14191,1159
+Georgia,Muscogee,GeorgiaMuscogee,101,53,35,27.4,25.8,71209,6049
+Georgia,Pike,GeorgiaPike,64,44,33,41.8,17.1,8273,432
+Georgia,Richmond,GeorgiaRichmond,114,60,42,31.4,21.4,78649,6463
+Georgia,Rockdale,GeorgiaRockdale,77,46,34,31.5,26.3,40657,3332
+Georgia,Sumter,GeorgiaSumter,64,44,32,34.7,18.3,11601,924
+Georgia,Walker,GeorgiaWalker,84,53,30,35.2,16.6,29106,1495
+Georgia,Washington,GeorgiaWashington,112,54,32,44.7,12.3,6486,445
+Hawaii,Hawaii,HawaiiHawaii,231,30,18,27.4,33,572796,75395
+Hawaii,Hawaii,HawaiiHawaii,231,30,18,27.4,33,78986,10133
+Hawaii,Honolulu,HawaiiHonolulu,92,40,26,25.9,35,396136,44779
+Hawaii,Kauai,HawaiiKauai,41,25,11,30,29.2,29618,5719
+Hawaii,Maui,HawaiiMaui,56,23,15,31.3,27.2,68056,14764
+Idaho,Ada,IdahoAda,185,72,40,22.4,38.5,243784,13893
+Idaho,Bannock,IdahoBannock,161,61,41,26.4,27.8,40495,2065
+Idaho,Benewah,IdahoBenewah,371,65,32,38.4,15.2,3830,310
+Idaho,Blaine,IdahoBlaine,167,43,15,25.6,35.4,11679,987
+Idaho,Boise,IdahoBoise,198,68,35,30.6,27.1,3321,288
+Idaho,Bonner,IdahoBonner,190,52,25,29.8,23.8,19527,1592
+Idaho,Bonneville,IdahoBonneville,154,49,21,25.4,31.3,55789,2347
+Idaho,Butte,IdahoButte,152,50,40,36,16.2,1343,50
+Idaho,Canyon,IdahoCanyon,156,73,33,32.1,18.7,99763,6218
+Idaho,Caribou,IdahoCaribou,109,24,6,32.4,19,3962,148
+Idaho,Custer,IdahoCuster,126,59,5,28.6,24.4,2106,112
+Idaho,Franklin,IdahoFranklin,159,53,20,37.8,17.7,6807,253
+Idaho,Idaho,IdahoIdaho,191,60,36,27.4,27.6,844365,47786
+Idaho,Idaho,IdahoIdaho,191,60,36,27.4,27.6,6260,449
+Idaho,Jerome,IdahoJerome,37,19,10,30.6,16.1,11711,487
+Idaho,Kootenai,IdahoKootenai,384,48,19,27.2,25.2,75654,5632
+Idaho,Latah,IdahoLatah,333,41,16,19.7,45.4,18818,938
+Idaho,Lemhi,IdahoLemhi,163,77,35,30.3,22.9,3408,243
+Idaho,Nez Perce,IdahoNez,363,59,21,32.1,22.9,19780,1013
+Idaho,Shoshone,IdahoShoshone,346,64,30,37,11.5,4946,498
+Idaho,Twin Falls,IdahoTwin,160,48,18,27.2,20.6,39083,2167
+Idaho,Valley,IdahoValley,192,63,30,26.7,30.4,5195,448
+Illinois,Adams,IllinoisAdams,84,50,38,35.4,25,29287,1972
+Illinois,Champaign,IllinoisChampaign,126,56,39,22,45,101732,6993
+Illinois,Clark,IllinoisClark,97,45,31,40,19.9,6752,579
+Illinois,Cook,IllinoisCook,164,84,53,23.1,38.8,2258453,281454
+Illinois,DuPage,IllinoisDuPage,154,59,41,18.2,49.4,445824,38391
+Illinois,Effingham,IllinoisEffingham,84,48,37,35.8,22.7,17988,1277
+Illinois,Hamilton,IllinoisHamilton,118,56,40,34.9,17,3944,281
+Illinois,Jersey,IllinoisJersey,112,55,39,38.8,20.3,9883,795
+Illinois,Jo Daviess,IllinoisJo,87,44,32,35.9,25,9560,866
+Illinois,Kane,IllinoisKane,161,64,39,22.7,33.1,237738,23911
+Illinois,Lake,IllinoisLake,185,74,39,20.8,45.3,335133,29411
+Illinois,Macon,IllinoisMacon,90,56,41,35.4,22.1,42512,4665
+Illinois,Macoupin,IllinoisMacoupin,93,45,31,39.8,18.4,20596,1523
+Illinois,Madison,IllinoisMadison,112,70,47,29.8,26.8,121270,10182
+Illinois,McHenry,IllinoisMcHenry,147,58,40,26.5,34.4,145249,13157
+Illinois,McLean,IllinoisMcLean,136,58,41,24.6,44.8,79341,5762
+Illinois,Monroe,IllinoisMonroe,43,7,1,27.6,35,17363,1023
+Illinois,Peoria,IllinoisPeoria,115,57,40,27.6,30.6,75016,8668
+Illinois,Randolph,IllinoisRandolph,103,54,38,37.3,13.3,12786,978
+Illinois,Rock Island,IllinoisRock,102,56,38,29.5,23.5,62443,6472
+Illinois,Sangamon,IllinoisSangamon,97,54,39,27.2,34.5,88916,7953
+Illinois,Tazewell,IllinoisTazewell,26,9,1,31.7,26.3,56948,5029
+Illinois,Wabash,IllinoisWabash,74,17,1,30.7,18.2,5242,476
+Illinois,Will,IllinoisWill,155,60,42,26.9,34.3,311763,32572
+Illinois,Winnebago,IllinoisWinnebago,101,61,39,31.7,22.9,120253,15506
+Indiana,Allen,IndianaAllen,120,58,39,28.2,28.5,170783,14203
+Indiana,Bartholomew,IndianaBartholomew,97,52,37,30.8,33.5,40975,2827
+Indiana,Boone,IndianaBoone,101,48,32,19.5,49.3,34064,1522
+Indiana,Brown,IndianaBrown,80,44,33,32.9,28.9,7062,506
+Indiana,Carroll,IndianaCarroll,100,44,31,40.8,16.7,9076,583
+Indiana,Clark,IndianaClark,91,58,42,34.6,21.2,56726,4412
+Indiana,Daviess,IndianaDaviess,19,4,0,34,13.2,15891,632
+Indiana,Delaware,IndianaDelaware,97,50,35,35.1,23.7,48633,3833
+Indiana,Dubois,IndianaDubois,67,54,33,38.3,23.7,21569,1026
+Indiana,Elkhart,IndianaElkhart,158,54,36,34.7,19.8,102155,8339
+Indiana,Floyd,IndianaFloyd,143,44,32,30.9,29.6,38422,2671
+Indiana,Gibson,IndianaGibson,114,26,3,40.9,18,18332,1205
+Indiana,Greene,IndianaGreene,90,50,34,41.1,14.9,12442,822
+Indiana,Hamilton,IndianaHamilton,97,54,38,14.9,59.3,174455,8524
+Indiana,Hendricks,IndianaHendricks,87,45,32,27.5,37,84885,4501
+Indiana,Henry,IndianaHenry,63,51,29,43.7,16.4,20424,1442
+Indiana,Howard,IndianaHoward,108,53,38,35.9,21.6,32921,4010
+Indiana,Knox,IndianaKnox,105,48,33,35.8,16.9,17148,1080
+Indiana,LaPorte,IndianaLaPorte,154,61,37,39.6,18,42924,4520
+Indiana,Lake,IndianaLake,136,65,44,35.1,22.6,201989,23196
+Indiana,Madison,IndianaMadison,97,55,39,39.4,18.4,54137,4621
+Indiana,Marion,IndianaMarion,144,68,48,28,30.9,456145,38918
+Indiana,Monroe,IndianaMonroe,69,51,31,22.2,45.7,64390,3765
+Indiana,Perry,IndianaPerry,105,45,34,44.7,16.1,8495,594
+Indiana,Porter,IndianaPorter,151,67,41,35,28.4,77220,6767
+Indiana,Posey,IndianaPosey,112,45,31,38.2,21.9,12202,632
+Indiana,Shelby,IndianaShelby,115,46,32,42.4,18.7,21443,1643
+Indiana,Spencer,IndianaSpencer,63,53,32,46,15.2,9754,579
+Indiana,St. Joseph,IndianaSt.,162,62,41,30.7,29.6,122197,11188
+Indiana,Sullivan,IndianaSullivan,53,51,29,44.2,12.1,7352,551
+Indiana,Tippecanoe,IndianaTippecanoe,69,56,39,25.4,38.7,88211,5936
+Indiana,Vanderburgh,IndianaVanderburgh,101,57,39,32.5,27,85014,6559
+Indiana,Vigo,IndianaVigo,112,57,40,32,25.1,42198,3616
+Indiana,Wabash,IndianaWabash,97,49,35,42.6,18.1,13615,884
+Indiana,Warrick,IndianaWarrick,112,47,33,31.3,30.3,29930,1724
+Indiana,Whitley,IndianaWhitley,76,56,39,39.2,20.7,16139,1016
+Iowa,Black Hawk,IowaBlack,91,53,32,30.5,29.1,63173,4145
+Iowa,Bremer,IowaBremer,87,45,35,32.9,30.7,12967,533
+Iowa,Cerro Gordo,IowaCerro,60,37,18,30.6,23.6,21893,1203
+Iowa,Clinton,IowaClinton,87,56,37,38.8,17.9,20509,1480
+Iowa,Harrison,IowaHarrison,87,49,37,37.2,19.5,6776,284
+Iowa,Johnson,IowaJohnson,105,58,35,16.3,52.8,80056,4032
+Iowa,Lee,IowaLee,73,52,30,40.8,16.4,14666,1027
+Iowa,Linn,IowaLinn,105,60,40,27,33.1,111300,7553
+Iowa,Montgomery,IowaMontgomery,76,51,35,35.2,18.5,4621,226
+Iowa,Muscatine,IowaMuscatine,124,54,30,35.3,21.5,19796,1257
+Iowa,Palo Alto,IowaPalo,87,51,36,29.2,25.5,4330,210
+Iowa,Polk,IowaPolk,186,54,36,24.5,36.7,248931,15876
+Iowa,Pottawattamie,IowaPottawattamie,77,52,31,32.7,21.5,44771,2478
+Iowa,Scott,IowaScott,155,63,44,29.6,31.8,80541,5862
+Iowa,Van Buren,IowaVan,87,49,36,38.9,14.4,3497,170
+Iowa,Woodbury,IowaWoodbury,79,50,29,32.2,23.1,51606,2861
+Kansas,Chase,KansasChase,58,38,18,29.1,25.5,1384,81
+Kansas,Ford,KansasFord,79,29,11,25.3,17.7,16640,584
+Kansas,Johnson,KansasJohnson,117,56,36,14.5,56,324544,17602
+Kansas,Leavenworth,KansasLeavenworth,77,44,32,28.3,31.5,34611,2135
+Kansas,Neosho,KansasNeosho,106,54,39,32.5,18.1,5845,401
+Kansas,Sedgwick,KansasSedgwick,114,54,38,26.3,30.9,234769,22448
+Kansas,Shawnee,KansasShawnee,169,58,39,31.4,30.9,85910,5433
+Kansas,Sherman,KansasSherman,106,44,13,30.3,21.8,2795,99
+Kansas,Sumner,KansasSumner,117,59,40,34.9,23.3,10126,891
+Kansas,Trego,KansasTrego,147,51,37,31.1,24.8,1419,51
+Kansas,Wyandotte,KansasWyandotte,116,63,44,32.1,18.1,72303,6089
+Kentucky,Bell,KentuckyBell,71,46,33,38.5,9.2,7606,642
+Kentucky,Boone,KentuckyBoone,87,50,36,27.5,32.1,66280,3791
+Kentucky,Boyd,KentuckyBoyd,88,51,36,33.9,19.4,16086,1465
+Kentucky,Bullitt,KentuckyBullitt,115,48,37,41.6,14.7,39359,2672
+Kentucky,Campbell,KentuckyCampbell,93,54,39,28.2,36.3,46886,2761
+Kentucky,Carter,KentuckyCarter,59,44,31,40.3,12.6,8663,923
+Kentucky,Christian,KentuckyChristian,83,51,38,31,18.1,22662,1925
+Kentucky,Daviess,KentuckyDaviess,105,54,38,34.1,22.9,42911,2799
+Kentucky,Edmonson,KentuckyEdmonson,64,45,33,39.3,10.3,4247,352
+Kentucky,Fayette,KentuckyFayette,84,51,38,19.6,43.6,162405,9879
+Kentucky,Greenup,KentuckyGreenup,61,42,28,36,17.1,12064,1174
+Kentucky,Hancock,KentuckyHancock,97,47,37,43.4,11.4,3575,233
+Kentucky,Hardin,KentuckyHardin,80,51,38,30.4,22,44196,3385
+Kentucky,Henderson,KentuckyHenderson,114,44,1,36,18.2,19643,1278
+Kentucky,Jefferson,KentuckyJefferson,115,61,45,26.7,33.4,363770,26717
+Kentucky,Jessamine,KentuckyJessamine,77,44,31,30.5,29.5,24689,1471
+Kentucky,Livingston,KentuckyLivingston,105,47,37,43.6,11.8,3268,266
+Kentucky,McCracken,KentuckyMcCracken,111,57,39,31.4,24.2,26435,2051
+Kentucky,Morgan,KentuckyMorgan,64,44,33,41.4,12.5,4052,300
+Kentucky,Oldham,KentuckyOldham,97,49,38,20.7,42.4,30867,1571
+Kentucky,Perry,KentuckyPerry,99,48,34,33,14.4,7453,728
+Kentucky,Pike,KentuckyPike,92,45,32,39.4,13,17574,1622
+Kentucky,Pulaski,KentuckyPulaski,77,48,36,35.7,16.5,23907,1888
+Kentucky,Simpson,KentuckySimpson,67,46,36,44.9,14.2,7979,617
+Kentucky,Trigg,KentuckyTrigg,84,45,34,33.2,16.6,5611,419
+Kentucky,Warren,KentuckyWarren,97,53,38,26.6,32.2,59108,4148
+Kentucky,Washington,KentuckyWashington,77,46,34,42.4,18.8,5718,381
+Louisiana,Ascension,LouisianaAscension,100,46,31,32.3,26.4,59807,4329
+Louisiana,Bossier,LouisianaBossier,105,53,36,29.7,25.2,53138,3612
+Louisiana,Caddo,LouisianaCaddo,126,49,34,33.7,23.5,93384,9231
+Louisiana,Calcasieu,LouisianaCalcasieu,116,61,41,34.1,22.3,89236,8874
+Louisiana,East Baton Rouge,LouisianaEast,119,55,38,27.3,34.9,211197,17777
+Louisiana,East Baton Rouge,LouisianaEast,119,55,38,27.3,34.9,1610,214
+Louisiana,East Baton Rouge,LouisianaEast,119,55,38,27.3,34.9,7244,518
+Louisiana,Iberville,LouisianaIberville,136,54,36,41.3,13.9,12601,1374
+Louisiana,Jefferson,LouisianaJefferson,87,54,36,30.8,26.8,191934,19629
+Louisiana,Jefferson,LouisianaJefferson,87,54,36,30.8,26.8,11863,964
+Louisiana,Lafayette,LouisianaLafayette,120,59,40,30.4,33,105742,8069
+Louisiana,Lafourche,LouisianaLafourche,115,56,39,40.5,16.9,38786,2689
+Louisiana,Livingston,LouisianaLivingston,105,58,39,38.1,19.7,63874,4391
+Louisiana,Orleans,LouisianaOrleans,88,47,28,22.8,37.6,159734,22134
+Louisiana,Ouachita,LouisianaOuachita,111,45,32,34.1,24.2,64663,5160
+Louisiana,Pointe Coupee,LouisianaPointe,100,45,32,39.3,14.9,8888,750
+Louisiana,Rapides,LouisianaRapides,103,49,26,36.7,20.9,51714,3443
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,17984,2038
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,22715,1929
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,3805,494
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,8176,882
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,17294,2179
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,29611,2807
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,20268,1789
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,17722,1794
+Louisiana,St. Bernard,LouisianaSt.,91,55,40,32.6,11.6,108590,7876
+Louisiana,Tangipahoa,LouisianaTangipahoa,64,49,26,37.2,20,51012,5377
+Louisiana,Terrebonne,LouisianaTerrebonne,74,50,27,38.9,15.6,42663,3561
+Louisiana,West Baton Rouge,LouisianaWest,101,58,38,37.2,22,12530,972
+Louisiana,West Baton Rouge,LouisianaWest,101,58,38,37.2,22,3270,367
+Louisiana,West Baton Rouge,LouisianaWest,101,58,38,37.2,22,4989,287
+Maine,Androscoggin,MaineAndroscoggin,66,44,29,35.5,22.8,51486,2984
+Maine,Aroostook,MaineAroostook,189,47,33,37.3,19.2,27642,1613
+Maine,Cumberland,MaineCumberland,97,53,38,22.2,47.6,152368,8495
+Maine,Hancock,MaineHancock,105,48,35,30.8,34.1,26059,1589
+Maine,Kennebec,MaineKennebec,64,44,35,32.7,28.1,58332,3044
+Maine,Knox,MaineKnox,71,45,31,32.9,33.5,18481,1054
+Maine,Oxford,MaineOxford,65,44,33,42,19.2,24097,1718
+Maine,Penobscot,MainePenobscot,73,44,29,33.6,27.7,70710,4007
+Maine,Washington,MaineWashington,61,44,33,38,22,12575,833
+Maine,York,MaineYork,87,47,39,30,32.5,104935,5949
+Maryland,Allegany,MarylandAllegany,9,3,1,41.8,18.9,28437,2398
+Maryland,Anne Arundel,MarylandAnne,108,49,32,23.7,41.7,292309,18104
+Maryland,Baltimore,MarylandBaltimore,105,57,39,25.8,39.4,415263,30432
+Maryland,Baltimore,MarylandBaltimore,105,57,39,25.8,39.4,256482,24705
+Maryland,Calvert,MarylandCalvert,67,44,35,30.3,32.4,46006,2537
+Maryland,Carroll,MarylandCarroll,84,49,39,29.4,36.4,88333,4740
+Maryland,Cecil,MarylandCecil,97,49,34,36.1,23.9,48988,3095
+Maryland,Charles,MarylandCharles,58,44,34,31.7,28.9,80309,5790
+Maryland,Dorchester,MarylandDorchester,84,47,35,38.5,21.2,14923,1067
+Maryland,Frederick,MarylandFrederick,90,49,40,24.1,41.4,124969,7898
+Maryland,Garrett,MarylandGarrett,71,46,36,43.3,20.9,14261,1013
+Maryland,Harford,MarylandHarford,119,55,38,26,36.7,130336,8001
+Maryland,Howard,MarylandHoward,68,44,28,13.5,62.6,174916,9558
+Maryland,Kent,MarylandKent,100,46,33,29.8,35.1,9026,638
+Maryland,Montgomery,MarylandMontgomery,77,45,33,13.4,58.9,513663,34735
+Maryland,Prince George's,MarylandPrince,105,50,37,25.8,33.1,462879,41397
+Maryland,Washington,MarylandWashington,81,51,37,36.5,21.9,67799,4904
+Massachusetts,Barnstable,MassachusettsBarnstable,108,45,35,23.7,43.4,97073,11055
+Massachusetts,Berkshire,MassachusettsBerkshire,94,52,36,29.4,33.6,56016,5629
+Massachusetts,Bristol,MassachusettsBristol,119,53,39,29.9,28.7,263456,30076
+Massachusetts,Dukes,MassachusettsDukes,126,45,37,23.6,44.9,8640,877
+Massachusetts,Essex,MassachusettsEssex,97,50,37,25.1,39.9,374075,40585
+Massachusetts,Franklin,MassachusettsFranklin,96,55,37,28.5,37.3,36565,2936
+Massachusetts,Hampden,MassachusettsHampden,99,55,39,30.7,27.1,197372,22887
+Massachusetts,Hampshire,MassachusettsHampshire,84,48,35,22.6,48.3,79477,6184
+Massachusetts,Middlesex,MassachusettsMiddlesex,93,48,36,19,56.3,818205,64193
+Massachusetts,Norfolk,MassachusettsNorfolk,71,43,32,19.2,53.6,348328,31733
+Massachusetts,Plymouth,MassachusettsPlymouth,80,51,37,27.8,37.6,250579,26154
+Massachusetts,Suffolk,MassachusettsSuffolk,84,51,37,22.1,46.1,403388,43170
+Massachusetts,Worcester,MassachusettsWorcester,90,52,38,27.8,36.4,394081,37924
+Minnesota,Anoka,MinnesotaAnoka,87,52,35,27.9,30.5,185714,12590
+Minnesota,Becker,MinnesotaBecker,101,46,32,31.6,25,17644,1173
+Minnesota,Beltrami,MinnesotaBeltrami,73,39,23,27.8,29.2,23306,1559
+Minnesota,Carlton,MinnesotaCarlton,84,42,24,32.1,22.1,16435,1280
+Minnesota,Cass,MinnesotaCass,75,35,17,32.3,23.2,12905,1301
+Minnesota,Cook,MinnesotaCook,53,21,10,24,40.4,2699,249
+Minnesota,Crow Wing,MinnesotaCrow,76,42,28,29.9,24.7,29954,2337
+Minnesota,Dakota,MinnesotaDakota,135,52,30,20.4,42.2,227375,15019
+Minnesota,Goodhue,MinnesotaGoodhue,87,46,35,32.8,26,25099,1560
+Minnesota,Hennepin,MinnesotaHennepin,156,57,38,16.4,50.1,663738,46532
+Minnesota,Lake,MinnesotaLake,71,42,30,30.9,28.8,4889,384
+Minnesota,Lake,MinnesotaLake,71,42,30,30.9,28.8,2292,150
+Minnesota,Lyon,MinnesotaLyon,80,48,32,31.7,26.1,13719,645
+Minnesota,Mille Lacs,MinnesotaMille,87,44,33,38.6,14.7,11847,1090
+Minnesota,Olmsted,MinnesotaOlmsted,111,52,35,19.9,44.9,86093,4937
+Minnesota,Ramsey,MinnesotaRamsey,160,54,30,20.9,42.3,270117,20064
+Minnesota,Scott,MinnesotaScott,121,49,32,22.2,39.9,78940,4957
+Minnesota,Stearns,MinnesotaStearns,80,47,33,28,27.5,85650,5213
+Minnesota,Washington,MinnesotaWashington,77,42,24,21,44.3,135509,8074
+Minnesota,Winona,MinnesotaWinona,52,27,16,27.2,30.1,26800,1393
+Minnesota,Wright,MinnesotaWright,112,51,34,29.4,29.6,71523,4198
+Mississippi,Bolivar,MississippiBolivar,85,56,39,24.9,23.6,10531,1006
+Mississippi,DeSoto,MississippiDeSoto,100,54,37,29.2,25,85029,5469
+Mississippi,Forrest,MississippiForrest,97,59,36,27.2,27.8,30328,2655
+Mississippi,Hancock,MississippiHancock,88,54,38,28.1,22,17106,1586
+Mississippi,Harrison,MississippiHarrison,101,60,42,29.1,23.1,79148,8262
+Mississippi,Hinds,MississippiHinds,114,62,44,25,29,94636,9755
+Mississippi,Jackson,MississippiJackson,84,55,39,31.2,21.1,52868,5567
+Mississippi,Lauderdale,MississippiLauderdale,50,42,31,27.5,19.7,27416,2222
+Mississippi,Lee,MississippiLee,54,45,35,25.9,24.4,37985,3362
+Mississippi,Yalobusha,MississippiYalobusha,51,42,31,40.2,13.8,4513,387
+Missouri,Andrew,MissouriAndrew,77,49,38,37.4,24.9,9355,394
+Missouri,Boone,MissouriBoone,93,44,33,21.3,46.1,92311,4070
+Missouri,Buchanan,MissouriBuchanan,126,53,33,37.8,21.1,41667,2160
+Missouri,Callaway,MissouriCallaway,87,45,35,36.1,23.1,20410,956
+Missouri,Cass,MissouriCass,105,49,36,33.9,26.3,51203,2876
+Missouri,Cedar,MissouriCedar,99,50,36,41.2,13.6,5478,256
+Missouri,Clay,MissouriClay,101,55,35,28.4,33.2,128194,8374
+Missouri,Clinton,MissouriClinton,87,48,37,40,21.6,9936,628
+Missouri,Franklin,MissouriFranklin,94,17,1,32.7,20.9,49396,3265
+Missouri,Greene,MissouriGreene,116,52,37,28,30.5,142704,8062
+Missouri,Iron,MissouriIron,100,47,17,41.4,10.8,3254,246
+Missouri,Jackson,MissouriJackson,157,60,40,28.3,31.6,334471,25742
+Missouri,Jasper,MissouriJasper,82,52,35,33.6,23.6,52968,3186
+Missouri,Jefferson,MissouriJefferson,141,54,38,31.6,20.4,109655,7119
+Missouri,Lincoln,MissouriLincoln,108,48,37,42.3,16.8,26926,1797
+Missouri,Monroe,MissouriMonroe,84,43,31,48.4,12.4,3564,225
+Missouri,New Madrid,MissouriNew,200,168,117,46.7,12.1,7991,492
+Missouri,Perry,MissouriPerry,97,47,36,43.3,17.7,9264,562
+Missouri,St. Louis City,MissouriSt.,155,67,46,24.6,38.9,212786,11735
+Missouri,St. Louis City,MissouriSt.,155,67,46,24.6,38.9,3534,230
+Missouri,St. Louis City,MissouriSt.,155,67,46,24.6,38.9,24562,1852
+Missouri,St. Louis City,MissouriSt.,155,67,46,24.6,38.9,491901,32820
+Missouri,St. Louis City,MissouriSt.,155,67,46,24.6,38.9,139334,12958
+Missouri,Stoddard,MissouriStoddard,62,36,18,41.5,13.3,12450,788
+Missouri,Taney,MissouriTaney,57,35,17,33.6,19.9,22866,3393
+Montana,Cascade,MontanaCascade,115,44,18,32.8,25.7,35561,2236
+Montana,Fergus,MontanaFergus,157,47,39,28.5,29.1,5578,266
+Montana,Flathead,MontanaFlathead,190,56,35,29.4,31,45499,3858
+Montana,Gallatin,MontanaGallatin,159,52,22,17.8,50.1,66898,3536
+Montana,Lake,MontanaLake,174,27,6,28.5,29.6,12815,844
+Montana,Lewis and Clark,MontanaLewis,164,55,40,23.6,40.1,34666,1813
+Montana,Lincoln,MontanaLincoln,327,71,40,37.3,19.6,7278,819
+Montana,Missoula,MontanaMissoula,176,83,47,21.7,43,60106,4017
+Montana,Phillips,MontanaPhillips,140,64,35,39.5,17.2,1798,93
+Montana,Powder River,MontanaPowder,157,66,40,29.7,24.4,946,30
+Montana,Powell,MontanaPowell,11,7,3,37.8,20.4,2819,137
+Montana,Ravalli,MontanaRavalli,176,54,11,30.4,27.8,19493,1191
+Montana,Richland,MontanaRichland,68,46,36,35.2,18.9,5556,382
+Montana,Roosevelt,MontanaRoosevelt,55,26,9,31.6,17.4,4185,266
+Montana,Rosebud,MontanaRosebud,153,48,37,30.7,17.8,3530,212
+Montana,Sanders,MontanaSanders,236,51,23,41.9,17.9,4691,395
+Montana,Sheridan,MontanaSheridan,53,20,10,32.1,23.9,1684,85
+Montana,Silver Bow,MontanaSilver,173,56,19,32,27.2,16153,1142
+Montana,Yellowstone,MontanaYellowstone,160,48,23,30.2,32.1,78676,4527
+Nebraska,Cass,NebraskaCass,71,32,14,29.9,27.7,12851,581
+Nebraska,Douglas,NebraskaDouglas,156,55,36,21.4,39.7,284846,15294
+Nebraska,Hall,NebraskaHall,85,43,20,31.3,21.5,30179,1851
+Nebraska,Knox,NebraskaKnox,84,48,35,33.8,21.6,4517,138
+Nebraska,Lancaster,NebraskaLancaster,74,45,30,21.5,39.5,169507,7499
+Nebraska,Sarpy,NebraskaSarpy,149,52,29,21.7,39.8,92833,3943
+Nebraska,Scotts Bluff,NebraskaScotts,122,55,27,28.7,22.9,17402,758
+Nebraska,Thomas,NebraskaThomas,71,29,11,22.8,24.7,403,17
+Nebraska,Washington,NebraskaWashington,72,42,23,31.6,29.9,10729,407
+Nevada,Carson City,NevadaCarson,192,67,41,26,22.2,23987,2143
+Nevada,Churchill,NevadaChurchill,147,50,40,31.6,18.8,10451,623
+Nevada,Clark,NevadaClark,174,93,61,28.5,24.5,958069,165513
+Nevada,Douglas,NevadaDouglas,249,60,17,24.4,29.4,20531,1934
+Nevada,Elko,NevadaElko,154,47,18,32.8,16.6,25264,1527
+Nevada,Lyon,NevadaLyon,331,59,38,32.8,14.4,21077,1968
+Nevada,Nye,NevadaNye,200,40,21,38.9,10.7,15889,1707
+Nevada,Washoe,NevadaWashoe,240,85,46,23.5,30.8,234544,19734
+Nevada,White Pine,NevadaWhite,136,61,44,41.5,13.2,4403,192
+New Jersey,Atlantic,New JerseyAtlantic,90,47,34,32,28.1,99546,21491
+New Jersey,Bergen,New JerseyBergen,119,58,39,22.7,49.3,432189,45703
+New Jersey,Camden,New JerseyCamden,87,58,40,29.5,32.5,230287,25761
+New Jersey,Cumberland,New JerseyCumberland,71,52,38,39.4,15.6,59148,7129
+New Jersey,Essex,New JerseyEssex,127,58,39,28,35.5,330269,43674
+New Jersey,Gloucester,New JerseyGloucester,101,49,36,32,33,137052,14028
+New Jersey,Hudson,New JerseyHudson,90,54,37,25.1,42.3,322277,38221
+New Jersey,Hunterdon,New JerseyHunterdon,85,52,38,21,52.7,58730,4565
+New Jersey,Mercer,New JerseyMercer,112,54,38,24.6,42.6,190150,15255
+New Jersey,Middlesex,New JerseyMiddlesex,112,53,37,25.3,43.6,398298,38031
+New Jersey,Monmouth,New JerseyMonmouth,93,48,37,23.4,46,298748,28964
+New Jersey,Morris,New JerseyMorris,84,47,35,20.1,54.1,232958,19630
+New Jersey,Ocean,New JerseyOcean,84,48,35,34,30,252016,26397
+New Jersey,Passaic,New JerseyPassaic,100,47,36,34.5,28.2,214293,30894
+New Jersey,Union,New JerseyUnion,111,56,38,28.6,36,248871,27340
+New Jersey,Warren,New JerseyWarren,100,50,34,30.6,33,50947,4723
+New Mexico,Bernalillo,New MexicoBernalillo,214,77,54,23.2,34.4,303820,26825
+New Mexico,Catron,New MexicoCatron,79,31,11,47.1,15.7,1075,84
+New Mexico,Chaves,New MexicoChaves,75,39,19,27.7,18,25832,2274
+New Mexico,Dona Ana,New MexicoDona,400,88,53,22.7,27.1,89080,8073
+New Mexico,Eddy,New MexicoEddy,115,80,46,36.6,16.2,31384,2316
+New Mexico,Lea,New MexicoLea,76,50,39,31.5,13.6,26281,3264
+New Mexico,Lincoln,New MexicoLincoln,51,29,13,29.9,25.8,8154,789
+New Mexico,Los Alamos,New MexicoLos,53,19,11,8.8,67.4,9603,371
+New Mexico,Luna,New MexicoLuna,360,40,19,34.4,12.5,8727,1645
+New Mexico,Rio Arriba,New MexicoRio,90,54,44,32.2,19.3,15455,1361
+New Mexico,San Juan,New MexicoSan,109,64,45,30.5,14.9,45321,5046
+New Mexico,San Juan,New MexicoSan,109,64,45,30.5,14.9,9646,870
+New Mexico,Sandoval,New MexicoSandoval,119,61,44,25.5,30.5,60627,5698
+New Mexico,Santa Fe,New MexicoSanta,101,58,44,22.3,41,65455,5891
+New Mexico,Socorro,New MexicoSocorro,49,28,12,37.4,22,5805,443
+New Mexico,Taos,New MexicoTaos,64,43,20,28.2,28.7,13238,1729
+New Mexico,Valencia,New MexicoValencia,105,61,44,33,18.5,27681,2486
+New York,Albany,New YorkAlbany,143,55,38,23,41.8,146027,11299
+New York,Bronx,New YorkBronx,108,61,39,27.9,20.1,494651,94436
+New York,Chautauqua,New YorkChautauqua,93,47,35,35.5,22.2,48027,4702
+New York,Dutchess,New YorkDutchess,87,44,33,26.8,35,131173,10888
+New York,Erie,New YorkErie,155,52,37,27.6,34.4,397536,41755
+New York,Essex,New YorkEssex,80,47,38,34.4,26.8,15174,1344
+New York,Hamilton,New YorkHamilton,54,44,34,27.2,16.8,1972,169
+New York,Jefferson,New YorkJefferson,90,44,33,34.7,22.2,39542,3753
+New York,Kings,New YorkKings,77,47,23,25.7,37.5,1006852,144278
+New York,Monroe,New YorkMonroe,80,52,36,23.4,38.6,328525,30774
+New York,Nassau,New YorkNassau,72,41,20,22.7,46,640035,58907
+New York,New York,New YorkNew,108,56,37,26,36.6,8361006,928165
+New York,New York,New YorkNew,108,56,37,26,36.6,777583,82035
+New York,Niagara,New YorkNiagara,87,46,34,33.2,24.6,87906,10199
+New York,Oneida,New YorkOneida,78,36,16,31.9,25.7,92473,8175
+New York,Onondaga,New YorkOnondaga,74,48,35,25.4,35.9,202037,18446
+New York,Orange,New YorkOrange,97,47,36,29.3,30.3,167957,15308
+New York,Oswego,New YorkOswego,58,44,33,37.5,19,47549,4660
+New York,Putnam,New YorkPutnam,64,44,32,27.1,39.6,46294,3785
+New York,Queens,New YorkQueens,140,61,38,27.5,32.2,961214,137723
+New York,Richmond,New YorkRichmond,108,52,36,30.4,33.9,188608,22456
+New York,Rockland,New YorkRockland,93,48,34,22.5,41.1,140547,12356
+New York,Saratoga,New YorkSaratoga,61,44,33,24.9,41.4,111029,7980
+New York,St. Lawrence,New YorkSt.,118,69,14,36.8,23.8,39353,3501
+New York,Steuben,New YorkSteuben,79,44,34,36.7,23.6,38592,3430
+New York,Suffolk,New YorkSuffolk,133,59,37,27.3,36.3,699613,64951
+New York,Tompkins,New YorkTompkins,64,44,34,19,53.5,44967,2962
+New York,Wayne,New YorkWayne,80,46,34,33.7,22.6,39749,3172
+New York,Westchester,New YorkWestchester,105,50,36,19.2,48.9,437772,40187
+North Carolina,Alexander,North CarolinaAlexander,54,45,33,38.7,14.2,16377,1317
+North Carolina,Avery,North CarolinaAvery,80,46,37,30.2,20.7,6825,462
+North Carolina,Beaufort,North CarolinaBeaufort,34,6,0,32.5,20.6,18159,1228
+North Carolina,Brunswick,North CarolinaBrunswick,100,34,0,27.9,29.9,47641,4605
+North Carolina,Buncombe,North CarolinaBuncombe,97,45,31,23.2,40.1,125114,11366
+North Carolina,Caldwell,North CarolinaCaldwell,50,44,31,32.5,15.7,32931,2823
+North Carolina,Carteret,North CarolinaCarteret,61,43,34,25.6,29.1,29373,1947
+North Carolina,Caswell,North CarolinaCaswell,61,44,31,33.6,15.9,8869,752
+North Carolina,Catawba,North CarolinaCatawba,94,53,31,30,22.6,71632,6220
+North Carolina,Cumberland,North CarolinaCumberland,81,49,35,25.9,25.5,114386,12001
+North Carolina,Davidson,North CarolinaDavidson,95,54,32,32.8,18.5,73311,5605
+North Carolina,Durham,North CarolinaDurham,97,49,35,17.7,48.2,159304,11118
+North Carolina,Edgecombe,North CarolinaEdgecombe,94,46,32,37.5,13.6,18511,2191
+North Carolina,Forsyth,North CarolinaForsyth,97,56,40,25.7,34,170449,13700
+North Carolina,Graham,North CarolinaGraham,97,49,40,36.3,12.9,2772,305
+North Carolina,Granville,North CarolinaGranville,51,46,36,30.6,22.5,27832,1734
+North Carolina,Guilford,North CarolinaGuilford,87,50,36,23.3,36,234933,22064
+North Carolina,Haywood,North CarolinaHaywood,93,50,35,26.4,26,26503,2160
+North Carolina,Hyde,North CarolinaHyde,53,30,16,38.7,9.2,1614,183
+North Carolina,Jackson,North CarolinaJackson,68,40,24,26.8,30.4,18286,1499
+North Carolina,Johnston,North CarolinaJohnston,72,49,36,27.8,22.9,92056,6241
+North Carolina,Lenoir,North CarolinaLenoir,58,45,32,31.9,14.9,25892,1708
+North Carolina,Lincoln,North CarolinaLincoln,71,45,35,31.1,23,40410,2852
+North Carolina,Macon,North CarolinaMacon,64,41,29,31,23.8,14416,1033
+North Carolina,Martin,North CarolinaMartin,49,41,30,33.9,16.4,8267,617
+North Carolina,Mecklenburg,North CarolinaMecklenburg,112,56,40,17,45.4,569616,47927
+North Carolina,Mitchell,North CarolinaMitchell,103,36,20,33,20.5,5427,459
+North Carolina,Montgomery,North CarolinaMontgomery,83,47,35,34.6,15.7,10573,755
+North Carolina,New Hanover,North CarolinaNew,74,45,31,21.3,40.6,112078,8761
+North Carolina,Northampton,North CarolinaNorthampton,88,42,22,38.5,13.8,6978,550
+North Carolina,Person,North CarolinaPerson,74,43,29,37.4,15.6,16766,1332
+North Carolina,Pitt,North CarolinaPitt,95,47,33,23.8,32.7,81504,5946
+North Carolina,Rockingham,North CarolinaRockingham,54,46,34,34.9,15.1,35723,3260
+North Carolina,Rowan,North CarolinaRowan,88,52,39,32.6,18.5,59909,5174
+North Carolina,Swain,North CarolinaSwain,119,47,33,30.6,18.2,6351,588
+North Carolina,Union,North CarolinaUnion,50,44,31,24.6,35.4,113926,7247
+North Carolina,Wake,North CarolinaWake,101,56,38,15.1,52.8,546490,37598
+North Carolina,Yancey,North CarolinaYancey,105,58,44,33.2,20.3,7649,540
+Ohio,Adams,OhioAdams,81,45,27,44.5,13.2,9968,1013
+Ohio,Allen,OhioAllen,105,52,36,38.8,18.9,44181,4122
+Ohio,Ashtabula,OhioAshtabula,93,44,31,44.6,14.3,40162,3645
+Ohio,Athens,OhioAthens,61,41,24,35.1,30.2,25214,1993
+Ohio,Belmont,OhioBelmont,66,30,12,42.4,16.7,25970,2918
+Ohio,Butler,OhioButler,126,61,40,32.9,30.2,180029,14048
+Ohio,Clark,OhioClark,108,57,40,37.9,18.7,57829,5116
+Ohio,Clermont,OhioClermont,100,50,35,32.4,28.6,98953,7284
+Ohio,Clinton,OhioClinton,97,54,39,39.1,18.9,16299,1479
+Ohio,Columbiana,OhioColumbiana,31,7,1,44.7,14.9,42928,4452
+Ohio,Cuyahoga,OhioCuyahoga,152,67,46,27.8,32.5,531193,61697
+Ohio,Delaware,OhioDelaware,101,50,38,18.3,54.3,105395,5957
+Ohio,Fayette,OhioFayette,80,49,35,45.9,16.3,12991,1032
+Ohio,Franklin,OhioFranklin,102,58,40,24.6,40,652631,52518
+Ohio,Gallia,OhioGallia,116,43,7,41.2,15.9,11253,976
+Ohio,Geauga,OhioGeauga,100,61,41,25.3,38,43210,3119
+Ohio,Greene,OhioGreene,93,51,39,24.5,39.2,77337,5303
+Ohio,Guernsey,OhioGuernsey,50,40,3,42.7,14.6,16708,1588
+Ohio,Hamilton,OhioHamilton,126,70,48,26.3,37.9,383560,32306
+Ohio,Hancock,OhioHancock,21,21,0,36,27.1,38943,2860
+Ohio,Harrison,OhioHarrison,49,23,1,47.9,11.6,6133,621
+Ohio,Jefferson,OhioJefferson,112,58,37,44.8,15.8,24721,2775
+Ohio,Knox,OhioKnox,80,49,38,39.8,23,29315,1929
+Ohio,Lake,OhioLake,140,59,37,31.8,27.4,110740,10136
+Ohio,Lawrence,OhioLawrence,77,51,35,43.9,14.9,21825,2024
+Ohio,Licking,OhioLicking,77,48,37,34.3,26.1,84753,5935
+Ohio,Lorain,OhioLorain,154,51,35,31,24.9,134333,14728
+Ohio,Lucas,OhioLucas,136,61,38,29.7,26.3,187666,21679
+Ohio,Madison,OhioMadison,84,51,39,41.6,17.5,19598,1236
+Ohio,Mahoning,OhioMahoning,142,54,38,37.6,24.2,90990,10298
+Ohio,Medina,OhioMedina,93,51,35,31,33.9,86254,7124
+Ohio,Miami,OhioMiami,93,49,39,36.6,23.3,50380,3783
+Ohio,Montgomery,OhioMontgomery,112,64,44,27.8,27.9,231691,21730
+Ohio,Morgan,OhioMorgan,96,9,1,43.9,10.2,6077,620
+Ohio,Noble,OhioNoble,87,47,36,47.9,9.9,4207,449
+Ohio,Portage,OhioPortage,101,55,39,36.6,29,79554,6229
+Ohio,Preble,OhioPreble,101,54,38,43.9,16.3,19757,1418
+Ohio,Scioto,OhioScioto,92,31,14,41.2,15.7,26808,2546
+Ohio,Stark,OhioStark,119,62,42,38.2,22.8,169291,14858
+Ohio,Summit,OhioSummit,114,59,39,30.2,32.5,248140,22267
+Ohio,Trumbull,OhioTrumbull,153,52,37,44.5,18.7,76338,8857
+Ohio,Warren,OhioWarren,115,59,39,25.8,43,111257,7581
+Ohio,Washington,OhioWashington,108,48,38,40.3,18.8,24633,2311
+Ohio,Wood,OhioWood,80,46,34,30.7,33.5,64533,4911
+Oklahoma,Adair,OklahomaAdair,151,49,33,46.6,11.6,7904,488
+Oklahoma,Canadian,OklahomaCanadian,84,49,36,29.8,27.4,71482,4544
+Oklahoma,Carter,OklahomaCarter,147,64,43,36.7,20.5,20051,1506
+Oklahoma,Cleveland,OklahomaCleveland,121,64,43,24.7,33.4,134700,7984
+Oklahoma,Comanche,OklahomaComanche,107,58,40,32.8,22.2,45028,3239
+Oklahoma,Creek,OklahomaCreek,93,47,35,40,17,29298,2029
+Oklahoma,Dewey,OklahomaDewey,99,57,39,41.5,24,2604,131
+Oklahoma,Garfield,OklahomaGarfield,72,11,0,36.2,22.9,25532,1475
+Oklahoma,Grant,OklahomaGrant,65,44,19,36.9,24.6,2694,92
+Oklahoma,Johnston,OklahomaJohnston,97,49,38,34.9,20.1,3465,288
+Oklahoma,Kay,OklahomaKay,113,58,42,32.4,18.9,17094,1220
+Oklahoma,Mayes,OklahomaMayes,51,44,31,39.5,14.3,18480,980
+Oklahoma,Muskogee,OklahomaMuskogee,27,6,0,34.4,20.4,27643,1778
+Oklahoma,Oklahoma,OklahomaOklahoma,112,67,45,31.3,25.5,1734924,113561
+Oklahoma,Oklahoma,OklahomaOklahoma,112,67,45,31.3,25.5,361100,24760
+Oklahoma,Osage,OklahomaOsage,90,49,36,38.1,18,19209,1320
+Oklahoma,Ottawa,OklahomaOttawa,154,60,37,36.3,14.5,13581,818
+Oklahoma,Pittsburg,OklahomaPittsburg,141,56,39,38.2,16.1,15489,1273
+Oklahoma,Sequoyah,OklahomaSequoyah,141,47,33,38.6,14.4,15431,1124
+Oklahoma,Tulsa,OklahomaTulsa,129,58,42,25.4,31.8,302728,21282
+Oklahoma,Washington,OklahomaWashington,101,56,40,34,28.5,21049,1311
+Oregon,Baker,OregonBaker,200,51,25,31.1,23.7,6763,522
+Oregon,Benton,OregonBenton,396,50,18,13.3,54.1,43645,2612
+Oregon,Clackamas,OregonClackamas,366,49,30,21.2,37.4,202243,15797
+Oregon,Columbia,OregonColumbia,268,40,25,33.8,18.5,22155,1906
+Oregon,Crook,OregonCrook,561,60,21,33.3,19.8,9417,911
+Oregon,Deschutes,OregonDeschutes,583,55,18,21.8,35.4,90211,7764
+Oregon,Douglas,OregonDouglas,518,57,22,32.3,17.3,43757,3658
+Oregon,Grant,OregonGrant,322,66,33,36,18.9,2944,267
+Oregon,Harney,OregonHarney,304,72,32,36.6,18.4,3454,216
+Oregon,Jackson,OregonJackson,517,70,40,26.1,27.8,96937,8210
+Oregon,Jefferson,OregonJefferson,595,59,21,30.7,19.4,9482,848
+Oregon,Josephine,OregonJosephine,472,73,26,31,17.5,33277,2847
+Oregon,Klamath,OregonKlamath,679,124,41,31,20,26957,2554
+Oregon,Lake,OregonLake,165,66,23,34.5,16.4,3441,206
+Oregon,Lane,OregonLane,550,75,40,23.2,30.5,164364,14103
+Oregon,Linn,OregonLinn,502,63,27,29,19.3,54251,4568
+Oregon,Marion,OregonMarion,641,58,32,26.6,23.5,151713,11304
+Oregon,Multnomah,OregonMultnomah,477,58,33,17,45.9,418070,39302
+Oregon,Umatilla,OregonUmatilla,463,55,35,28.5,17.2,34496,2505
+Oregon,Union,OregonUnion,288,48,20,32.2,24.5,11109,944
+Oregon,Wallowa,OregonWallowa,198,53,20,28.6,26.4,3227,246
+Oregon,Wasco,OregonWasco,417,45,18,29.1,19.6,12477,953
+Oregon,Washington,OregonWashington,416,56,31,17.4,44.4,300742,20837
+Pennsylvania,Adams,PennsylvaniaAdams,86,54,40,39.9,22.3,50293,3742
+Pennsylvania,Allegheny,PennsylvaniaAllegheny,128,79,47,27,41.6,578590,57367
+Pennsylvania,Armstrong,PennsylvaniaArmstrong,122,54,39,49,16.7,28377,3074
+Pennsylvania,Beaver,PennsylvaniaBeaver,142,62,42,36.8,24.7,74445,8518
+Pennsylvania,Berks,PennsylvaniaBerks,102,58,40,36.7,24.9,191443,20043
+Pennsylvania,Blair,PennsylvaniaBlair,87,54,38,45,21.3,54053,5152
+Pennsylvania,Bradford,PennsylvaniaBradford,81,48,37,47,18.7,25992,2107
+Pennsylvania,Bucks,PennsylvaniaBucks,115,46,33,28.2,41.3,310681,28120
+Pennsylvania,Cambria,PennsylvaniaCambria,89,56,38,45.4,21.1,50872,5363
+Pennsylvania,Centre,PennsylvaniaCentre,90,51,38,29.4,45.5,71955,4461
+Pennsylvania,Chester,PennsylvaniaChester,143,55,39,20.8,53,262061,18035
+Pennsylvania,Clearfield,PennsylvaniaClearfield,54,42,31,49.5,15.1,32307,3275
+Pennsylvania,Cumberland,PennsylvaniaCumberland,137,55,33,32,36.6,121949,8702
+Pennsylvania,Dauphin,PennsylvaniaDauphin,116,61,40,33.2,30.8,131661,12767
+Pennsylvania,Delaware,PennsylvaniaDelaware,129,64,43,30.2,39,267759,26947
+Pennsylvania,Elk,PennsylvaniaElk,67,44,34,48,19.6,13337,1871
+Pennsylvania,Erie,PennsylvaniaErie,87,49,34,38.5,27.9,114331,12418
+Pennsylvania,Fayette,PennsylvaniaFayette,100,51,37,48,17.3,49743,6594
+Pennsylvania,Franklin,PennsylvaniaFranklin,50,42,32,43.1,21.6,71308,5876
+Pennsylvania,Greene,PennsylvaniaGreene,101,49,36,46,17.6,14425,1556
+Pennsylvania,Indiana,PennsylvaniaIndiana,112,48,36,43.2,23,34238,3428
+Pennsylvania,Lackawanna,PennsylvaniaLackawanna,81,50,38,36.9,28.3,93870,9962
+Pennsylvania,Lancaster,PennsylvaniaLancaster,153,62,43,35.3,27.3,260618,21118
+Pennsylvania,Lawrence,PennsylvaniaLawrence,93,43,31,43.3,22.1,36080,4152
+Pennsylvania,Lebanon,PennsylvaniaLebanon,115,55,30,44,20.7,66060,5703
+Pennsylvania,Lehigh,PennsylvaniaLehigh,93,52,37,32.9,29.9,173080,18308
+Pennsylvania,Luzerne,PennsylvaniaLuzerne,54,43,31,39,22.9,140183,17091
+Pennsylvania,Lycoming,PennsylvaniaLycoming,109,51,37,38.9,23.4,50970,4913
+Pennsylvania,Mercer,PennsylvaniaMercer,105,54,38,43,22.8,43397,4651
+Pennsylvania,Monroe,PennsylvaniaMonroe,80,44,33,35.1,24.7,71996,9390
+Pennsylvania,Montgomery,PennsylvaniaMontgomery,99,56,38,23.6,49.3,412925,34036
+Pennsylvania,Northampton,PennsylvaniaNorthampton,117,54,38,34.5,30.3,144689,14239
+Pennsylvania,Philadelphia,PennsylvaniaPhiladelphia,119,59,41,32.6,29.7,634409,89529
+Pennsylvania,Somerset,PennsylvaniaSomerset,71,44,34,49.8,15.9,29567,3094
+Pennsylvania,Susquehanna,PennsylvaniaSusquehanna,71,40,23,45,18.6,18323,1451
+Pennsylvania,Tioga,PennsylvaniaTioga,79,47,37,45.3,19.1,17128,1703
+Pennsylvania,Warren,PennsylvaniaWarren,95,24,9,45.4,19.5,17163,1505
+Pennsylvania,Washington,PennsylvaniaWashington,100,58,41,37.3,30,95218,9871
+Pennsylvania,Westmoreland,PennsylvaniaWestmoreland,81,50,35,36.9,29.1,160646,16077
+Pennsylvania,Wyoming,PennsylvaniaWyoming,76,43,25,46.4,19.6,12144,1110
+Pennsylvania,York,PennsylvaniaYork,97,57,40,39.6,24.9,214165,18647
+Rhode Island,Kent,Rhode IslandKent,133,47,31,28,33.3,80562,7721
+Rhode Island,Providence,Rhode IslandProvidence,112,54,40,31,29,287648,32616
+Rhode Island,Washington,Rhode IslandWashington,154,49,32,22.8,46.1,60597,5139
+South Carolina,Aiken,South CarolinaAiken,71,44,32,32.8,26.4,71743,3788
+South Carolina,Anderson,South CarolinaAnderson,71,46,35,31.2,22.2,85475,5402
+South Carolina,Berkeley,South CarolinaBerkeley,51,43,31,29.4,25,99042,5874
+South Carolina,Charleston,South CarolinaCharleston,117,51,35,22.7,43.6,198552,13387
+South Carolina,Chesterfield,South CarolinaChesterfield,89,49,34,41.3,10.4,20511,1323
+South Carolina,Darlington,South CarolinaDarlington,49,42,32,35.1,18.4,28542,1979
+South Carolina,Edgefield,South CarolinaEdgefield,115,46,33,36.7,16.7,10247,552
+South Carolina,Florence,South CarolinaFlorence,95,42,28,32.9,23.6,63406,3744
+South Carolina,Greenville,South CarolinaGreenville,116,55,39,23.8,35.1,241371,14613
+South Carolina,Horry,South CarolinaHorry,50,44,32,32.5,23.6,134956,12741
+South Carolina,Lexington,South CarolinaLexington,111,48,29,28.2,30.4,143882,6557
+South Carolina,Oconee,South CarolinaOconee,0,0,0,29,25.8,33180,1876
+South Carolina,Richland,South CarolinaRichland,117,49,35,22.5,39.1,188057,11661
+South Carolina,Spartanburg,South CarolinaSpartanburg,112,54,40,29.3,24.5,148274,10427
+South Carolina,York,South CarolinaYork,92,47,35,25.1,33.3,135143,8747
+South Dakota,Brookings,South DakotaBrookings,87,55,38,25.2,40.3,17669,811
+South Dakota,Brown,South DakotaBrown,75,47,23,31.6,29.4,19678,904
+South Dakota,Codington,South DakotaCodington,101,53,36,36.5,21.5,14662,754
+South Dakota,Custer,South DakotaCuster,119,54,41,35,23.5,3834,243
+South Dakota,Hughes,South DakotaHughes,76,30,14,27.3,34.7,9574,335
+South Dakota,Jackson,South DakotaJackson,90,51,39,33.5,17.8,1155,52
+South Dakota,Meade,South DakotaMeade,84,47,38,28.7,27.2,13235,683
+South Dakota,Minnehaha,South DakotaMinnehaha,90,52,35,26.4,33.1,108033,5135
+South Dakota,Pennington,South DakotaPennington,91,62,31,27.5,31.5,54074,3020
+South Dakota,Union,South DakotaUnion,141,53,36,29.5,30.6,8088,434
+Tennessee,Anderson,TennesseeAnderson,64,46,35,32.9,23.3,32049,2311
+Tennessee,Blount,TennesseeBlount,92,51,38,34.6,24.2,59440,4065
+Tennessee,Claiborne,TennesseeClaiborne,51,44,32,38,16.1,11838,889
+Tennessee,Davidson,TennesseeDavidson,116,58,41,22.1,41.7,369787,32271
+Tennessee,DeKalb,TennesseeDeKalb,61,44,33,40.9,16.7,6957,694
+Tennessee,Dyer,TennesseeDyer,117,42,23,38.8,16.1,14603,1276
+Tennessee,Hamilton,TennesseeHamilton,151,55,40,26.9,32.2,169337,13015
+Tennessee,Jefferson,TennesseeJefferson,74,48,37,39.1,16.8,22853,1844
+Tennessee,Knox,TennesseeKnox,90,55,38,25.3,37.6,228282,14361
+Tennessee,Lawrence,TennesseeLawrence,72,37,20,44.3,14.3,17603,1489
+Tennessee,Loudon,TennesseeLoudon,97,49,34,32.4,26.4,22072,1500
+Tennessee,Madison,TennesseeMadison,108,42,25,35.3,25.6,45343,3685
+Tennessee,Maury,TennesseeMaury,91,42,22,35.7,23,45854,4061
+Tennessee,McMinn,TennesseeMcMinn,88,47,28,40.4,16.2,21579,1814
+Tennessee,Montgomery,TennesseeMontgomery,116,44,26,28.5,28.5,79666,6568
+Tennessee,Putnam,TennesseePutnam,105,40,23,36.5,26.4,32661,2309
+Tennessee,Roane,TennesseeRoane,91,46,26,36.3,19.8,21508,1513
+Tennessee,Sevier,TennesseeSevier,105,49,40,37.2,17.4,48540,5181
+Tennessee,Shelby,TennesseeShelby,152,61,44,27.5,31.6,404507,43262
+Tennessee,Sullivan,TennesseeSullivan,109,54,37,34.7,23.6,64370,4982
+Tennessee,Sumner,TennesseeSumner,121,52,37,30.9,28.1,95424,6645
+Tennessee,Williamson,TennesseeWilliamson,71,47,37,13.3,59.8,120874,6123
+Tennessee,Wilson,TennesseeWilson,64,45,33,29,32.4,71882,4812
+Texas,Atascosa,TexasAtascosa,156,60,29,38.7,14.4,19979,1843
+Texas,Bell,TexasBell,135,61,40,26,25.2,134459,10099
+Texas,Bexar,TexasBexar,158,77,49,25.4,28,871017,71110
+Texas,Bowie,TexasBowie,127,56,36,34.8,20.6,35891,2864
+Texas,Brazoria,TexasBrazoria,182,51,33,25.5,30,162442,15267
+Texas,Brazos,TexasBrazos,99,52,30,19.2,41.7,110366,6233
+Texas,Brewster,TexasBrewster,80,50,40,21.3,40,3811,272
+Texas,Cameron,TexasCameron,176,70,43,26.4,17.3,151855,17219
+Texas,Collin,TexasCollin,154,54,37,15,52.3,534617,36006
+Texas,Culberson,TexasCulberson,112,80,47,35,10.2,1075,75
+Texas,Dallas,TexasDallas,135,67,42,22.6,31.5,1251192,103841
+Texas,Denton,TexasDenton,142,71,40,17.8,45.1,471296,32666
+Texas,Ector,TexasEctor,95,51,27,30.3,15.4,73736,9116
+Texas,El Paso,TexasEl,192,84,54,23.7,23.3,333991,30094
+Texas,Ellis,TexasEllis,125,58,39,27.7,24.3,87937,5641
+Texas,Freestone,TexasFreestone,10,1,0,33.2,15.3,5820,528
+Texas,Galveston,TexasGalveston,143,62,40,24.9,31.1,150218,14390
+Texas,Gregg,TexasGregg,86,46,32,28.2,21.3,51883,4682
+Texas,Harris,TexasHarris,179,80,50,23.4,31.5,2088449,204310
+Texas,Harrison,TexasHarrison,100,52,36,34,19.1,26843,2290
+Texas,Hidalgo,TexasHidalgo,155,65,37,23.5,18.7,318076,41893
+Texas,Hood,TexasHood,100,48,33,30,26.4,25745,1833
+Texas,Howard,TexasHoward,200,71,9,33.7,12.6,12409,1093
+Texas,Hunt,TexasHunt,87,45,32,34,19.9,40659,2847
+Texas,Hutchinson,TexasHutchinson,156,113,16,34.4,14,7926,613
+Texas,Jefferson,TexasJefferson,122,63,41,31.9,19.7,93022,12570
+Texas,Johnson,TexasJohnson,105,50,34,35.9,18.7,77541,5390
+Texas,Karnes,TexasKarnes,32,17,6,36.9,15.3,6567,440
+Texas,Kaufman,TexasKaufman,134,56,37,32.4,20.5,62886,4377
+Texas,Kleberg,TexasKleberg,168,66,35,26.7,24.6,12277,1125
+Texas,Lubbock,TexasLubbock,81,40,20,25.6,30.1,147629,8996
+Texas,Maverick,TexasMaverick,160,56,27,22.6,12.7,20821,3673
+Texas,McLennan,TexasMcLennan,97,50,38,27,24.2,112937,7410
+Texas,Milam,TexasMilam,3,1,0,38.1,14.1,9054,696
+Texas,Montgomery,TexasMontgomery,129,62,40,22.8,34.5,263501,21493
+Texas,Navarro,TexasNavarro,153,68,40,29,15.9,21803,1442
+Texas,Nueces,TexasNueces,159,64,40,29.3,21.8,149232,14688
+Texas,Orange,TexasOrange,103,62,41,37.2,15.5,32241,3786
+Texas,Parker,TexasParker,115,50,35,28.8,26.4,64129,4012
+Texas,Polk,TexasPolk,71,43,31,39.5,13.1,16755,1602
+Texas,Potter,TexasPotter,138,67,22,32,14.9,51189,2961
+Texas,Randall,TexasRandall,90,64,42,22.8,32.4,69134,3246
+Texas,Robertson,TexasRobertson,29,1,0,35.5,16.1,6875,470
+Texas,Rockwall,TexasRockwall,133,45,32,18.7,40.7,50009,3200
+Texas,Rusk,TexasRusk,120,44,3,31.8,15.5,20508,1619
+Texas,Smith,TexasSmith,84,46,33,23.4,26.4,101201,7343
+Texas,Tarrant,TexasTarrant,159,77,45,24,32.3,1003269,79553
+Texas,Titus,TexasTitus,36,7,0,33.4,16.3,12412,891
+Texas,Travis,TexasTravis,153,63,44,16.5,50,694433,46579
+Texas,Victoria,TexasVictoria,100,47,31,30.8,20,37761,3411
+Texas,Webb,TexasWebb,160,65,41,25.3,18.9,106376,9819
+Texas,Wilson,TexasWilson,34,18,7,36.1,21.8,23077,1396
+Utah,Box Elder,UtahBox,147,51,40,31,23.9,25272,1152
+Utah,Cache,UtahCache,159,71,44,20.2,38.3,63497,1910
+Utah,Carbon,UtahCarbon,93,51,43,27.1,17.1,8130,445
+Utah,Davis,UtahDavis,155,77,44,21.2,37.8,168737,7168
+Utah,Duchesne,UtahDuchesne,125,64,45,36.7,14.7,7179,603
+Utah,Garfield,UtahGarfield,74,50,42,36.2,25.9,2365,269
+Utah,Iron,UtahIron,86,50,40,23.6,29.8,23879,1115
+Utah,Salt Lake,UtahSalt,194,87,50,22.6,35.6,609766,32591
+Utah,San Juan,UtahSan,108,54,43,32.2,18.3,4903,554
+Utah,Tooele,UtahTooele,159,67,42,29.3,24.2,33417,1667
+Utah,Uintah,UtahUintah,119,65,45,34.9,15.8,12157,1228
+Utah,Utah,UtahUtah,150,77,45,22.8,34,1555782,76433
+Utah,Utah,UtahUtah,150,77,45,22.8,34,302248,11774
+Utah,Washington,UtahWashington,112,61,44,23.4,28.1,75007,4201
+Utah,Wayne,UtahWayne,66,31,8,24.6,23.4,1320,108
+Utah,Weber,UtahWeber,140,71,44,29.6,24.5,123697,6210
+Vermont,Bennington,VermontBennington,70,45,35,29.1,36.2,16004,1128
+Vermont,Chittenden,VermontChittenden,98,47,36,19,51.3,88659,4451
+Vermont,Rutland,VermontRutland,96,51,37,34.4,30.8,27352,2031
+Vermont,Windham,VermontWindham,31,19,9,29.5,38.1,19687,1327
+Virginia,Albemarle,VirginiaAlbemarle,66,47,35,15.8,55.1,52792,3002
+Virginia,Arlington,VirginiaArlington,90,46,33,7.8,75.3,144307,6773
+Virginia,Botetourt,VirginiaBotetourt,69,20,3,32.3,28.3,16363,777
+Virginia,Bristol City,VirginiaBristol,55,43,24,29.7,25.4,6750,566
+Virginia,Caroline,VirginiaCaroline,64,45,34,37.7,19.9,13995,1009
+Virginia,Carroll,VirginiaCarroll,15,12,7,36,15,12078,1075
+Virginia,Charles,VirginiaCharles,67,44,31,38.3,14.7,3375,235
+Virginia,Chesterfield,VirginiaChesterfield,61,44,32,23.6,40.5,175116,10971
+Virginia,Covington City,VirginiaCovington,84,33,10,44.4,15.6,2181,231
+Virginia,Fairfax,VirginiaFairfax,100,54,38,12.8,61.6,591882,36515
+Virginia,Fairfax,VirginiaFairfax,100,54,38,12.8,61.6,12304,734
+Virginia,Fauquier,VirginiaFauquier,61,42,31,26.6,36.4,35091,1721
+Virginia,Frederick,VirginiaFrederick,78,45,35,32.4,28.3,46376,2260
+Virginia,Giles,VirginiaGiles,200,61,37,38.7,18.1,7255,484
+Virginia,Hampton City,VirginiaHampton,64,45,34,29.1,26.9,59090,5514
+Virginia,Hanover,VirginiaHanover,64,45,34,25.5,39.8,55136,2798
+Virginia,Henrico,VirginiaHenrico,71,48,36,21.2,43.7,168617,11704
+Virginia,Hopewell City,VirginiaHopewell,15,13,6,36.7,14.8,8758,1053
+Virginia,Loudoun,VirginiaLoudoun,108,45,33,12.4,61.3,211258,11936
+Virginia,Lynchburg City,VirginiaLynchburg,54,38,21,25.2,35.6,33405,2610
+Virginia,Madison,VirginiaMadison,54,45,37,36.3,23.4,7026,280
+Virginia,Norfolk City,VirginiaNorfolk,60,31,17,25.6,28.8,102074,9751
+Virginia,Prince Edward,VirginiaPrince,49,42,30,34.1,26.8,9415,652
+Virginia,Prince Edward,VirginiaPrince,49,42,30,34.1,26.8,13928,969
+Virginia,Prince Edward,VirginiaPrince,49,42,30,34.1,26.8,229901,16028
+Virginia,Richmond City,VirginiaRichmond,77,44,29,35.4,17.7,3851,197
+Virginia,Richmond City,VirginiaRichmond,77,44,29,35.4,17.7,109370,10592
+Virginia,Roanoke,VirginiaRoanoke,69,48,35,25,35.6,46231,2489
+Virginia,Roanoke,VirginiaRoanoke,69,48,35,25,35.6,45388,3786
+Virginia,Rockbridge,VirginiaRockbridge,49,42,31,33.7,26.7,9892,575
+Virginia,Rockingham,VirginiaRockingham,74,44,32,35.1,26.3,39573,1952
+Virginia,Salem City,VirginiaSalem,66,42,23,29,27.9,11938,733
+Virginia,Stafford,VirginiaStafford,84,44,32,22.9,39.9,68242,4099
+Virginia,Suffolk City,VirginiaSuffolk,67,44,36,27.1,29.5,41643,2903
+Virginia,Virginia Beach City,VirginiaVirginia,71,45,23,24,38.8,4075237,271407
+Virginia,Virginia Beach City,VirginiaVirginia,71,45,23,24,38.8,215991,14331
+Virginia,Winchester City,VirginiaWinchester,18,12,6,24.6,35.1,14041,871
+Virginia,Wythe,VirginiaWythe,61,45,34,37.9,19,12760,1067
+Washington,Adams,WashingtonAdams,241,33,13,28.7,14.3,8584,677
+Washington,Asotin,WashingtonAsotin,289,62,29,28,21.4,9845,538
+Washington,Benton,WashingtonBenton,908,54,33,24.5,30.9,94682,8461
+Washington,Chelan,WashingtonChelan,489,54,21,26.4,25.8,40497,3693
+Washington,Clallam,WashingtonClallam,309,47,33,26.3,27.4,26303,2977
+Washington,Clark,WashingtonClark,509,58,27,24.2,30.6,221896,20682
+Washington,Columbia,WashingtonColumbia,233,41,18,21.7,25.6,1599,125
+Washington,Cowlitz,WashingtonCowlitz,257,38,16,30.6,17,43999,4523
+Washington,Franklin,WashingtonFranklin,260,34,14,25.5,17.7,38664,3833
+Washington,Garfield,WashingtonGarfield,228,36,15,27.9,24.5,750,69
+Washington,Grant,WashingtonGrant,283,39,16,27.2,17.7,43247,4195
+Washington,Grays Harbor,WashingtonGrays,218,38,20,34,16.5,25653,3402
+Washington,Jefferson,WashingtonJefferson,208,33,18,20.7,44.3,11850,1231
+Washington,King,WashingtonKing,275,62,36,15,52.5,1190168,96440
+Washington,Kitsap,WashingtonKitsap,221,38,18,22.2,33.2,119140,9952
+Washington,Kittitas,WashingtonKittitas,459,54,18,24.9,32.3,20087,1998
+Washington,Klickitat,WashingtonKlickitat,669,39,17,24.8,31.5,9002,808
+Washington,Lewis,WashingtonLewis,233,34,19,29.1,17.7,31819,3284
+Washington,Mason,WashingtonMason,324,41,18,31.2,17.6,23009,2508
+Washington,Okanogan,WashingtonOkanogan,423,71,35,30.3,20,17822,1759
+Washington,Pend Oreille,WashingtonPend,59,53,35,31,20.8,4428,530
+Washington,Pierce,WashingtonPierce,231,62,40,27.2,27.2,406822,43374
+Washington,Skagit,WashingtonSkagit,52,31,16,26.3,26.2,56374,6124
+Washington,Snohomish,WashingtonSnohomish,225,64,30,23.3,32.8,403863,37293
+Washington,Spokane,WashingtonSpokane,479,52,33,23.2,30.8,234789,22519
+Washington,Stevens,WashingtonStevens,536,63,32,34.5,18.7,16799,1746
+Washington,Thurston,WashingtonThurston,217,44,25,21.3,35.7,132365,11947
+Washington,Walla Walla,WashingtonWalla,819,50,22,19.8,29.8,28096,2069
+Washington,Whatcom,WashingtonWhatcom,212,60,29,23.4,34.3,103992,10724
+Washington,Whitman,WashingtonWhitman,212,35,15,15.9,49.8,20683,1301
+Washington,Yakima,WashingtonYakima,465,76,35,28.1,16.7,118071,12688
+West Virginia,Berkeley,West VirginiaBerkeley,95,48,36,37.6,21.2,54709,3628
+West Virginia,Brooke,West VirginiaBrooke,94,48,20,40.9,19,9012,889
+West Virginia,Cabell,West VirginiaCabell,100,47,36,33.3,26,38604,3342
+West Virginia,Gilmer,West VirginiaGilmer,49,41,29,44.7,17,2106,236
+West Virginia,Greenbrier,West VirginiaGreenbrier,54,44,34,37.8,19.9,14416,1264
+West Virginia,Hancock,West VirginiaHancock,133,49,32,41.9,17.4,11814,1317
+West Virginia,Harrison,West VirginiaHarrison,78,43,26,38.6,23.3,31381,2709
+West Virginia,Kanawha,West VirginiaKanawha,84,48,37,37.1,25.5,75431,7369
+West Virginia,Marion,West VirginiaMarion,67,47,26,40.7,22.6,23168,2195
+West Virginia,Marshall,West VirginiaMarshall,68,37,6,44.5,18,12260,1350
+West Virginia,Mason,West VirginiaMason,113,29,1,45.5,14.4,9479,877
+West Virginia,Mineral,West VirginiaMineral,3,1,1,49.2,15.5,11323,926
+West Virginia,Monongalia,West VirginiaMonongalia,90,46,33,27.2,42.8,51146,3467
+West Virginia,Ohio,West VirginiaOhio,101,51,38,34.2,32,18715,1724
+West Virginia,Tucker,West VirginiaTucker,51,44,33,46.8,19.4,3013,279
+West Virginia,Wood,West VirginiaWood,80,45,32,34.4,21.9,33221,3224
+Wisconsin,Ashland,WisconsinAshland,71,43,32,37,19.8,7035,651
+Wisconsin,Brown,WisconsinBrown,119,55,35,29.9,30.3,132013,8441
+Wisconsin,Columbia,WisconsinColumbia,115,48,38,33.7,23.3,29438,1843
+Wisconsin,Dane,WisconsinDane,112,59,39,17.8,51.4,304154,15279
+Wisconsin,Dodge,WisconsinDodge,136,56,38,40.9,17,44729,2484
+Wisconsin,Door,WisconsinDoor,150,51,36,30.3,33.7,13886,1019
+Wisconsin,Eau Claire,WisconsinEau,93,54,37,25,32.3,55064,3235
+Wisconsin,Fond du Lac,WisconsinFond,115,46,36,36.1,23.1,52828,3286
+Wisconsin,Forest,WisconsinForest,93,47,35,39.2,14.7,3407,483
+Wisconsin,Grant,WisconsinGrant,82,55,30,35.1,23.8,25875,1436
+Wisconsin,Jefferson,WisconsinJefferson,136,51,38,33.4,25.4,42762,2451
+Wisconsin,Kenosha,WisconsinKenosha,197,67,40,30.1,26.1,82200,6299
+Wisconsin,Kewaunee,WisconsinKewaunee,97,47,34,39.9,19.4,10172,489
+Wisconsin,La Crosse,WisconsinLa,93,54,37,25.4,34.9,61467,3515
+Wisconsin,Manitowoc,WisconsinManitowoc,136,58,36,38.6,20.2,37911,2508
+Wisconsin,Marathon,WisconsinMarathon,74,45,31,34.3,25.4,68711,3602
+Wisconsin,Milwaukee,WisconsinMilwaukee,169,67,40,28.4,31,425483,37937
+Wisconsin,Oneida,WisconsinOneida,72,11,0,32,27.2,16508,1292
+Wisconsin,Outagamie,WisconsinOutagamie,126,59,37,31.7,29.7,97137,5649
+Wisconsin,Ozaukee,WisconsinOzaukee,164,59,35,20,49,45366,2597
+Wisconsin,Racine,WisconsinRacine,172,67,38,31.6,25.2,90104,7051
+Wisconsin,Rock,WisconsinRock,105,49,38,36.1,22.1,78908,6027
+Wisconsin,Sauk,WisconsinSauk,112,54,36,33.9,24.1,31770,2585
+Wisconsin,Sheboygan,WisconsinSheboygan,159,74,39,35.9,25.1,57996,3514
+Wisconsin,Taylor,WisconsinTaylor,78,49,35,43.4,15.1,10372,533
+Wisconsin,Vilas,WisconsinVilas,84,46,30,30,29.1,9480,741
+Wisconsin,Walworth,WisconsinWalworth,136,50,39,31.3,28.8,52906,3416
+Wisconsin,Waukesha,WisconsinWaukesha,129,60,39,22.7,44.5,208246,12252
+Wyoming,Albany,WyomingAlbany,177,71,46,14.7,51.8,18946,780
+Wyoming,Big Horn,WyomingBig,126,46,38,29.1,19,5112,269
+Wyoming,Campbell,WyomingCampbell,124,68,44,35.6,18.9,21822,1617
+Wyoming,Carbon,WyomingCarbon,82,25,9,38.2,20.6,7743,368
+Wyoming,Converse,WyomingConverse,129,60,42,39,17.3,7677,486
+Wyoming,Fremont,WyomingFremont,158,58,45,29.7,24.3,18120,1206
+Wyoming,Johnson,WyomingJohnson,93,50,40,26.8,31.7,3960,232
+Wyoming,Laramie,WyomingLaramie,157,54,39,25.8,28.5,48231,2595
+Wyoming,Lincoln,WyomingLincoln,71,34,15,31.8,23.7,8907,466
+Wyoming,Natrona,WyomingNatrona,124,52,41,30.3,22.8,37529,3181
+Wyoming,Park,WyomingPark,113,30,11,25.8,34,14549,831
+Wyoming,Platte,WyomingPlatte,283,50,19,38.3,20.7,4418,233
+Wyoming,Sheridan,WyomingSheridan,100,47,39,25.6,31,15409,801
+Wyoming,Sublette,WyomingSublette,151,61,44,34.6,22.8,3765,294
+Wyoming,Sweetwater,WyomingSweetwater,1250,76,46,33,22.5,19308,1532
+Wyoming,Teton,WyomingTeton,161,54,42,14.9,57,14292,912
+Wyoming,Uinta,WyomingUinta,122,51,40,41.5,16,8730,582
+Wyoming,Weston,WyomingWeston,119,49,40,37.4,20,3688,148
