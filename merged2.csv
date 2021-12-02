@@ -1,0 +1,976 @@
+,Unnamed: 0_x,State_x,County,Abbreviation,Year,Max AQI,90th Percentile AQI,Median AQI,"Percent of adults with a high school diploma only, 2015-19","Percent of adults with a bachelor's degree or higher, 2015-19",Unnamed: 0_y,State_y,Area_name,First Word of Each County,Abbreivation,# Employed,# Unemployed
+0,0,Alabama,Baldwin,AlabamaBaldwin,2020,74,49,36,27.7,31.9,3,Alabama,"Baldwin County, AL",Baldwin,AlabamaBaldwin,91338,5425
+1,1,Alabama,Russell,AlabamaRussell,2020,99,56,36,31.4,17.8,58,Alabama,"Russell County, AL",Russell,AlabamaRussell,22290,1210
+2,2,Alabama,Shelby,AlabamaShelby,2020,71,46,28,19.8,42.9,60,Alabama,"Shelby County, AL",Shelby,AlabamaShelby,109646,4402
+3,3,Alabama,Sumter,AlabamaSumter,2020,70,43,29,35.4,21.6,61,Alabama,"Sumter County, AL",Sumter,AlabamaSumter,4414,331
+4,4,Alabama,Tuscaloosa,AlabamaTuscaloosa,2020,97,45,31,29.9,30.7,64,Alabama,"Tuscaloosa County, AL",Tuscaloosa,AlabamaTuscaloosa,95473,6749
+5,8,Alaska,Denali ,AlaskaDenali,2020,54,42,33,26.0,41.1,75,Alaska,"Denali Borough, AK",Denali,AlaskaDenali,573,107
+6,9,Alaska,Fairbanks North Star ,AlaskaFairbanks,2020,170,106,33,22.6,31.4,77,Alaska,"Fairbanks North Star Borough, AK",Fairbanks,AlaskaFairbanks,41838,2841
+7,10,Alaska,Juneau ,AlaskaJuneau,2020,101,40,14,21.6,38.4,80,Alaska,"Juneau Borough/city, AK",Juneau,AlaskaJuneau,15293,1081
+8,11,Alaska,Kenai Peninsula ,AlaskaKenai,2020,43,15,8,31.2,24.6,81,Alaska,"Kenai Peninsula Borough, AK",Kenai,AlaskaKenai,23948,2393
+9,12,Alaska,Matanuska-Susitna ,AlaskaMatanuska-Susitna,2020,103,45,14,33.1,21.6,86,Alaska,"Matanuska-Susitna Borough, AK",Matanuska-Susitna,AlaskaMatanuska-Susitna,43858,3990
+10,13,Alaska,North Slope ,AlaskaNorth,2020,36,12,5,43.0,16.5,88,Alaska,"North Slope Borough, AK",North,AlaskaNorth,3011,189
+11,14,Arizona,Apache,ArizonaApache,2020,58,29,14,32.2,12.3,100,Arizona,"Apache County, AZ",Apache,ArizonaApache,17614,2581
+12,15,Arizona,Cochise,ArizonaCochise,2020,108,61,45,24.1,23.1,101,Arizona,"Cochise County, AZ",Cochise,ArizonaCochise,48368,3627
+13,16,Arizona,Coconino,ArizonaCoconino,2020,93,54,44,22.0,36.2,102,Arizona,"Coconino County, AZ",Coconino,ArizonaCoconino,67985,7295
+14,17,Arizona,Gila,ArizonaGila,2020,174,77,47,27.9,18.7,103,Arizona,"Gila County, AZ",Gila,ArizonaGila,19387,1621
+15,18,Arizona,La Paz,ArizonaLa,2020,125,58,44,31.1,12.0,106,Arizona,"La Paz County, AZ",La,ArizonaLa,8343,636
+16,19,Arizona,Maricopa,ArizonaMaricopa,2020,282,215,112,22.4,32.7,107,Arizona,"Maricopa County, AZ",Maricopa,ArizonaMaricopa,2159267,172361
+17,20,Arizona,Mohave,ArizonaMohave,2020,116,34,18,35.3,12.9,108,Arizona,"Mohave County, AZ",Mohave,ArizonaMohave,79889,8854
+18,21,Arizona,Navajo,ArizonaNavajo,2020,136,54,43,30.3,15.3,109,Arizona,"Navajo County, AZ",Navajo,ArizonaNavajo,36322,4097
+19,22,Arizona,Pima,ArizonaPima,2020,277,77,53,22.2,32.4,110,Arizona,"Pima County, AZ",Pima,ArizonaPima,457683,38308
+20,23,Arizona,Pinal,ArizonaPinal,2020,1124,119,72,29.3,19.5,111,Arizona,"Pinal County, AZ",Pinal,ArizonaPinal,176674,14400
+21,24,Arizona,Santa Cruz,ArizonaSanta,2020,165,69,34,28.7,20.4,112,Arizona,"Santa Cruz County, AZ",Santa,ArizonaSanta,17209,2220
+22,25,Arizona,Yavapai,ArizonaYavapai,2020,119,61,45,25.8,25.9,113,Arizona,"Yavapai County, AZ",Yavapai,ArizonaYavapai,98978,8007
+23,26,Arizona,Yuma,ArizonaYuma,2020,321,69,44,25.7,15.0,114,Arizona,"Yuma County, AZ",Yuma,ArizonaYuma,81310,16810
+24,27,Arkansas,Arkansas,ArkansasArkansas,2020,82,50,27,34.0,23.0,115,Arkansas,Arkansas,Arkansas,ArkansasArkansas,1272344,81952
+25,27,Arkansas,Arkansas,ArkansasArkansas,2020,82,50,27,34.0,23.0,116,Arkansas,"Arkansas County, AR",Arkansas,ArkansasArkansas,9044,378
+26,28,Arkansas,Ashley,ArkansasAshley,2020,89,49,28,43.7,12.3,117,Arkansas,"Ashley County, AR",Ashley,ArkansasAshley,6518,668
+27,29,Arkansas,Clark,ArkansasClark,2020,67,40,29,30.2,26.6,125,Arkansas,"Clark County, AR",Clark,ArkansasClark,8765,549
+28,30,Arkansas,Crittenden,ArkansasCrittenden,2020,115,54,38,34.8,17.4,133,Arkansas,"Crittenden County, AR",Crittenden,ArkansasCrittenden,19459,1750
+29,31,Arkansas,Garland,ArkansasGarland,2020,83,53,29,31.4,21.6,141,Arkansas,"Garland County, AR",Garland,ArkansasGarland,38052,3295
+30,32,Arkansas,Jackson,ArkansasJackson,2020,77,51,26,42.5,10.1,149,Arkansas,"Jackson County, AR",Jackson,ArkansasJackson,5444,419
+31,33,Arkansas,Newton,ArkansasNewton,2020,84,45,35,35.4,20.5,166,Arkansas,"Newton County, AR",Newton,ArkansasNewton,3084,162
+32,34,Arkansas,Polk,ArkansasPolk,2020,84,47,36,36.5,14.1,172,Arkansas,"Polk County, AR",Polk,ArkansasPolk,7482,531
+33,35,Arkansas,Pulaski,ArkansasPulaski,2020,132,59,42,26.0,34.3,175,Arkansas,"Pulaski County, AR",Pulaski,ArkansasPulaski,174884,14044
+34,36,Arkansas,Union,ArkansasUnion,2020,89,52,34,35.5,21.1,185,Arkansas,"Union County, AR",Union,ArkansasUnion,14325,1297
+35,37,Arkansas,Washington,ArkansasWashington,2020,150,52,39,25.7,33.3,187,Arkansas,"Washington County, AR",Washington,ArkansasWashington,120346,5795
+36,38,California,Alameda,CaliforniaAlameda,2020,218,79,43,17.6,47.4,192,California,"Alameda County, CA",Alameda,CaliforniaAlameda,742411,71396
+37,39,California,Amador,CaliforniaAmador,2020,156,50,37,27.5,19.3,194,California,"Amador County, CA",Amador,CaliforniaAmador,13107,1317
+38,40,California,Butte,CaliforniaButte,2020,379,110,51,22.5,27.2,195,California,"Butte County, CA",Butte,CaliforniaButte,84095,8509
+39,41,California,Calaveras,CaliforniaCalaveras,2020,192,77,44,28.0,18.3,196,California,"Calaveras County, CA",Calaveras,CaliforniaCalaveras,19588,1619
+40,42,California,Colusa,CaliforniaColusa,2020,198,86,38,26.2,15.0,197,California,"Colusa County, CA",Colusa,CaliforniaColusa,8824,1675
+41,43,California,Contra Costa,CaliforniaContra,2020,197,74,41,17.3,42.4,198,California,"Contra Costa County, CA",Contra,CaliforniaContra,493236,48020
+42,44,California,Del Norte,CaliforniaDel,2020,220,55,32,31.0,14.8,199,California,"Del Norte County, CA",Del,CaliforniaDel,8466,884
+43,45,California,El Dorado,CaliforniaEl,2020,190,90,43,21.3,34.3,200,California,"El Dorado County, CA",El,CaliforniaEl,83262,7490
+44,46,California,Fresno,CaliforniaFresno,2020,298,153,74,22.7,21.2,201,California,"Fresno County, CA",Fresno,CaliforniaFresno,395258,50260
+45,47,California,Glenn,CaliforniaGlenn,2020,197,82,43,27.2,14.2,202,California,"Glenn County, CA",Glenn,CaliforniaGlenn,11455,1113
+46,48,California,Humboldt,CaliforniaHumboldt,2020,109,44,29,22.2,30.4,203,California,"Humboldt County, CA",Humboldt,CaliforniaHumboldt,54446,4965
+47,49,California,Imperial,CaliforniaImperial,2020,166,97,58,24.3,15.2,204,California,"Imperial County, CA",Imperial,CaliforniaImperial,53949,15653
+48,50,California,Inyo,CaliforniaInyo,2020,684,130,52,28.6,27.2,205,California,"Inyo County, CA",Inyo,CaliforniaInyo,7658,647
+49,51,California,Kern,CaliforniaKern,2020,267,140,81,27.8,16.4,206,California,"Kern County, CA",Kern,CaliforniaKern,335707,48062
+50,52,California,Kings,CaliforniaKings,2020,543,124,67,25.3,14.7,207,California,"Kings County, CA",Kings,CaliforniaKings,49883,6533
+51,53,California,Lake,CaliforniaLake,2020,180,43,32,30.5,15.5,208,California,"Lake County, CA",Lake,CaliforniaLake,25567,2700
+52,54,California,Los Angeles,CaliforniaLos,2020,235,165,83,20.6,32.5,210,California,"Los Angeles County, CA",Los,CaliforniaLos,4291688,629811
+53,55,California,Madera,CaliforniaMadera,2020,250,113,61,24.9,14.6,211,California,"Madera County, CA",Madera,CaliforniaMadera,55089,6649
+54,56,California,Marin,CaliforniaMarin,2020,206,57,33,10.5,59.5,212,California,"Marin County, CA",Marin,CaliforniaMarin,121476,8662
+55,57,California,Mariposa,CaliforniaMariposa,2020,618,111,47,24.4,24.6,213,California,"Mariposa County, CA",Mariposa,CaliforniaMariposa,6381,781
+56,58,California,Mendocino,CaliforniaMendocino,2020,456,76,34,25.0,24.4,214,California,"Mendocino County, CA",Mendocino,CaliforniaMendocino,33723,3292
+57,59,California,Merced,CaliforniaMerced,2020,183,95,53,25.3,13.8,215,California,"Merced County, CA",Merced,CaliforniaMerced,100755,13981
+58,60,California,Mono,CaliforniaMono,2020,1928,199,40,24.2,28.8,217,California,"Mono County, CA",Mono,CaliforniaMono,6917,929
+59,61,California,Monterey,CaliforniaMonterey,2020,250,63,36,20.3,24.7,218,California,"Monterey County, CA",Monterey,CaliforniaMonterey,190389,23082
+60,62,California,Napa,CaliforniaNapa,2020,199,62,36,17.8,35.7,219,California,"Napa County, CA",Napa,CaliforniaNapa,62853,6014
+61,63,California,Nevada,CaliforniaNevada,2020,252,90,41,18.4,37.2,220,California,"Nevada County, CA",Nevada,CaliforniaNevada,42787,3702
+62,64,California,Orange,CaliforniaOrange,2020,218,108,51,17.2,40.6,221,California,"Orange County, CA",Orange,CaliforniaOrange,1416738,136563
+63,65,California,Placer,CaliforniaPlacer,2020,222,108,54,18.0,39.7,222,California,"Placer County, CA",Placer,CaliforniaPlacer,171319,13573
+64,66,California,Plumas,CaliforniaPlumas,2020,469,146,49,26.1,23.7,223,California,"Plumas County, CA",Plumas,CaliforniaPlumas,6753,806
+65,67,California,Riverside,CaliforniaRiverside,2020,576,159,87,26.9,22.3,224,California,"Riverside County, CA",Riverside,CaliforniaRiverside,997725,109998
+66,68,California,Sacramento,CaliforniaSacramento,2020,200,100,52,22.4,30.9,225,California,"Sacramento County, CA",Sacramento,CaliforniaSacramento,641624,65558
+67,79,California,Shasta,CaliforniaShasta,2020,166,64,41,25.4,22.2,236,California,"Shasta County, CA",Shasta,CaliforniaShasta,66484,6343
+68,80,California,Siskiyou,CaliforniaSiskiyou,2020,359,61,36,25.5,23.2,238,California,"Siskiyou County, CA",Siskiyou,CaliforniaSiskiyou,15286,1637
+69,81,California,Solano,CaliforniaSolano,2020,204,76,41,23.8,26.9,239,California,"Solano County, CA",Solano,CaliforniaSolano,183607,19205
+70,82,California,Sonoma,CaliforniaSonoma,2020,187,53,33,18.7,35.5,240,California,"Sonoma County, CA",Sonoma,CaliforniaSonoma,225791,19300
+71,83,California,Stanislaus,CaliforniaStanislaus,2020,189,102,55,29.3,17.1,241,California,"Stanislaus County, CA",Stanislaus,CaliforniaStanislaus,214885,25756
+72,84,California,Sutter,CaliforniaSutter,2020,303,89,48,23.3,18.2,242,California,"Sutter County, CA",Sutter,CaliforniaSutter,40472,4995
+73,85,California,Tehama,CaliforniaTehama,2020,196,93,43,30.1,15.7,243,California,"Tehama County, CA",Tehama,CaliforniaTehama,23317,2262
+74,86,California,Trinity,CaliforniaTrinity,2020,193,79,27,34.8,19.5,244,California,"Trinity County, CA",Trinity,CaliforniaTrinity,4155,360
+75,87,California,Tulare,CaliforniaTulare,2020,209,145,79,25.5,14.6,245,California,"Tulare County, CA",Tulare,CaliforniaTulare,172852,26299
+76,88,California,Tuolumne,CaliforniaTuolumne,2020,143,64,41,28.3,20.5,246,California,"Tuolumne County, CA",Tuolumne,CaliforniaTuolumne,17954,2084
+77,89,California,Ventura,CaliforniaVentura,2020,174,90,47,19.2,33.8,247,California,"Ventura County, CA",Ventura,CaliforniaVentura,373903,34964
+78,90,California,Yolo,CaliforniaYolo,2020,192,84,42,18.1,41.4,248,California,"Yolo County, CA",Yolo,CaliforniaYolo,97111,7915
+79,91,Colorado,Adams,ColoradoAdams,2020,151,72,47,28.6,24.3,251,Colorado,"Adams County, CO",Adams,ColoradoAdams,252469,22029
+80,92,Colorado,Alamosa,ColoradoAlamosa,2020,60,30,11,28.5,25.0,252,Colorado,"Alamosa County, CO",Alamosa,ColoradoAlamosa,7868,535
+81,93,Colorado,Arapahoe,ColoradoArapahoe,2020,159,76,45,20.8,42.8,253,Colorado,"Arapahoe County, CO",Arapahoe,ColoradoArapahoe,337943,28825
+82,94,Colorado,Archuleta,ColoradoArchuleta,2020,93,58,43,21.0,37.2,254,Colorado,"Archuleta County, CO",Archuleta,ColoradoArchuleta,6585,538
+83,95,Colorado,Boulder,ColoradoBoulder,2020,173,84,47,11.7,62.1,257,Colorado,"Boulder County, CO",Boulder,ColoradoBoulder,180992,11887
+84,96,Colorado,Clear Creek,ColoradoClear,2020,143,71,47,21.9,48.1,261,Colorado,"Clear Creek County, CO",Clear,ColoradoClear,5628,523
+85,97,Colorado,Delta,ColoradoDelta,2020,97,51,41,38.3,21.7,266,Colorado,"Delta County, CO",Delta,ColoradoDelta,13400,940
+86,98,Colorado,Denver,ColoradoDenver,2020,150,80,50,16.8,49.4,267,Colorado,"Denver County/city, CO",Denver,ColoradoDenver,388924,34900
+87,99,Colorado,Douglas,ColoradoDouglas,2020,159,80,46,12.0,58.0,269,Colorado,"Douglas County, CO",Douglas,ColoradoDouglas,183412,11237
+88,100,Colorado,El Paso,ColoradoEl,2020,151,74,45,20.4,38.5,272,Colorado,"El Paso County, CO",El,ColoradoEl,319084,25036
+89,101,Colorado,Fremont,ColoradoFremont,2020,27,20,11,39.3,18.5,273,Colorado,"Fremont County, CO",Fremont,ColoradoFremont,14203,1190
+90,102,Colorado,Garfield,ColoradoGarfield,2020,122,74,46,27.0,31.0,274,Colorado,"Garfield County, CO",Garfield,ColoradoGarfield,29606,2156
+91,103,Colorado,Gilpin,ColoradoGilpin,2020,136,67,45,21.4,39.6,275,Colorado,"Gilpin County, CO",Gilpin,ColoradoGilpin,3562,454
+92,104,Colorado,Gunnison,ColoradoGunnison,2020,108,54,44,15.9,56.2,277,Colorado,"Gunnison County, CO",Gunnison,ColoradoGunnison,10596,751
+93,105,Colorado,Jackson,ColoradoJackson,2020,84,46,8,28.1,20.0,280,Colorado,"Jackson County, CO",Jackson,ColoradoJackson,900,40
+94,106,Colorado,Jefferson,ColoradoJefferson,2020,161,90,46,20.3,45.2,281,Colorado,"Jefferson County, CO",Jefferson,ColoradoJefferson,310057,23625
+95,107,Colorado,La Plata,ColoradoLa,2020,101,61,44,20.0,44.2,285,Colorado,"La Plata County, CO",La,ColoradoLa,29219,2147
+96,108,Colorado,Larimer,ColoradoLarimer,2020,157,87,48,19.0,47.3,286,Colorado,"Larimer County, CO",Larimer,ColoradoLarimer,190842,12841
+97,109,Colorado,Mesa,ColoradoMesa,2020,108,58,44,27.6,28.2,290,Colorado,"Mesa County, CO",Mesa,ColoradoMesa,69917,5634
+98,110,Colorado,Montezuma,ColoradoMontezuma,2020,126,58,44,29.3,29.6,293,Colorado,"Montezuma County, CO",Montezuma,ColoradoMontezuma,11795,908
+99,111,Colorado,Pitkin,ColoradoPitkin,2020,68,33,12,17.0,60.8,300,Colorado,"Pitkin County, CO",Pitkin,ColoradoPitkin,10077,1176
+100,112,Colorado,Prowers,ColoradoProwers,2020,238,42,17,26.1,18.3,301,Colorado,"Prowers County, CO",Prowers,ColoradoProwers,5937,276
+101,113,Colorado,Pueblo,ColoradoPueblo,2020,63,45,19,29.1,21.8,302,Colorado,"Pueblo County, CO",Pueblo,ColoradoPueblo,71037,6318
+102,114,Colorado,Rio Blanco,ColoradoRio,2020,115,54,42,31.5,22.7,303,Colorado,"Rio Blanco County, CO",Rio,ColoradoRio,2789,160
+103,114,Colorado,Rio Blanco,ColoradoRio,2020,115,54,42,31.5,22.7,304,Colorado,"Rio Grande County, CO",Rio,ColoradoRio,5068,385
+106,115,Colorado,Routt,ColoradoRoutt,2020,68,29,14,20.2,49.8,305,Colorado,"Routt County, CO",Routt,ColoradoRoutt,14929,1277
+107,118,Colorado,Weld,ColoradoWeld,2020,140,82,48,27.3,27.5,313,Colorado,"Weld County, CO",Weld,ColoradoWeld,155042,11624
+108,119,Connecticut,Fairfield,ConnecticutFairfield,2020,161,80,44,21.5,47.9,316,Connecticut,"Fairfield County, CT",Fairfield,ConnecticutFairfield,429164,37044
+109,120,Connecticut,Hartford,ConnecticutHartford,2020,98,55,39,26.6,38.1,317,Connecticut,"Hartford County, CT",Hartford,ConnecticutHartford,437433,38682
+110,121,Connecticut,Litchfield,ConnecticutLitchfield,2020,84,50,38,29.9,35.4,318,Connecticut,"Litchfield County, CT",Litchfield,ConnecticutLitchfield,95102,7007
+111,122,Connecticut,Middlesex,ConnecticutMiddlesex,2020,129,54,39,25.8,42.2,319,Connecticut,"Middlesex County, CT",Middlesex,ConnecticutMiddlesex,86211,6010
+112,123,Connecticut,New Haven,ConnecticutNew,2020,174,77,42,30.7,35.0,320,Connecticut,"New Haven County, CT",New,ConnecticutNew,420669,36502
+113,123,Connecticut,New Haven,ConnecticutNew,2020,174,77,42,30.7,35.0,321,Connecticut,"New London County, CT",New,ConnecticutNew,119313,12679
+120,125,Connecticut,Tolland,ConnecticutTolland,2020,93,48,39,27.0,41.8,322,Connecticut,"Tolland County, CT",Tolland,ConnecticutTolland,79362,5236
+121,126,Connecticut,Windham,ConnecticutWindham,2020,87,44,35,33.2,24.3,323,Connecticut,"Windham County, CT",Windham,ConnecticutWindham,57369,4849
+122,129,Delaware,Kent,DelawareKent,2020,80,48,36,32.9,23.7,325,Delaware,"Kent County, DE",Kent,DelawareKent,72843,6872
+123,130,Delaware,New Castle,DelawareNew,2020,105,58,40,30.8,36.2,326,Delaware,"New Castle County, DE",New,DelawareNew,275601,23039
+124,131,Delaware,Sussex,DelawareSussex,2020,87,51,38,31.2,28.3,327,Delaware,"Sussex County, DE",Sussex,DelawareSussex,98014,7990
+125,133,Florida,Alachua,FloridaAlachua,2020,105,52,36,21.2,43.3,333,Florida,"Alachua County, FL",Alachua,FloridaAlachua,127696,7235
+126,134,Florida,Baker,FloridaBaker,2020,140,49,35,42.6,13.2,334,Florida,"Baker County, FL",Baker,FloridaBaker,11179,580
+127,135,Florida,Bay,FloridaBay,2020,146,58,40,31.0,23.7,335,Florida,"Bay County, FL",Bay,FloridaBay,77746,5017
+128,136,Florida,Brevard,FloridaBrevard,2020,84,52,39,28.3,30.2,337,Florida,"Brevard County, FL",Brevard,FloridaBrevard,262867,18724
+129,137,Florida,Broward,FloridaBroward,2020,142,57,40,27.3,32.4,338,Florida,"Broward County, FL",Broward,FloridaBroward,930297,90289
+130,138,Florida,Citrus,FloridaCitrus,2020,125,54,32,37.2,18.3,341,Florida,"Citrus County, FL",Citrus,FloridaCitrus,42582,3918
+131,139,Florida,Collier,FloridaCollier,2020,85,54,36,25.8,36.4,343,Florida,"Collier County, FL",Collier,FloridaCollier,165287,12210
+132,140,Florida,Columbia,FloridaColumbia,2020,158,56,36,36.7,14.9,344,Florida,"Columbia County, FL",Columbia,FloridaColumbia,27840,1726
+133,141,Florida,Duval,FloridaDuval,2020,125,59,42,27.8,30.0,347,Florida,"Duval County, FL",Duval,FloridaDuval,452481,32633
+134,142,Florida,Escambia,FloridaEscambia,2020,80,58,42,27.2,26.5,348,Florida,"Escambia County, FL",Escambia,FloridaEscambia,135108,9671
+135,143,Florida,Flagler,FloridaFlagler,2020,64,43,31,34.3,25.1,349,Florida,"Flagler County, FL",Flagler,FloridaFlagler,43083,3553
+136,144,Florida,Hamilton,FloridaHamilton,2020,154,52,33,45.4,7.9,355,Florida,"Hamilton County, FL",Hamilton,FloridaHamilton,3880,319
+137,145,Florida,Highlands,FloridaHighlands,2020,74,44,31,38.8,17.2,359,Florida,"Highlands County, FL",Highlands,FloridaHighlands,31967,2674
+138,146,Florida,Hillsborough,FloridaHillsborough,2020,112,61,43,27.1,33.5,360,Florida,"Hillsborough County, FL",Hillsborough,FloridaHillsborough,700764,53788
+139,147,Florida,Holmes,FloridaHolmes,2020,138,54,38,40.7,10.7,361,Florida,"Holmes County, FL",Holmes,FloridaHolmes,6472,378
+140,148,Florida,Indian River,FloridaIndian,2020,87,47,37,30.4,29.1,362,Florida,"Indian River County, FL",Indian,FloridaIndian,59482,4751
+141,149,Florida,Lake,FloridaLake,2020,87,45,32,32.1,24.0,366,Florida,"Lake County, FL",Lake,FloridaLake,140383,13645
+142,150,Florida,Lee,FloridaLee,2020,100,50,36,31.0,28.2,367,Florida,"Lee County, FL",Lee,FloridaLee,320161,25256
+143,151,Florida,Leon,FloridaLeon,2020,160,58,40,19.0,46.2,368,Florida,"Leon County, FL",Leon,FloridaLeon,141883,8743
+144,152,Florida,Liberty,FloridaLiberty,2020,51,44,31,45.8,14.4,370,Florida,"Liberty County, FL",Liberty,FloridaLiberty,2473,125
+145,153,Florida,Manatee,FloridaManatee,2020,97,44,33,30.1,29.8,372,Florida,"Manatee County, FL",Manatee,FloridaManatee,164571,11925
+146,154,Florida,Marion,FloridaMarion,2020,100,55,39,36.9,20.1,373,Florida,"Marion County, FL",Marion,FloridaMarion,128709,9760
+147,155,Florida,Martin,FloridaMartin,2020,95,52,36,24.9,34.1,374,Florida,"Martin County, FL",Martin,FloridaMartin,67796,4384
+148,156,Florida,Miami-Dade,FloridaMiami-Dade,2020,90,58,39,27.3,29.8,375,Florida,"Miami-Dade County, FL",Miami-Dade,FloridaMiami-Dade,1188173,103681
+149,157,Florida,Nassau,FloridaNassau,2020,157,34,4,31.7,29.6,377,Florida,"Nassau County, FL",Nassau,FloridaNassau,38991,2347
+150,158,Florida,Okaloosa,FloridaOkaloosa,2020,74,46,34,24.7,31.1,378,Florida,"Okaloosa County, FL",Okaloosa,FloridaOkaloosa,90729,5281
+151,159,Florida,Orange,FloridaOrange,2020,93,51,36,24.4,34.6,380,Florida,"Orange County, FL",Orange,FloridaOrange,659050,78496
+152,160,Florida,Osceola,FloridaOsceola,2020,90,44,32,31.3,21.8,381,Florida,"Osceola County, FL",Osceola,FloridaOsceola,160638,25155
+153,161,Florida,Palm Beach,FloridaPalm,2020,92,54,38,24.0,36.7,382,Florida,"Palm Beach County, FL",Palm,FloridaPalm,662945,54434
+154,162,Florida,Pasco,FloridaPasco,2020,77,46,35,33.2,24.0,383,Florida,"Pasco County, FL",Pasco,FloridaPasco,221185,17142
+155,163,Florida,Pinellas,FloridaPinellas,2020,100,56,40,28.0,31.7,384,Florida,"Pinellas County, FL",Pinellas,FloridaPinellas,450266,34064
+156,164,Florida,Polk,FloridaPolk,2020,87,54,37,34.7,20.2,385,Florida,"Polk County, FL",Polk,FloridaPolk,287979,28647
+157,165,Florida,Putnam,FloridaPutnam,2020,67,27,14,41.2,12.3,386,Florida,"Putnam County, FL",Putnam,FloridaPutnam,24378,2092
+158,166,Florida,Santa Rosa,FloridaSanta,2020,84,57,40,26.8,27.7,389,Florida,"Santa Rosa County, FL",Santa,FloridaSanta,78348,4299
+159,167,Florida,Sarasota,FloridaSarasota,2020,90,55,38,28.9,35.4,390,Florida,"Sarasota County, FL",Sarasota,FloridaSarasota,171875,12589
+160,168,Florida,Seminole,FloridaSeminole,2020,84,49,36,21.1,39.6,391,Florida,"Seminole County, FL",Seminole,FloridaSeminole,220602,17167
+161,169,Florida,St. Lucie,FloridaSt.,2020,74,44,33,21.4,44.7,387,Florida,"St.Johns County, FL",St.,FloridaSt.,126772,7071
+162,169,Florida,St. Lucie,FloridaSt.,2020,74,44,33,21.4,44.7,388,Florida,"St.Lucie County, FL",St.,FloridaSt.,134060,11303
+165,170,Florida,Volusia,FloridaVolusia,2020,77,50,38,31.8,23.7,396,Florida,"Volusia County, FL",Volusia,FloridaVolusia,230585,18975
+166,171,Florida,Wakulla,FloridaWakulla,2020,161,54,35,36.2,18.3,397,Florida,"Wakulla County, FL",Wakulla,FloridaWakulla,14216,669
+167,172,Georgia,Bibb,GeorgiaBibb,2020,97,52,35,30.5,25.4,411,Georgia,"Bibb County, GA",Bibb,GeorgiaBibb,62371,5050
+168,173,Georgia,Charlton,GeorgiaCharlton,2020,139,34,20,40.1,8.8,424,Georgia,"Charlton County, GA",Charlton,GeorgiaCharlton,4660,182
+169,174,Georgia,Chatham,GeorgiaChatham,2020,131,58,39,24.2,33.6,425,Georgia,"Chatham County, GA",Chatham,GeorgiaChatham,129918,10713
+170,175,Georgia,Chattooga,GeorgiaChattooga,2020,58,43,32,40.1,8.9,427,Georgia,"Chattooga County, GA",Chattooga,GeorgiaChattooga,8947,820
+171,176,Georgia,Clarke,GeorgiaClarke,2020,99,54,36,19.9,44.0,429,Georgia,"Clarke County, GA",Clarke,GeorgiaClarke,54453,3753
+172,177,Georgia,Clayton,GeorgiaClayton,2020,90,54,28,33.6,19.5,431,Georgia,"Clayton County, GA",Clayton,GeorgiaClayton,125357,14433
+173,178,Georgia,Cobb,GeorgiaCobb,2020,90,49,35,18.5,47.4,433,Georgia,"Cobb County, GA",Cobb,GeorgiaCobb,389904,24453
+174,179,Georgia,Coffee,GeorgiaCoffee,2020,108,42,25,37.2,13.0,434,Georgia,"Coffee County, GA",Coffee,GeorgiaCoffee,17835,1103
+175,180,Georgia,Columbia,GeorgiaColumbia,2020,51,44,31,23.8,36.4,436,Georgia,"Columbia County, GA",Columbia,GeorgiaColumbia,71266,3145
+176,181,Georgia,Dawson,GeorgiaDawson,2020,74,43,31,29.1,30.6,442,Georgia,"Dawson County, GA",Dawson,GeorgiaDawson,11735,584
+177,182,Georgia,DeKalb,GeorgiaDeKalb,2020,106,57,38,20.9,44.2,444,Georgia,"DeKalb County, GA",DeKalb,GeorgiaDeKalb,364209,31474
+178,183,Georgia,Dougherty,GeorgiaDougherty,2020,114,61,37,30.2,21.4,447,Georgia,"Dougherty County, GA",Dougherty,GeorgiaDougherty,34469,3243
+179,184,Georgia,Douglas,GeorgiaDouglas,2020,77,44,32,30.4,28.2,448,Georgia,"Douglas County, GA",Douglas,GeorgiaDouglas,66930,5367
+180,185,Georgia,Floyd,GeorgiaFloyd,2020,80,52,30,34.3,20.9,457,Georgia,"Floyd County, GA",Floyd,GeorgiaFloyd,40522,2712
+181,186,Georgia,Fulton,GeorgiaFulton,2020,125,62,43,17.7,52.9,460,Georgia,"Fulton County, GA",Fulton,GeorgiaFulton,512593,44639
+182,187,Georgia,Glynn,GeorgiaGlynn,2020,96,44,31,26.7,29.9,463,Georgia,"Glynn County, GA",Glynn,GeorgiaGlynn,35610,2605
+183,188,Georgia,Gwinnett,GeorgiaGwinnett,2020,101,55,37,22.3,36.9,467,Georgia,"Gwinnett County, GA",Gwinnett,GeorgiaGwinnett,450909,30544
+184,189,Georgia,Hall,GeorgiaHall,2020,98,55,33,27.7,24.5,469,Georgia,"Hall County, GA",Hall,GeorgiaHall,97133,4816
+185,190,Georgia,Henry,GeorgiaHenry,2020,95,50,32,31.7,28.5,475,Georgia,"Henry County, GA",Henry,GeorgiaHenry,106831,8521
+186,191,Georgia,Houston,GeorgiaHouston,2020,114,57,35,27.0,28.3,476,Georgia,"Houston County, GA",Houston,GeorgiaHouston,66769,3649
+187,192,Georgia,Lowndes,GeorgiaLowndes,2020,141,54,30,31.4,25.3,492,Georgia,"Lowndes County, GA",Lowndes,GeorgiaLowndes,48484,3115
+188,193,Georgia,Murray,GeorgiaMurray,2020,61,46,35,37.4,10.1,505,Georgia,"Murray County, GA",Murray,GeorgiaMurray,14191,1159
+189,194,Georgia,Muscogee,GeorgiaMuscogee,2020,101,53,35,27.4,25.8,506,Georgia,"Muscogee County, GA",Muscogee,GeorgiaMuscogee,71209,6049
+190,195,Georgia,Pike,GeorgiaPike,2020,64,44,33,41.8,17.1,514,Georgia,"Pike County, GA",Pike,GeorgiaPike,8273,432
+191,196,Georgia,Richmond,GeorgiaRichmond,2020,114,60,42,31.4,21.4,521,Georgia,"Richmond County, GA",Richmond,GeorgiaRichmond,78649,6463
+192,197,Georgia,Rockdale,GeorgiaRockdale,2020,77,46,34,31.5,26.3,522,Georgia,"Rockdale County, GA",Rockdale,GeorgiaRockdale,40657,3332
+193,198,Georgia,Sumter,GeorgiaSumter,2020,64,44,32,34.7,18.3,529,Georgia,"Sumter County, GA",Sumter,GeorgiaSumter,11601,924
+194,199,Georgia,Walker,GeorgiaWalker,2020,84,53,30,35.2,16.6,546,Georgia,"Walker County, GA",Walker,GeorgiaWalker,29106,1495
+195,200,Georgia,Washington,GeorgiaWashington,2020,112,54,32,44.7,12.3,550,Georgia,"Washington County, GA",Washington,GeorgiaWashington,6486,445
+196,201,Hawaii,Hawaii,HawaiiHawaii,2020,231,30,18,27.4,33.0,560,Hawaii,Hawaii,Hawaii,HawaiiHawaii,572796,75395
+197,201,Hawaii,Hawaii,HawaiiHawaii,2020,231,30,18,27.4,33.0,561,Hawaii,"Hawaii County, HI",Hawaii,HawaiiHawaii,78986,10133
+200,202,Hawaii,Honolulu,HawaiiHonolulu,2020,92,40,26,25.9,35.0,562,Hawaii,"Honolulu County/city, HI",Honolulu,HawaiiHonolulu,396136,44779
+201,203,Hawaii,Kauai,HawaiiKauai,2020,41,25,11,30.0,29.2,563,Hawaii,"Kauai County, HI",Kauai,HawaiiKauai,29618,5719
+202,204,Hawaii,Maui,HawaiiMaui,2020,56,23,15,31.3,27.2,564,Hawaii,"Maui County, HI",Maui,HawaiiMaui,68056,14764
+203,205,Idaho,Ada,IdahoAda,2020,185,72,40,22.4,38.5,566,Idaho,"Ada County, ID",Ada,IdahoAda,243784,13893
+204,206,Idaho,Bannock,IdahoBannock,2020,161,61,41,26.4,27.8,568,Idaho,"Bannock County, ID",Bannock,IdahoBannock,40495,2065
+205,207,Idaho,Benewah,IdahoBenewah,2020,371,65,32,38.4,15.2,570,Idaho,"Benewah County, ID",Benewah,IdahoBenewah,3830,310
+206,208,Idaho,Blaine,IdahoBlaine,2020,167,43,15,25.6,35.4,572,Idaho,"Blaine County, ID",Blaine,IdahoBlaine,11679,987
+207,209,Idaho,Boise,IdahoBoise,2020,198,68,35,30.6,27.1,573,Idaho,"Boise County, ID",Boise,IdahoBoise,3321,288
+208,210,Idaho,Bonner,IdahoBonner,2020,190,52,25,29.8,23.8,574,Idaho,"Bonner County, ID",Bonner,IdahoBonner,19527,1592
+209,211,Idaho,Bonneville,IdahoBonneville,2020,154,49,21,25.4,31.3,575,Idaho,"Bonneville County, ID",Bonneville,IdahoBonneville,55789,2347
+210,212,Idaho,Butte,IdahoButte,2020,152,50,40,36.0,16.2,577,Idaho,"Butte County, ID",Butte,IdahoButte,1343,50
+211,213,Idaho,Canyon,IdahoCanyon,2020,156,73,33,32.1,18.7,579,Idaho,"Canyon County, ID",Canyon,IdahoCanyon,99763,6218
+212,214,Idaho,Caribou,IdahoCaribou,2020,109,24,6,32.4,19.0,580,Idaho,"Caribou County, ID",Caribou,IdahoCaribou,3962,148
+213,215,Idaho,Custer,IdahoCuster,2020,126,59,5,28.6,24.4,584,Idaho,"Custer County, ID",Custer,IdahoCuster,2106,112
+214,216,Idaho,Franklin,IdahoFranklin,2020,159,53,20,37.8,17.7,586,Idaho,"Franklin County, ID",Franklin,IdahoFranklin,6807,253
+215,217,Idaho,Idaho,IdahoIdaho,2020,191,60,36,27.4,27.6,565,Idaho,Idaho,Idaho,IdahoIdaho,844365,47786
+216,217,Idaho,Idaho,IdahoIdaho,2020,191,60,36,27.4,27.6,590,Idaho,"Idaho County, ID",Idaho,IdahoIdaho,6260,449
+219,218,Idaho,Jerome,IdahoJerome,2020,37,19,10,30.6,16.1,592,Idaho,"Jerome County, ID",Jerome,IdahoJerome,11711,487
+220,219,Idaho,Kootenai,IdahoKootenai,2020,384,48,19,27.2,25.2,593,Idaho,"Kootenai County, ID",Kootenai,IdahoKootenai,75654,5632
+221,220,Idaho,Latah,IdahoLatah,2020,333,41,16,19.7,45.4,594,Idaho,"Latah County, ID",Latah,IdahoLatah,18818,938
+222,221,Idaho,Lemhi,IdahoLemhi,2020,163,77,35,30.3,22.9,595,Idaho,"Lemhi County, ID",Lemhi,IdahoLemhi,3408,243
+223,222,Idaho,Nez Perce,IdahoNez,2020,363,59,21,32.1,22.9,600,Idaho,"Nez Perce County, ID",Nez,IdahoNez,19780,1013
+224,223,Idaho,Shoshone,IdahoShoshone,2020,346,64,30,37.0,11.5,605,Idaho,"Shoshone County, ID",Shoshone,IdahoShoshone,4946,498
+225,224,Idaho,Twin Falls,IdahoTwin,2020,160,48,18,27.2,20.6,607,Idaho,"Twin Falls County, ID",Twin,IdahoTwin,39083,2167
+226,225,Idaho,Valley,IdahoValley,2020,192,63,30,26.7,30.4,608,Idaho,"Valley County, ID",Valley,IdahoValley,5195,448
+227,226,Illinois,Adams,IllinoisAdams,2020,84,50,38,35.4,25.0,611,Illinois,"Adams County, IL",Adams,IllinoisAdams,29287,1972
+228,227,Illinois,Champaign,IllinoisChampaign,2020,126,56,39,22.0,45.0,620,Illinois,"Champaign County, IL",Champaign,IllinoisChampaign,101732,6993
+229,228,Illinois,Clark,IllinoisClark,2020,97,45,31,40.0,19.9,622,Illinois,"Clark County, IL",Clark,IllinoisClark,6752,579
+230,229,Illinois,Cook,IllinoisCook,2020,164,84,53,23.1,38.8,626,Illinois,"Cook County, IL",Cook,IllinoisCook,2258453,281454
+231,230,Illinois,DuPage,IllinoisDuPage,2020,154,59,41,18.2,49.4,632,Illinois,"DuPage County, IL",DuPage,IllinoisDuPage,445824,38391
+232,231,Illinois,Effingham,IllinoisEffingham,2020,84,48,37,35.8,22.7,635,Illinois,"Effingham County, IL",Effingham,IllinoisEffingham,17988,1277
+233,232,Illinois,Hamilton,IllinoisHamilton,2020,118,56,40,34.9,17.0,643,Illinois,"Hamilton County, IL",Hamilton,IllinoisHamilton,3944,281
+234,233,Illinois,Jersey,IllinoisJersey,2020,112,55,39,38.8,20.3,652,Illinois,"Jersey County, IL",Jersey,IllinoisJersey,9883,795
+235,234,Illinois,Jo Daviess,IllinoisJo,2020,87,44,32,35.9,25.0,653,Illinois,"Jo Daviess County, IL",Jo,IllinoisJo,9560,866
+236,235,Illinois,Kane,IllinoisKane,2020,161,64,39,22.7,33.1,655,Illinois,"Kane County, IL",Kane,IllinoisKane,237738,23911
+237,237,Illinois,Lake,IllinoisLake,2020,185,74,39,20.8,45.3,659,Illinois,"Lake County, IL",Lake,IllinoisLake,335133,29411
+238,238,Illinois,Macon,IllinoisMacon,2020,90,56,41,35.4,22.1,668,Illinois,"Macon County, IL",Macon,IllinoisMacon,42512,4665
+239,239,Illinois,Macoupin,IllinoisMacoupin,2020,93,45,31,39.8,18.4,669,Illinois,"Macoupin County, IL",Macoupin,IllinoisMacoupin,20596,1523
+240,240,Illinois,Madison,IllinoisMadison,2020,112,70,47,29.8,26.8,670,Illinois,"Madison County, IL",Madison,IllinoisMadison,121270,10182
+241,241,Illinois,McHenry,IllinoisMcHenry,2020,147,58,40,26.5,34.4,666,Illinois,"McHenry County, IL",McHenry,IllinoisMcHenry,145249,13157
+242,242,Illinois,McLean,IllinoisMcLean,2020,136,58,41,24.6,44.8,667,Illinois,"McLean County, IL",McLean,IllinoisMcLean,79341,5762
+243,243,Illinois,Monroe,IllinoisMonroe,2020,43,7,1,27.6,35.0,677,Illinois,"Monroe County, IL",Monroe,IllinoisMonroe,17363,1023
+244,244,Illinois,Peoria,IllinoisPeoria,2020,115,57,40,27.6,30.6,682,Illinois,"Peoria County, IL",Peoria,IllinoisPeoria,75016,8668
+245,245,Illinois,Randolph,IllinoisRandolph,2020,103,54,38,37.3,13.3,689,Illinois,"Randolph County, IL",Randolph,IllinoisRandolph,12786,978
+246,246,Illinois,Rock Island,IllinoisRock,2020,102,56,38,29.5,23.5,691,Illinois,"Rock Island County, IL",Rock,IllinoisRock,62443,6472
+247,248,Illinois,Sangamon,IllinoisSangamon,2020,97,54,39,27.2,34.5,694,Illinois,"Sangamon County, IL",Sangamon,IllinoisSangamon,88916,7953
+248,249,Illinois,Tazewell,IllinoisTazewell,2020,26,9,1,31.7,26.3,700,Illinois,"Tazewell County, IL",Tazewell,IllinoisTazewell,56948,5029
+249,250,Illinois,Wabash,IllinoisWabash,2020,74,17,1,30.7,18.2,703,Illinois,"Wabash County, IL",Wabash,IllinoisWabash,5242,476
+250,251,Illinois,Will,IllinoisWill,2020,155,60,42,26.9,34.3,709,Illinois,"Will County, IL",Will,IllinoisWill,311763,32572
+251,252,Illinois,Winnebago,IllinoisWinnebago,2020,101,61,39,31.7,22.9,711,Illinois,"Winnebago County, IL",Winnebago,IllinoisWinnebago,120253,15506
+252,253,Indiana,Allen,IndianaAllen,2020,120,58,39,28.2,28.5,715,Indiana,"Allen County, IN",Allen,IndianaAllen,170783,14203
+253,254,Indiana,Bartholomew,IndianaBartholomew,2020,97,52,37,30.8,33.5,716,Indiana,"Bartholomew County, IN",Bartholomew,IndianaBartholomew,40975,2827
+254,255,Indiana,Boone,IndianaBoone,2020,101,48,32,19.5,49.3,719,Indiana,"Boone County, IN",Boone,IndianaBoone,34064,1522
+255,256,Indiana,Brown,IndianaBrown,2020,80,44,33,32.9,28.9,720,Indiana,"Brown County, IN",Brown,IndianaBrown,7062,506
+256,257,Indiana,Carroll,IndianaCarroll,2020,100,44,31,40.8,16.7,721,Indiana,"Carroll County, IN",Carroll,IndianaCarroll,9076,583
+257,258,Indiana,Clark,IndianaClark,2020,91,58,42,34.6,21.2,723,Indiana,"Clark County, IN",Clark,IndianaClark,56726,4412
+258,259,Indiana,Daviess,IndianaDaviess,2020,19,4,0,34.0,13.2,727,Indiana,"Daviess County, IN",Daviess,IndianaDaviess,15891,632
+259,260,Indiana,Delaware,IndianaDelaware,2020,97,50,35,35.1,23.7,731,Indiana,"Delaware County, IN",Delaware,IndianaDelaware,48633,3833
+260,261,Indiana,Dubois,IndianaDubois,2020,67,54,33,38.3,23.7,732,Indiana,"Dubois County, IN",Dubois,IndianaDubois,21569,1026
+261,262,Indiana,Elkhart,IndianaElkhart,2020,158,54,36,34.7,19.8,733,Indiana,"Elkhart County, IN",Elkhart,IndianaElkhart,102155,8339
+262,263,Indiana,Floyd,IndianaFloyd,2020,143,44,32,30.9,29.6,735,Indiana,"Floyd County, IN",Floyd,IndianaFloyd,38422,2671
+263,264,Indiana,Gibson,IndianaGibson,2020,114,26,3,40.9,18.0,739,Indiana,"Gibson County, IN",Gibson,IndianaGibson,18332,1205
+264,265,Indiana,Greene,IndianaGreene,2020,90,50,34,41.1,14.9,741,Indiana,"Greene County, IN",Greene,IndianaGreene,12442,822
+265,266,Indiana,Hamilton,IndianaHamilton,2020,97,54,38,14.9,59.3,742,Indiana,"Hamilton County, IN",Hamilton,IndianaHamilton,174455,8524
+266,267,Indiana,Hendricks,IndianaHendricks,2020,87,45,32,27.5,37.0,745,Indiana,"Hendricks County, IN",Hendricks,IndianaHendricks,84885,4501
+267,268,Indiana,Henry,IndianaHenry,2020,63,51,29,43.7,16.4,746,Indiana,"Henry County, IN",Henry,IndianaHenry,20424,1442
+268,269,Indiana,Howard,IndianaHoward,2020,108,53,38,35.9,21.6,747,Indiana,"Howard County, IN",Howard,IndianaHoward,32921,4010
+269,270,Indiana,Knox,IndianaKnox,2020,105,48,33,35.8,16.9,755,Indiana,"Knox County, IN",Knox,IndianaKnox,17148,1080
+270,271,Indiana,LaPorte,IndianaLaPorte,2020,154,61,37,39.6,18.0,759,Indiana,"LaPorte County, IN",LaPorte,IndianaLaPorte,42924,4520
+271,272,Indiana,Lake,IndianaLake,2020,136,65,44,35.1,22.6,758,Indiana,"Lake County, IN",Lake,IndianaLake,201989,23196
+272,273,Indiana,Madison,IndianaMadison,2020,97,55,39,39.4,18.4,761,Indiana,"Madison County, IN",Madison,IndianaMadison,54137,4621
+273,274,Indiana,Marion,IndianaMarion,2020,144,68,48,28.0,30.9,762,Indiana,"Marion County, IN",Marion,IndianaMarion,456145,38918
+274,275,Indiana,Monroe,IndianaMonroe,2020,69,51,31,22.2,45.7,766,Indiana,"Monroe County, IN",Monroe,IndianaMonroe,64390,3765
+275,276,Indiana,Perry,IndianaPerry,2020,105,45,34,44.7,16.1,775,Indiana,"Perry County, IN",Perry,IndianaPerry,8495,594
+276,277,Indiana,Porter,IndianaPorter,2020,151,67,41,35.0,28.4,777,Indiana,"Porter County, IN",Porter,IndianaPorter,77220,6767
+277,278,Indiana,Posey,IndianaPosey,2020,112,45,31,38.2,21.9,778,Indiana,"Posey County, IN",Posey,IndianaPosey,12202,632
+278,279,Indiana,Shelby,IndianaShelby,2020,115,46,32,42.4,18.7,786,Indiana,"Shelby County, IN",Shelby,IndianaShelby,21443,1643
+279,280,Indiana,Spencer,IndianaSpencer,2020,63,53,32,46.0,15.2,787,Indiana,"Spencer County, IN",Spencer,IndianaSpencer,9754,579
+280,281,Indiana,St. Joseph,IndianaSt.,2020,162,62,41,30.7,29.6,784,Indiana,"St. Joseph County, IN",St.,IndianaSt.,122197,11188
+281,282,Indiana,Sullivan,IndianaSullivan,2020,53,51,29,44.2,12.1,790,Indiana,"Sullivan County, IN",Sullivan,IndianaSullivan,7352,551
+282,283,Indiana,Tippecanoe,IndianaTippecanoe,2020,69,56,39,25.4,38.7,792,Indiana,"Tippecanoe County, IN",Tippecanoe,IndianaTippecanoe,88211,5936
+283,284,Indiana,Vanderburgh,IndianaVanderburgh,2020,101,57,39,32.5,27.0,795,Indiana,"Vanderburgh County, IN",Vanderburgh,IndianaVanderburgh,85014,6559
+284,285,Indiana,Vigo,IndianaVigo,2020,112,57,40,32.0,25.1,797,Indiana,"Vigo County, IN",Vigo,IndianaVigo,42198,3616
+285,286,Indiana,Wabash,IndianaWabash,2020,97,49,35,42.6,18.1,798,Indiana,"Wabash County, IN",Wabash,IndianaWabash,13615,884
+286,287,Indiana,Warrick,IndianaWarrick,2020,112,47,33,31.3,30.3,800,Indiana,"Warrick County, IN",Warrick,IndianaWarrick,29930,1724
+287,288,Indiana,Whitley,IndianaWhitley,2020,76,56,39,39.2,20.7,805,Indiana,"Whitley County, IN",Whitley,IndianaWhitley,16139,1016
+288,289,Iowa,Black Hawk,IowaBlack,2020,91,53,32,30.5,29.1,813,Iowa,"Black Hawk County, IA",Black,IowaBlack,63173,4145
+289,290,Iowa,Bremer,IowaBremer,2020,87,45,35,32.9,30.7,815,Iowa,"Bremer County, IA",Bremer,IowaBremer,12967,533
+290,291,Iowa,Cerro Gordo,IowaCerro,2020,60,37,18,30.6,23.6,823,Iowa,"Cerro Gordo County, IA",Cerro,IowaCerro,21893,1203
+291,292,Iowa,Clinton,IowaClinton,2020,87,56,37,38.8,17.9,829,Iowa,"Clinton County, IA",Clinton,IowaClinton,20509,1480
+292,293,Iowa,Harrison,IowaHarrison,2020,87,49,37,37.2,19.5,849,Iowa,"Harrison County, IA",Harrison,IowaHarrison,6776,284
+293,294,Iowa,Johnson,IowaJohnson,2020,105,58,35,16.3,52.8,858,Iowa,"Johnson County, IA",Johnson,IowaJohnson,80056,4032
+294,295,Iowa,Lee,IowaLee,2020,73,52,30,40.8,16.4,862,Iowa,"Lee County, IA",Lee,IowaLee,14666,1027
+295,296,Iowa,Linn,IowaLinn,2020,105,60,40,27.0,33.1,863,Iowa,"Linn County, IA",Linn,IowaLinn,111300,7553
+296,297,Iowa,Montgomery,IowaMontgomery,2020,76,51,35,35.2,18.5,875,Iowa,"Montgomery County, IA",Montgomery,IowaMontgomery,4621,226
+297,298,Iowa,Muscatine,IowaMuscatine,2020,124,54,30,35.3,21.5,876,Iowa,"Muscatine County, IA",Muscatine,IowaMuscatine,19796,1257
+298,299,Iowa,Palo Alto,IowaPalo,2020,87,51,36,29.2,25.5,880,Iowa,"Palo Alto County, IA",Palo,IowaPalo,4330,210
+299,300,Iowa,Polk,IowaPolk,2020,186,54,36,24.5,36.7,883,Iowa,"Polk County, IA",Polk,IowaPolk,248931,15876
+300,301,Iowa,Pottawattamie,IowaPottawattamie,2020,77,52,31,32.7,21.5,884,Iowa,"Pottawattamie County, IA",Pottawattamie,IowaPottawattamie,44771,2478
+301,302,Iowa,Scott,IowaScott,2020,155,63,44,29.6,31.8,888,Iowa,"Scott County, IA",Scott,IowaScott,80541,5862
+302,303,Iowa,Van Buren,IowaVan,2020,87,49,36,38.9,14.4,895,Iowa,"Van Buren County, IA",Van,IowaVan,3497,170
+303,304,Iowa,Woodbury,IowaWoodbury,2020,79,50,29,32.2,23.1,903,Iowa,"Woodbury County, IA",Woodbury,IowaWoodbury,51606,2861
+304,305,Kansas,Chase,KansasChase,2020,58,38,18,29.1,25.5,915,Kansas,"Chase County, KS",Chase,KansasChase,1384,81
+305,306,Kansas,Ford,KansasFord,2020,79,29,11,25.3,17.7,935,Kansas,"Ford County, KS",Ford,KansasFord,16640,584
+306,307,Kansas,Johnson,KansasJohnson,2020,117,56,36,14.5,56.0,952,Kansas,"Johnson County, KS",Johnson,KansasJohnson,324544,17602
+307,308,Kansas,Leavenworth,KansasLeavenworth,2020,77,44,32,28.3,31.5,958,Kansas,"Leavenworth County, KS",Leavenworth,KansasLeavenworth,34611,2135
+308,309,Kansas,Neosho,KansasNeosho,2020,106,54,39,32.5,18.1,973,Kansas,"Neosho County, KS",Neosho,KansasNeosho,5845,401
+309,310,Kansas,Sedgwick,KansasSedgwick,2020,114,54,38,26.3,30.9,993,Kansas,"Sedgwick County, KS",Sedgwick,KansasSedgwick,234769,22448
+310,311,Kansas,Shawnee,KansasShawnee,2020,169,58,39,31.4,30.9,995,Kansas,"Shawnee County, KS",Shawnee,KansasShawnee,85910,5433
+311,312,Kansas,Sherman,KansasSherman,2020,106,44,13,30.3,21.8,997,Kansas,"Sherman County, KS",Sherman,KansasSherman,2795,99
+312,313,Kansas,Sumner,KansasSumner,2020,117,59,40,34.9,23.3,1002,Kansas,"Sumner County, KS",Sumner,KansasSumner,10126,891
+313,314,Kansas,Trego,KansasTrego,2020,147,51,37,31.1,24.8,1004,Kansas,"Trego County, KS",Trego,KansasTrego,1419,51
+314,315,Kansas,Wyandotte,KansasWyandotte,2020,116,63,44,32.1,18.1,1011,Kansas,"Wyandotte County, KS",Wyandotte,KansasWyandotte,72303,6089
+315,316,Kentucky,Bell,KentuckyBell,2020,71,46,33,38.5,9.2,1019,Kentucky,"Bell County, KY",Bell,KentuckyBell,7606,642
+316,317,Kentucky,Boone,KentuckyBoone,2020,87,50,36,27.5,32.1,1020,Kentucky,"Boone County, KY",Boone,KentuckyBoone,66280,3791
+317,318,Kentucky,Boyd,KentuckyBoyd,2020,88,51,36,33.9,19.4,1022,Kentucky,"Boyd County, KY",Boyd,KentuckyBoyd,16086,1465
+318,319,Kentucky,Bullitt,KentuckyBullitt,2020,115,48,37,41.6,14.7,1027,Kentucky,"Bullitt County, KY",Bullitt,KentuckyBullitt,39359,2672
+319,320,Kentucky,Campbell,KentuckyCampbell,2020,93,54,39,28.2,36.3,1031,Kentucky,"Campbell County, KY",Campbell,KentuckyCampbell,46886,2761
+320,321,Kentucky,Carter,KentuckyCarter,2020,59,44,31,40.3,12.6,1034,Kentucky,"Carter County, KY",Carter,KentuckyCarter,8663,923
+321,322,Kentucky,Christian,KentuckyChristian,2020,83,51,38,31.0,18.1,1036,Kentucky,"Christian County, KY",Christian,KentuckyChristian,22662,1925
+322,323,Kentucky,Daviess,KentuckyDaviess,2020,105,54,38,34.1,22.9,1042,Kentucky,"Daviess County, KY",Daviess,KentuckyDaviess,42911,2799
+323,324,Kentucky,Edmonson,KentuckyEdmonson,2020,64,45,33,39.3,10.3,1043,Kentucky,"Edmonson County, KY",Edmonson,KentuckyEdmonson,4247,352
+324,325,Kentucky,Fayette,KentuckyFayette,2020,84,51,38,19.6,43.6,1046,Kentucky,"Fayette County, KY",Fayette,KentuckyFayette,162405,9879
+325,326,Kentucky,Greenup,KentuckyGreenup,2020,61,42,28,36.0,17.1,1057,Kentucky,"Greenup County, KY",Greenup,KentuckyGreenup,12064,1174
+326,327,Kentucky,Hancock,KentuckyHancock,2020,97,47,37,43.4,11.4,1058,Kentucky,"Hancock County, KY",Hancock,KentuckyHancock,3575,233
+327,328,Kentucky,Hardin,KentuckyHardin,2020,80,51,38,30.4,22.0,1059,Kentucky,"Hardin County, KY",Hardin,KentuckyHardin,44196,3385
+328,329,Kentucky,Henderson,KentuckyHenderson,2020,114,44,1,36.0,18.2,1063,Kentucky,"Henderson County, KY",Henderson,KentuckyHenderson,19643,1278
+329,330,Kentucky,Jefferson,KentuckyJefferson,2020,115,61,45,26.7,33.4,1068,Kentucky,"Jefferson County, KY",Jefferson,KentuckyJefferson,363770,26717
+330,331,Kentucky,Jessamine,KentuckyJessamine,2020,77,44,31,30.5,29.5,1069,Kentucky,"Jessamine County, KY",Jessamine,KentuckyJessamine,24689,1471
+331,332,Kentucky,Livingston,KentuckyLivingston,2020,105,47,37,43.6,11.8,1082,Kentucky,"Livingston County, KY",Livingston,KentuckyLivingston,3268,266
+332,333,Kentucky,McCracken,KentuckyMcCracken,2020,111,57,39,31.4,24.2,1085,Kentucky,"McCracken County, KY",McCracken,KentuckyMcCracken,26435,2051
+333,334,Kentucky,Morgan,KentuckyMorgan,2020,64,44,33,41.4,12.5,1100,Kentucky,"Morgan County, KY",Morgan,KentuckyMorgan,4052,300
+334,335,Kentucky,Oldham,KentuckyOldham,2020,97,49,38,20.7,42.4,1105,Kentucky,"Oldham County, KY",Oldham,KentuckyOldham,30867,1571
+335,336,Kentucky,Perry,KentuckyPerry,2020,99,48,34,33.0,14.4,1109,Kentucky,"Perry County, KY",Perry,KentuckyPerry,7453,728
+336,337,Kentucky,Pike,KentuckyPike,2020,92,45,32,39.4,13.0,1110,Kentucky,"Pike County, KY",Pike,KentuckyPike,17574,1622
+337,338,Kentucky,Pulaski,KentuckyPulaski,2020,77,48,36,35.7,16.5,1112,Kentucky,"Pulaski County, KY",Pulaski,KentuckyPulaski,23907,1888
+338,339,Kentucky,Simpson,KentuckySimpson,2020,67,46,36,44.9,14.2,1119,Kentucky,"Simpson County, KY",Simpson,KentuckySimpson,7979,617
+339,340,Kentucky,Trigg,KentuckyTrigg,2020,84,45,34,33.2,16.6,1123,Kentucky,"Trigg County, KY",Trigg,KentuckyTrigg,5611,419
+340,341,Kentucky,Warren,KentuckyWarren,2020,97,53,38,26.6,32.2,1126,Kentucky,"Warren County, KY",Warren,KentuckyWarren,59108,4148
+341,342,Kentucky,Washington,KentuckyWashington,2020,77,46,34,42.4,18.8,1127,Kentucky,"Washington County, KY",Washington,KentuckyWashington,5718,381
+342,343,Louisiana,Ascension,LouisianaAscension,2020,100,46,31,32.3,26.4,1136,Louisiana,"Ascension Parish, LA",Ascension,LouisianaAscension,59807,4329
+343,344,Louisiana,Bossier,LouisianaBossier,2020,105,53,36,29.7,25.2,1141,Louisiana,"Bossier Parish, LA",Bossier,LouisianaBossier,53138,3612
+344,345,Louisiana,Caddo,LouisianaCaddo,2020,126,49,34,33.7,23.5,1142,Louisiana,"Caddo Parish, LA",Caddo,LouisianaCaddo,93384,9231
+345,346,Louisiana,Calcasieu,LouisianaCalcasieu,2020,116,61,41,34.1,22.3,1143,Louisiana,"Calcasieu Parish, LA",Calcasieu,LouisianaCalcasieu,89236,8874
+346,347,Louisiana,East Baton Rouge,LouisianaEast,2020,119,55,38,27.3,34.9,1150,Louisiana,"East Baton Rouge Parish, LA",East,LouisianaEast,211197,17777
+347,347,Louisiana,East Baton Rouge,LouisianaEast,2020,119,55,38,27.3,34.9,1151,Louisiana,"East Carroll Parish, LA",East,LouisianaEast,1610,214
+348,347,Louisiana,East Baton Rouge,LouisianaEast,2020,119,55,38,27.3,34.9,1152,Louisiana,"East Feliciana Parish, LA",East,LouisianaEast,7244,518
+355,348,Louisiana,Iberville,LouisianaIberville,2020,136,54,36,41.3,13.9,1157,Louisiana,"Iberville Parish, LA",Iberville,LouisianaIberville,12601,1374
+356,349,Louisiana,Jefferson,LouisianaJefferson,2020,87,54,36,30.8,26.8,1159,Louisiana,"Jefferson Parish, LA",Jefferson,LouisianaJefferson,191934,19629
+357,349,Louisiana,Jefferson,LouisianaJefferson,2020,87,54,36,30.8,26.8,1160,Louisiana,"Jefferson Davis Parish, LA",Jefferson,LouisianaJefferson,11863,964
+360,350,Louisiana,Lafayette,LouisianaLafayette,2020,120,59,40,30.4,33.0,1161,Louisiana,"Lafayette Parish, LA",Lafayette,LouisianaLafayette,105742,8069
+361,351,Louisiana,Lafourche,LouisianaLafourche,2020,115,56,39,40.5,16.9,1162,Louisiana,"Lafourche Parish, LA",Lafourche,LouisianaLafourche,38786,2689
+362,352,Louisiana,Livingston,LouisianaLivingston,2020,105,58,39,38.1,19.7,1165,Louisiana,"Livingston Parish, LA",Livingston,LouisianaLivingston,63874,4391
+363,353,Louisiana,Orleans,LouisianaOrleans,2020,88,47,28,22.8,37.6,1169,Louisiana,"Orleans Parish, LA",Orleans,LouisianaOrleans,159734,22134
+364,354,Louisiana,Ouachita,LouisianaOuachita,2020,111,45,32,34.1,24.2,1170,Louisiana,"Ouachita Parish, LA",Ouachita,LouisianaOuachita,64663,5160
+365,355,Louisiana,Pointe Coupee,LouisianaPointe,2020,100,45,32,39.3,14.9,1172,Louisiana,"Pointe Coupee Parish, LA",Pointe,LouisianaPointe,8888,750
+366,356,Louisiana,Rapides,LouisianaRapides,2020,103,49,26,36.7,20.9,1173,Louisiana,"Rapides Parish, LA",Rapides,LouisianaRapides,51714,3443
+367,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1177,Louisiana,"St. Bernard Parish, LA",St.,LouisianaSt.,17984,2038
+368,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1178,Louisiana,"St. Charles Parish, LA",St.,LouisianaSt.,22715,1929
+369,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1179,Louisiana,"St. Helena Parish, LA",St.,LouisianaSt.,3805,494
+370,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1180,Louisiana,"St. James Parish, LA",St.,LouisianaSt.,8176,882
+371,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1181,Louisiana,"St. John the Baptist Parish, LA",St.,LouisianaSt.,17294,2179
+372,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1182,Louisiana,"St. Landry Parish, LA",St.,LouisianaSt.,29611,2807
+373,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1183,Louisiana,"St. Martin Parish, LA",St.,LouisianaSt.,20268,1789
+374,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1184,Louisiana,"St. Mary Parish, LA",St.,LouisianaSt.,17722,1794
+375,357,Louisiana,St. Bernard,LouisianaSt.,2020,91,55,40,32.6,11.6,1185,Louisiana,"St. Tammany Parish, LA",St.,LouisianaSt.,108590,7876
+853,363,Louisiana,Tangipahoa,LouisianaTangipahoa,2020,64,49,26,37.2,20.0,1186,Louisiana,"Tangipahoa Parish, LA",Tangipahoa,LouisianaTangipahoa,51012,5377
+854,364,Louisiana,Terrebonne,LouisianaTerrebonne,2020,74,50,27,38.9,15.6,1188,Louisiana,"Terrebonne Parish, LA",Terrebonne,LouisianaTerrebonne,42663,3561
+855,365,Louisiana,West Baton Rouge,LouisianaWest,2020,101,58,38,37.2,22.0,1194,Louisiana,"West Baton Rouge Parish, LA",West,LouisianaWest,12530,972
+856,365,Louisiana,West Baton Rouge,LouisianaWest,2020,101,58,38,37.2,22.0,1195,Louisiana,"West Carroll Parish, LA",West,LouisianaWest,3270,367
+857,365,Louisiana,West Baton Rouge,LouisianaWest,2020,101,58,38,37.2,22.0,1196,Louisiana,"West Feliciana Parish, LA",West,LouisianaWest,4989,287
+864,366,Maine,Androscoggin,MaineAndroscoggin,2020,66,44,29,35.5,22.8,1199,Maine,"Androscoggin County, ME",Androscoggin,MaineAndroscoggin,51486,2984
+865,367,Maine,Aroostook,MaineAroostook,2020,189,47,33,37.3,19.2,1200,Maine,"Aroostook County, ME",Aroostook,MaineAroostook,27642,1613
+866,368,Maine,Cumberland,MaineCumberland,2020,97,53,38,22.2,47.6,1201,Maine,"Cumberland County, ME",Cumberland,MaineCumberland,152368,8495
+867,369,Maine,Hancock,MaineHancock,2020,105,48,35,30.8,34.1,1203,Maine,"Hancock County, ME",Hancock,MaineHancock,26059,1589
+868,370,Maine,Kennebec,MaineKennebec,2020,64,44,35,32.7,28.1,1204,Maine,"Kennebec County, ME",Kennebec,MaineKennebec,58332,3044
+869,371,Maine,Knox,MaineKnox,2020,71,45,31,32.9,33.5,1205,Maine,"Knox County, ME",Knox,MaineKnox,18481,1054
+870,372,Maine,Oxford,MaineOxford,2020,65,44,33,42.0,19.2,1207,Maine,"Oxford County, ME",Oxford,MaineOxford,24097,1718
+871,373,Maine,Penobscot,MainePenobscot,2020,73,44,29,33.6,27.7,1208,Maine,"Penobscot County, ME",Penobscot,MainePenobscot,70710,4007
+872,374,Maine,Washington,MaineWashington,2020,61,44,33,38.0,22.0,1213,Maine,"Washington County, ME",Washington,MaineWashington,12575,833
+873,375,Maine,York,MaineYork,2020,87,47,39,30.0,32.5,1214,Maine,"York County, ME",York,MaineYork,104935,5949
+874,376,Maryland,Allegany,MarylandAllegany,2020,9,3,1,41.8,18.9,1216,Maryland,"Allegany County, MD",Allegany,MarylandAllegany,28437,2398
+875,377,Maryland,Anne Arundel,MarylandAnne,2020,108,49,32,23.7,41.7,1217,Maryland,"Anne Arundel County, MD",Anne,MarylandAnne,292309,18104
+876,378,Maryland,Baltimore,MarylandBaltimore,2020,105,57,39,25.8,39.4,1218,Maryland,"Baltimore County, MD",Baltimore,MarylandBaltimore,415263,30432
+877,378,Maryland,Baltimore,MarylandBaltimore,2020,105,57,39,25.8,39.4,1239,Maryland,"Baltimore city, MD",Baltimore,MarylandBaltimore,256482,24705
+884,380,Maryland,Calvert,MarylandCalvert,2020,67,44,35,30.3,32.4,1219,Maryland,"Calvert County, MD",Calvert,MarylandCalvert,46006,2537
+885,381,Maryland,Carroll,MarylandCarroll,2020,84,49,39,29.4,36.4,1221,Maryland,"Carroll County, MD",Carroll,MarylandCarroll,88333,4740
+886,382,Maryland,Cecil,MarylandCecil,2020,97,49,34,36.1,23.9,1222,Maryland,"Cecil County, MD",Cecil,MarylandCecil,48988,3095
+887,383,Maryland,Charles,MarylandCharles,2020,58,44,34,31.7,28.9,1223,Maryland,"Charles County, MD",Charles,MarylandCharles,80309,5790
+888,384,Maryland,Dorchester,MarylandDorchester,2020,84,47,35,38.5,21.2,1224,Maryland,"Dorchester County, MD",Dorchester,MarylandDorchester,14923,1067
+889,385,Maryland,Frederick,MarylandFrederick,2020,90,49,40,24.1,41.4,1225,Maryland,"Frederick County, MD",Frederick,MarylandFrederick,124969,7898
+890,386,Maryland,Garrett,MarylandGarrett,2020,71,46,36,43.3,20.9,1226,Maryland,"Garrett County, MD",Garrett,MarylandGarrett,14261,1013
+891,387,Maryland,Harford,MarylandHarford,2020,119,55,38,26.0,36.7,1227,Maryland,"Harford County, MD",Harford,MarylandHarford,130336,8001
+892,388,Maryland,Howard,MarylandHoward,2020,68,44,28,13.5,62.6,1228,Maryland,"Howard County, MD",Howard,MarylandHoward,174916,9558
+893,389,Maryland,Kent,MarylandKent,2020,100,46,33,29.8,35.1,1229,Maryland,"Kent County, MD",Kent,MarylandKent,9026,638
+894,390,Maryland,Montgomery,MarylandMontgomery,2020,77,45,33,13.4,58.9,1230,Maryland,"Montgomery County, MD",Montgomery,MarylandMontgomery,513663,34735
+895,391,Maryland,Prince George's,MarylandPrince,2020,105,50,37,25.8,33.1,1231,Maryland,"Prince George's County, MD",Prince,MarylandPrince,462879,41397
+896,392,Maryland,Washington,MarylandWashington,2020,81,51,37,36.5,21.9,1236,Maryland,"Washington County, MD",Washington,MarylandWashington,67799,4904
+897,393,Massachusetts,Barnstable,MassachusettsBarnstable,2020,108,45,35,23.7,43.4,1241,Massachusetts,"Barnstable County, MA",Barnstable,MassachusettsBarnstable,97073,11055
+898,394,Massachusetts,Berkshire,MassachusettsBerkshire,2020,94,52,36,29.4,33.6,1242,Massachusetts,"Berkshire County, MA",Berkshire,MassachusettsBerkshire,56016,5629
+899,395,Massachusetts,Bristol,MassachusettsBristol,2020,119,53,39,29.9,28.7,1243,Massachusetts,"Bristol County, MA",Bristol,MassachusettsBristol,263456,30076
+900,396,Massachusetts,Dukes,MassachusettsDukes,2020,126,45,37,23.6,44.9,1244,Massachusetts,"Dukes County, MA",Dukes,MassachusettsDukes,8640,877
+901,397,Massachusetts,Essex,MassachusettsEssex,2020,97,50,37,25.1,39.9,1245,Massachusetts,"Essex County, MA",Essex,MassachusettsEssex,374075,40585
+902,398,Massachusetts,Franklin,MassachusettsFranklin,2020,96,55,37,28.5,37.3,1246,Massachusetts,"Franklin County, MA",Franklin,MassachusettsFranklin,36565,2936
+903,399,Massachusetts,Hampden,MassachusettsHampden,2020,99,55,39,30.7,27.1,1247,Massachusetts,"Hampden County, MA",Hampden,MassachusettsHampden,197372,22887
+904,400,Massachusetts,Hampshire,MassachusettsHampshire,2020,84,48,35,22.6,48.3,1248,Massachusetts,"Hampshire County, MA",Hampshire,MassachusettsHampshire,79477,6184
+905,401,Massachusetts,Middlesex,MassachusettsMiddlesex,2020,93,48,36,19.0,56.3,1249,Massachusetts,"Middlesex County, MA",Middlesex,MassachusettsMiddlesex,818205,64193
+906,402,Massachusetts,Norfolk,MassachusettsNorfolk,2020,71,43,32,19.2,53.6,1251,Massachusetts,"Norfolk County, MA",Norfolk,MassachusettsNorfolk,348328,31733
+907,403,Massachusetts,Plymouth,MassachusettsPlymouth,2020,80,51,37,27.8,37.6,1252,Massachusetts,"Plymouth County, MA",Plymouth,MassachusettsPlymouth,250579,26154
+908,404,Massachusetts,Suffolk,MassachusettsSuffolk,2020,84,51,37,22.1,46.1,1253,Massachusetts,"Suffolk County, MA",Suffolk,MassachusettsSuffolk,403388,43170
+909,405,Massachusetts,Worcester,MassachusettsWorcester,2020,90,52,38,27.8,36.4,1254,Massachusetts,"Worcester County, MA",Worcester,MassachusettsWorcester,394081,37924
+910,433,Minnesota,Anoka,MinnesotaAnoka,2020,87,52,35,27.9,30.5,1341,Minnesota,"Anoka County, MN",Anoka,MinnesotaAnoka,185714,12590
+911,434,Minnesota,Becker,MinnesotaBecker,2020,101,46,32,31.6,25.0,1342,Minnesota,"Becker County, MN",Becker,MinnesotaBecker,17644,1173
+912,435,Minnesota,Beltrami,MinnesotaBeltrami,2020,73,39,23,27.8,29.2,1343,Minnesota,"Beltrami County, MN",Beltrami,MinnesotaBeltrami,23306,1559
+913,436,Minnesota,Carlton,MinnesotaCarlton,2020,84,42,24,32.1,22.1,1348,Minnesota,"Carlton County, MN",Carlton,MinnesotaCarlton,16435,1280
+914,437,Minnesota,Cass,MinnesotaCass,2020,75,35,17,32.3,23.2,1350,Minnesota,"Cass County, MN",Cass,MinnesotaCass,12905,1301
+915,438,Minnesota,Cook,MinnesotaCook,2020,53,21,10,24.0,40.4,1355,Minnesota,"Cook County, MN",Cook,MinnesotaCook,2699,249
+916,439,Minnesota,Crow Wing,MinnesotaCrow,2020,76,42,28,29.9,24.7,1357,Minnesota,"Crow Wing County, MN",Crow,MinnesotaCrow,29954,2337
+917,440,Minnesota,Dakota,MinnesotaDakota,2020,135,52,30,20.4,42.2,1358,Minnesota,"Dakota County, MN",Dakota,MinnesotaDakota,227375,15019
+918,441,Minnesota,Goodhue,MinnesotaGoodhue,2020,87,46,35,32.8,26.0,1364,Minnesota,"Goodhue County, MN",Goodhue,MinnesotaGoodhue,25099,1560
+919,442,Minnesota,Hennepin,MinnesotaHennepin,2020,156,57,38,16.4,50.1,1366,Minnesota,"Hennepin County, MN",Hennepin,MinnesotaHennepin,663738,46532
+920,443,Minnesota,Lake,MinnesotaLake,2020,71,42,30,30.9,28.8,1377,Minnesota,"Lake County, MN",Lake,MinnesotaLake,4889,384
+921,443,Minnesota,Lake,MinnesotaLake,2020,71,42,30,30.9,28.8,1378,Minnesota,"Lake of the Woods County, MN",Lake,MinnesotaLake,2292,150
+924,444,Minnesota,Lyon,MinnesotaLyon,2020,80,48,32,31.7,26.1,1381,Minnesota,"Lyon County, MN",Lyon,MinnesotaLyon,13719,645
+925,445,Minnesota,Mille Lacs,MinnesotaMille,2020,87,44,33,38.6,14.7,1387,Minnesota,"Mille Lacs County, MN",Mille,MinnesotaMille,11847,1090
+926,446,Minnesota,Olmsted,MinnesotaOlmsted,2020,111,52,35,19.9,44.9,1394,Minnesota,"Olmsted County, MN",Olmsted,MinnesotaOlmsted,86093,4937
+927,447,Minnesota,Ramsey,MinnesotaRamsey,2020,160,54,30,20.9,42.3,1401,Minnesota,"Ramsey County, MN",Ramsey,MinnesotaRamsey,270117,20064
+928,449,Minnesota,Scott,MinnesotaScott,2020,121,49,32,22.2,39.9,1409,Minnesota,"Scott County, MN",Scott,MinnesotaScott,78940,4957
+929,450,Minnesota,Stearns,MinnesotaStearns,2020,80,47,33,28.0,27.5,1412,Minnesota,"Stearns County, MN",Stearns,MinnesotaStearns,85650,5213
+930,451,Minnesota,Washington,MinnesotaWashington,2020,77,42,24,21.0,44.3,1421,Minnesota,"Washington County, MN",Washington,MinnesotaWashington,135509,8074
+931,452,Minnesota,Winona,MinnesotaWinona,2020,52,27,16,27.2,30.1,1424,Minnesota,"Winona County, MN",Winona,MinnesotaWinona,26800,1393
+932,453,Minnesota,Wright,MinnesotaWright,2020,112,51,34,29.4,29.6,1425,Minnesota,"Wright County, MN",Wright,MinnesotaWright,71523,4198
+933,454,Mississippi,Bolivar,MississippiBolivar,2020,85,56,39,24.9,23.6,1433,Mississippi,"Bolivar County, MS",Bolivar,MississippiBolivar,10531,1006
+934,455,Mississippi,DeSoto,MississippiDeSoto,2020,100,54,37,29.2,25.0,1444,Mississippi,"DeSoto County, MS",DeSoto,MississippiDeSoto,85029,5469
+935,456,Mississippi,Forrest,MississippiForrest,2020,97,59,36,27.2,27.8,1445,Mississippi,"Forrest County, MS",Forrest,MississippiForrest,30328,2655
+936,457,Mississippi,Hancock,MississippiHancock,2020,88,54,38,28.1,22.0,1450,Mississippi,"Hancock County, MS",Hancock,MississippiHancock,17106,1586
+937,458,Mississippi,Harrison,MississippiHarrison,2020,101,60,42,29.1,23.1,1451,Mississippi,"Harrison County, MS",Harrison,MississippiHarrison,79148,8262
+938,459,Mississippi,Hinds,MississippiHinds,2020,114,62,44,25.0,29.0,1452,Mississippi,"Hinds County, MS",Hinds,MississippiHinds,94636,9755
+939,460,Mississippi,Jackson,MississippiJackson,2020,84,55,39,31.2,21.1,1457,Mississippi,"Jackson County, MS",Jackson,MississippiJackson,52868,5567
+940,461,Mississippi,Lauderdale,MississippiLauderdale,2020,50,42,31,27.5,19.7,1465,Mississippi,"Lauderdale County, MS",Lauderdale,MississippiLauderdale,27416,2222
+941,462,Mississippi,Lee,MississippiLee,2020,54,45,35,25.9,24.4,1468,Mississippi,"Lee County, MS",Lee,MississippiLee,37985,3362
+942,463,Mississippi,Yalobusha,MississippiYalobusha,2020,51,42,31,40.2,13.8,1508,Mississippi,"Yalobusha County, MS",Yalobusha,MississippiYalobusha,4513,387
+943,464,Missouri,Andrew,MissouriAndrew,2020,77,49,38,37.4,24.9,1512,Missouri,"Andrew County, MO",Andrew,MissouriAndrew,9355,394
+944,465,Missouri,Boone,MissouriBoone,2020,93,44,33,21.3,46.1,1520,Missouri,"Boone County, MO",Boone,MissouriBoone,92311,4070
+945,466,Missouri,Buchanan,MissouriBuchanan,2020,126,53,33,37.8,21.1,1521,Missouri,"Buchanan County, MO",Buchanan,MissouriBuchanan,41667,2160
+946,467,Missouri,Callaway,MissouriCallaway,2020,87,45,35,36.1,23.1,1524,Missouri,"Callaway County, MO",Callaway,MissouriCallaway,20410,956
+947,468,Missouri,Cass,MissouriCass,2020,105,49,36,33.9,26.3,1529,Missouri,"Cass County, MO",Cass,MissouriCass,51203,2876
+948,469,Missouri,Cedar,MissouriCedar,2020,99,50,36,41.2,13.6,1530,Missouri,"Cedar County, MO",Cedar,MissouriCedar,5478,256
+949,470,Missouri,Clay,MissouriClay,2020,101,55,35,28.4,33.2,1534,Missouri,"Clay County, MO",Clay,MissouriClay,128194,8374
+950,471,Missouri,Clinton,MissouriClinton,2020,87,48,37,40.0,21.6,1535,Missouri,"Clinton County, MO",Clinton,MissouriClinton,9936,628
+951,472,Missouri,Franklin,MissouriFranklin,2020,94,17,1,32.7,20.9,1546,Missouri,"Franklin County, MO",Franklin,MissouriFranklin,49396,3265
+952,473,Missouri,Greene,MissouriGreene,2020,116,52,37,28.0,30.5,1549,Missouri,"Greene County, MO",Greene,MissouriGreene,142704,8062
+953,474,Missouri,Iron,MissouriIron,2020,100,47,17,41.4,10.8,1557,Missouri,"Iron County, MO",Iron,MissouriIron,3254,246
+954,475,Missouri,Jackson,MissouriJackson,2020,157,60,40,28.3,31.6,1558,Missouri,"Jackson County, MO",Jackson,MissouriJackson,334471,25742
+955,476,Missouri,Jasper,MissouriJasper,2020,82,52,35,33.6,23.6,1559,Missouri,"Jasper County, MO",Jasper,MissouriJasper,52968,3186
+956,477,Missouri,Jefferson,MissouriJefferson,2020,141,54,38,31.6,20.4,1560,Missouri,"Jefferson County, MO",Jefferson,MissouriJefferson,109655,7119
+957,478,Missouri,Lincoln,MissouriLincoln,2020,108,48,37,42.3,16.8,1567,Missouri,"Lincoln County, MO",Lincoln,MissouriLincoln,26926,1797
+958,479,Missouri,Monroe,MissouriMonroe,2020,84,43,31,48.4,12.4,1579,Missouri,"Monroe County, MO",Monroe,MissouriMonroe,3564,225
+959,480,Missouri,New Madrid,MissouriNew,2020,200,168,117,46.7,12.1,1582,Missouri,"New Madrid County, MO",New,MissouriNew,7991,492
+960,481,Missouri,Perry,MissouriPerry,2020,97,47,36,43.3,17.7,1589,Missouri,"Perry County, MO",Perry,MissouriPerry,9264,562
+961,485,Missouri,St. Louis City,MissouriSt.,2020,155,67,46,24.6,38.9,1602,Missouri,"St. Charles County, MO",St.,MissouriSt.,212786,11735
+962,485,Missouri,St. Louis City,MissouriSt.,2020,155,67,46,24.6,38.9,1603,Missouri,"St. Clair County, MO",St.,MissouriSt.,3534,230
+963,485,Missouri,St. Louis City,MissouriSt.,2020,155,67,46,24.6,38.9,1605,Missouri,"St. Francois County, MO",St.,MissouriSt.,24562,1852
+964,485,Missouri,St. Louis City,MissouriSt.,2020,155,67,46,24.6,38.9,1606,Missouri,"St. Louis County, MO",St.,MissouriSt.,491901,32820
+965,485,Missouri,St. Louis City,MissouriSt.,2020,155,67,46,24.6,38.9,1625,Missouri,"St. Louis city, MO",St.,MissouriSt.,139334,12958
+986,486,Missouri,Stoddard,MissouriStoddard,2020,62,36,18,41.5,13.3,1613,Missouri,"Stoddard County, MO",Stoddard,MissouriStoddard,12450,788
+987,487,Missouri,Taney,MissouriTaney,2020,57,35,17,33.6,19.9,1616,Missouri,"Taney County, MO",Taney,MissouriTaney,22866,3393
+988,488,Montana,Cascade,MontanaCascade,2020,115,44,18,32.8,25.7,1633,Montana,"Cascade County, MT",Cascade,MontanaCascade,35561,2236
+989,489,Montana,Fergus,MontanaFergus,2020,157,47,39,28.5,29.1,1640,Montana,"Fergus County, MT",Fergus,MontanaFergus,5578,266
+990,490,Montana,Flathead,MontanaFlathead,2020,190,56,35,29.4,31.0,1641,Montana,"Flathead County, MT",Flathead,MontanaFlathead,45499,3858
+991,491,Montana,Gallatin,MontanaGallatin,2020,159,52,22,17.8,50.1,1642,Montana,"Gallatin County, MT",Gallatin,MontanaGallatin,66898,3536
+992,492,Montana,Lake,MontanaLake,2020,174,27,6,28.5,29.6,1650,Montana,"Lake County, MT",Lake,MontanaLake,12815,844
+993,493,Montana,Lewis and Clark,MontanaLewis,2020,164,55,40,23.6,40.1,1651,Montana,"Lewis and Clark County, MT",Lewis,MontanaLewis,34666,1813
+994,494,Montana,Lincoln,MontanaLincoln,2020,327,71,40,37.3,19.6,1653,Montana,"Lincoln County, MT",Lincoln,MontanaLincoln,7278,819
+995,495,Montana,Missoula,MontanaMissoula,2020,176,83,47,21.7,43.0,1658,Montana,"Missoula County, MT",Missoula,MontanaMissoula,60106,4017
+996,496,Montana,Phillips,MontanaPhillips,2020,140,64,35,39.5,17.2,1662,Montana,"Phillips County, MT",Phillips,MontanaPhillips,1798,93
+997,497,Montana,Powder River,MontanaPowder,2020,157,66,40,29.7,24.4,1664,Montana,"Powder River County, MT",Powder,MontanaPowder,946,30
+998,498,Montana,Powell,MontanaPowell,2020,11,7,3,37.8,20.4,1665,Montana,"Powell County, MT",Powell,MontanaPowell,2819,137
+999,499,Montana,Ravalli,MontanaRavalli,2020,176,54,11,30.4,27.8,1667,Montana,"Ravalli County, MT",Ravalli,MontanaRavalli,19493,1191
+1000,500,Montana,Richland,MontanaRichland,2020,68,46,36,35.2,18.9,1668,Montana,"Richland County, MT",Richland,MontanaRichland,5556,382
+1001,501,Montana,Roosevelt,MontanaRoosevelt,2020,55,26,9,31.6,17.4,1669,Montana,"Roosevelt County, MT",Roosevelt,MontanaRoosevelt,4185,266
+1002,502,Montana,Rosebud,MontanaRosebud,2020,153,48,37,30.7,17.8,1670,Montana,"Rosebud County, MT",Rosebud,MontanaRosebud,3530,212
+1003,503,Montana,Sanders,MontanaSanders,2020,236,51,23,41.9,17.9,1671,Montana,"Sanders County, MT",Sanders,MontanaSanders,4691,395
+1004,504,Montana,Sheridan,MontanaSheridan,2020,53,20,10,32.1,23.9,1672,Montana,"Sheridan County, MT",Sheridan,MontanaSheridan,1684,85
+1005,505,Montana,Silver Bow,MontanaSilver,2020,173,56,19,32.0,27.2,1673,Montana,"Silver Bow County, MT",Silver,MontanaSilver,16153,1142
+1006,506,Montana,Yellowstone,MontanaYellowstone,2020,160,48,23,30.2,32.1,1682,Montana,"Yellowstone County, MT",Yellowstone,MontanaYellowstone,78676,4527
+1008,507,Nebraska,Cass,NebraskaCass,2020,71,32,14,29.9,27.7,1696,Nebraska,"Cass County, NE",Cass,NebraskaCass,12851,581
+1009,508,Nebraska,Douglas,NebraskaDouglas,2020,156,55,36,21.4,39.7,1711,Nebraska,"Douglas County, NE",Douglas,NebraskaDouglas,284846,15294
+1010,509,Nebraska,Hall,NebraskaHall,2020,85,43,20,31.3,21.5,1723,Nebraska,"Hall County, NE",Hall,NebraskaHall,30179,1851
+1011,510,Nebraska,Knox,NebraskaKnox,2020,84,48,35,33.8,21.6,1737,Nebraska,"Knox County, NE",Knox,NebraskaKnox,4517,138
+1012,511,Nebraska,Lancaster,NebraskaLancaster,2020,74,45,30,21.5,39.5,1738,Nebraska,"Lancaster County, NE",Lancaster,NebraskaLancaster,169507,7499
+1013,512,Nebraska,Sarpy,NebraskaSarpy,2020,149,52,29,21.7,39.8,1760,Nebraska,"Sarpy County, NE",Sarpy,NebraskaSarpy,92833,3943
+1014,513,Nebraska,Scotts Bluff,NebraskaScotts,2020,122,55,27,28.7,22.9,1762,Nebraska,"Scotts Bluff County, NE",Scotts,NebraskaScotts,17402,758
+1015,514,Nebraska,Thomas,NebraskaThomas,2020,71,29,11,22.8,24.7,1769,Nebraska,"Thomas County, NE",Thomas,NebraskaThomas,403,17
+1016,515,Nebraska,Washington,NebraskaWashington,2020,72,42,23,31.6,29.9,1772,Nebraska,"Washington County, NE",Washington,NebraskaWashington,10729,407
+1017,516,Nevada,Carson City,NevadaCarson,2020,192,67,41,26.0,22.2,1794,Nevada,"Carson City, NV",Carson,NevadaCarson,23987,2143
+1018,517,Nevada,Churchill,NevadaChurchill,2020,147,50,40,31.6,18.8,1778,Nevada,"Churchill County, NV",Churchill,NevadaChurchill,10451,623
+1019,518,Nevada,Clark,NevadaClark,2020,174,93,61,28.5,24.5,1779,Nevada,"Clark County, NV",Clark,NevadaClark,958069,165513
+1020,519,Nevada,Douglas,NevadaDouglas,2020,249,60,17,24.4,29.4,1780,Nevada,"Douglas County, NV",Douglas,NevadaDouglas,20531,1934
+1021,520,Nevada,Elko,NevadaElko,2020,154,47,18,32.8,16.6,1781,Nevada,"Elko County, NV",Elko,NevadaElko,25264,1527
+1022,521,Nevada,Lyon,NevadaLyon,2020,331,59,38,32.8,14.4,1787,Nevada,"Lyon County, NV",Lyon,NevadaLyon,21077,1968
+1023,522,Nevada,Nye,NevadaNye,2020,200,40,21,38.9,10.7,1789,Nevada,"Nye County, NV",Nye,NevadaNye,15889,1707
+1024,523,Nevada,Washoe,NevadaWashoe,2020,240,85,46,23.5,30.8,1792,Nevada,"Washoe County, NV",Washoe,NevadaWashoe,234544,19734
+1025,524,Nevada,White Pine,NevadaWhite,2020,136,61,44,41.5,13.2,1793,Nevada,"White Pine County, NV",White,NevadaWhite,4403,192
+1026,532,New Jersey,Atlantic,New JerseyAtlantic,2020,90,47,34,32.0,28.1,1807,New Jersey,"Atlantic County, NJ",Atlantic,New JerseyAtlantic,99546,21491
+1027,533,New Jersey,Bergen,New JerseyBergen,2020,119,58,39,22.7,49.3,1808,New Jersey,"Bergen County, NJ",Bergen,New JerseyBergen,432189,45703
+1028,534,New Jersey,Camden,New JerseyCamden,2020,87,58,40,29.5,32.5,1810,New Jersey,"Camden County, NJ",Camden,New JerseyCamden,230287,25761
+1029,535,New Jersey,Cumberland,New JerseyCumberland,2020,71,52,38,39.4,15.6,1812,New Jersey,"Cumberland County, NJ",Cumberland,New JerseyCumberland,59148,7129
+1030,536,New Jersey,Essex,New JerseyEssex,2020,127,58,39,28.0,35.5,1813,New Jersey,"Essex County, NJ",Essex,New JerseyEssex,330269,43674
+1031,537,New Jersey,Gloucester,New JerseyGloucester,2020,101,49,36,32.0,33.0,1814,New Jersey,"Gloucester County, NJ",Gloucester,New JerseyGloucester,137052,14028
+1032,538,New Jersey,Hudson,New JerseyHudson,2020,90,54,37,25.1,42.3,1815,New Jersey,"Hudson County, NJ",Hudson,New JerseyHudson,322277,38221
+1033,539,New Jersey,Hunterdon,New JerseyHunterdon,2020,85,52,38,21.0,52.7,1816,New Jersey,"Hunterdon County, NJ",Hunterdon,New JerseyHunterdon,58730,4565
+1034,540,New Jersey,Mercer,New JerseyMercer,2020,112,54,38,24.6,42.6,1817,New Jersey,"Mercer County, NJ",Mercer,New JerseyMercer,190150,15255
+1035,541,New Jersey,Middlesex,New JerseyMiddlesex,2020,112,53,37,25.3,43.6,1818,New Jersey,"Middlesex County, NJ",Middlesex,New JerseyMiddlesex,398298,38031
+1036,542,New Jersey,Monmouth,New JerseyMonmouth,2020,93,48,37,23.4,46.0,1819,New Jersey,"Monmouth County, NJ",Monmouth,New JerseyMonmouth,298748,28964
+1037,543,New Jersey,Morris,New JerseyMorris,2020,84,47,35,20.1,54.1,1820,New Jersey,"Morris County, NJ",Morris,New JerseyMorris,232958,19630
+1038,544,New Jersey,Ocean,New JerseyOcean,2020,84,48,35,34.0,30.0,1821,New Jersey,"Ocean County, NJ",Ocean,New JerseyOcean,252016,26397
+1039,545,New Jersey,Passaic,New JerseyPassaic,2020,100,47,36,34.5,28.2,1822,New Jersey,"Passaic County, NJ",Passaic,New JerseyPassaic,214293,30894
+1040,546,New Jersey,Union,New JerseyUnion,2020,111,56,38,28.6,36.0,1826,New Jersey,"Union County, NJ",Union,New JerseyUnion,248871,27340
+1041,547,New Jersey,Warren,New JerseyWarren,2020,100,50,34,30.6,33.0,1827,New Jersey,"Warren County, NJ",Warren,New JerseyWarren,50947,4723
+1042,548,New Mexico,Bernalillo,New MexicoBernalillo,2020,214,77,54,23.2,34.4,1829,New Mexico,"Bernalillo County, NM",Bernalillo,New MexicoBernalillo,303820,26825
+1043,549,New Mexico,Catron,New MexicoCatron,2020,79,31,11,47.1,15.7,1830,New Mexico,"Catron County, NM",Catron,New MexicoCatron,1075,84
+1044,550,New Mexico,Chaves,New MexicoChaves,2020,75,39,19,27.7,18.0,1831,New Mexico,"Chaves County, NM",Chaves,New MexicoChaves,25832,2274
+1045,551,New Mexico,Dona Ana,New MexicoDona,2020,400,88,53,22.7,27.1,1836,New Mexico,"Dona Ana County, NM",Dona,New MexicoDona,89080,8073
+1046,552,New Mexico,Eddy,New MexicoEddy,2020,115,80,46,36.6,16.2,1837,New Mexico,"Eddy County, NM",Eddy,New MexicoEddy,31384,2316
+1047,553,New Mexico,Lea,New MexicoLea,2020,76,50,39,31.5,13.6,1842,New Mexico,"Lea County, NM",Lea,New MexicoLea,26281,3264
+1048,554,New Mexico,Lincoln,New MexicoLincoln,2020,51,29,13,29.9,25.8,1843,New Mexico,"Lincoln County, NM",Lincoln,New MexicoLincoln,8154,789
+1049,555,New Mexico,Los Alamos,New MexicoLos,2020,53,19,11,8.8,67.4,1844,New Mexico,"Los Alamos County, NM",Los,New MexicoLos,9603,371
+1050,556,New Mexico,Luna,New MexicoLuna,2020,360,40,19,34.4,12.5,1845,New Mexico,"Luna County, NM",Luna,New MexicoLuna,8727,1645
+1051,557,New Mexico,Rio Arriba,New MexicoRio,2020,90,54,44,32.2,19.3,1850,New Mexico,"Rio Arriba County, NM",Rio,New MexicoRio,15455,1361
+1052,558,New Mexico,San Juan,New MexicoSan,2020,109,64,45,30.5,14.9,1853,New Mexico,"San Juan County, NM",San,New MexicoSan,45321,5046
+1053,558,New Mexico,San Juan,New MexicoSan,2020,109,64,45,30.5,14.9,1854,New Mexico,"San Miguel County, NM",San,New MexicoSan,9646,870
+1056,559,New Mexico,Sandoval,New MexicoSandoval,2020,119,61,44,25.5,30.5,1852,New Mexico,"Sandoval County, NM",Sandoval,New MexicoSandoval,60627,5698
+1057,560,New Mexico,Santa Fe,New MexicoSanta,2020,101,58,44,22.3,41.0,1855,New Mexico,"Santa Fe County, NM",Santa,New MexicoSanta,65455,5891
+1058,561,New Mexico,Socorro,New MexicoSocorro,2020,49,28,12,37.4,22.0,1857,New Mexico,"Socorro County, NM",Socorro,New MexicoSocorro,5805,443
+1059,562,New Mexico,Taos,New MexicoTaos,2020,64,43,20,28.2,28.7,1858,New Mexico,"Taos County, NM",Taos,New MexicoTaos,13238,1729
+1060,563,New Mexico,Valencia,New MexicoValencia,2020,105,61,44,33.0,18.5,1861,New Mexico,"Valencia County, NM",Valencia,New MexicoValencia,27681,2486
+1061,564,New York,Albany,New YorkAlbany,2020,143,55,38,23.0,41.8,1863,New York,"Albany County, NY",Albany,New YorkAlbany,146027,11299
+1062,565,New York,Bronx,New YorkBronx,2020,108,61,39,27.9,20.1,1865,New York,"Bronx County, NY",Bronx,New YorkBronx,494651,94436
+1063,566,New York,Chautauqua,New YorkChautauqua,2020,93,47,35,35.5,22.2,1869,New York,"Chautauqua County, NY",Chautauqua,New YorkChautauqua,48027,4702
+1064,567,New York,Dutchess,New YorkDutchess,2020,87,44,33,26.8,35.0,1876,New York,"Dutchess County, NY",Dutchess,New YorkDutchess,131173,10888
+1065,568,New York,Erie,New YorkErie,2020,155,52,37,27.6,34.4,1877,New York,"Erie County, NY",Erie,New YorkErie,397536,41755
+1066,569,New York,Essex,New YorkEssex,2020,80,47,38,34.4,26.8,1878,New York,"Essex County, NY",Essex,New YorkEssex,15174,1344
+1067,570,New York,Hamilton,New YorkHamilton,2020,54,44,34,27.2,16.8,1883,New York,"Hamilton County, NY",Hamilton,New YorkHamilton,1972,169
+1068,571,New York,Jefferson,New YorkJefferson,2020,90,44,33,34.7,22.2,1885,New York,"Jefferson County, NY",Jefferson,New YorkJefferson,39542,3753
+1069,572,New York,Kings,New YorkKings,2020,77,47,23,25.7,37.5,1886,New York,"Kings County, NY",Kings,New YorkKings,1006852,144278
+1070,573,New York,Monroe,New YorkMonroe,2020,80,52,36,23.4,38.6,1890,New York,"Monroe County, NY",Monroe,New YorkMonroe,328525,30774
+1071,574,New York,Nassau,New YorkNassau,2020,72,41,20,22.7,46.0,1892,New York,"Nassau County, NY",Nassau,New YorkNassau,640035,58907
+1072,575,New York,New York,New YorkNew,2020,108,56,37,26.0,36.6,1862,New York,New York,New,New YorkNew,8361006,928165
+1073,575,New York,New York,New YorkNew,2020,108,56,37,26.0,36.6,1893,New York,"New York County, NY",New,New YorkNew,777583,82035
+1076,576,New York,Niagara,New YorkNiagara,2020,87,46,34,33.2,24.6,1894,New York,"Niagara County, NY",Niagara,New YorkNiagara,87906,10199
+1077,577,New York,Oneida,New YorkOneida,2020,78,36,16,31.9,25.7,1895,New York,"Oneida County, NY",Oneida,New YorkOneida,92473,8175
+1078,578,New York,Onondaga,New YorkOnondaga,2020,74,48,35,25.4,35.9,1896,New York,"Onondaga County, NY",Onondaga,New YorkOnondaga,202037,18446
+1079,579,New York,Orange,New YorkOrange,2020,97,47,36,29.3,30.3,1898,New York,"Orange County, NY",Orange,New YorkOrange,167957,15308
+1080,580,New York,Oswego,New YorkOswego,2020,58,44,33,37.5,19.0,1900,New York,"Oswego County, NY",Oswego,New YorkOswego,47549,4660
+1081,581,New York,Putnam,New YorkPutnam,2020,64,44,32,27.1,39.6,1902,New York,"Putnam County, NY",Putnam,New YorkPutnam,46294,3785
+1082,582,New York,Queens,New YorkQueens,2020,140,61,38,27.5,32.2,1903,New York,"Queens County, NY",Queens,New YorkQueens,961214,137723
+1083,583,New York,Richmond,New YorkRichmond,2020,108,52,36,30.4,33.9,1905,New York,"Richmond County, NY",Richmond,New YorkRichmond,188608,22456
+1084,584,New York,Rockland,New YorkRockland,2020,93,48,34,22.5,41.1,1906,New York,"Rockland County, NY",Rockland,New YorkRockland,140547,12356
+1085,585,New York,Saratoga,New YorkSaratoga,2020,61,44,33,24.9,41.4,1908,New York,"Saratoga County, NY",Saratoga,New YorkSaratoga,111029,7980
+1086,586,New York,St. Lawrence,New YorkSt.,2020,118,69,14,36.8,23.8,1907,New York,"St. Lawrence County, NY",St.,New YorkSt.,39353,3501
+1087,587,New York,Steuben,New YorkSteuben,2020,79,44,34,36.7,23.6,1913,New York,"Steuben County, NY",Steuben,New YorkSteuben,38592,3430
+1088,588,New York,Suffolk,New YorkSuffolk,2020,133,59,37,27.3,36.3,1914,New York,"Suffolk County, NY",Suffolk,New YorkSuffolk,699613,64951
+1089,589,New York,Tompkins,New YorkTompkins,2020,64,44,34,19.0,53.5,1917,New York,"Tompkins County, NY",Tompkins,New YorkTompkins,44967,2962
+1090,590,New York,Wayne,New YorkWayne,2020,80,46,34,33.7,22.6,1921,New York,"Wayne County, NY",Wayne,New YorkWayne,39749,3172
+1091,591,New York,Westchester,New YorkWestchester,2020,105,50,36,19.2,48.9,1922,New York,"Westchester County, NY",Westchester,New YorkWestchester,437772,40187
+1092,592,North Carolina,Alexander,North CarolinaAlexander,2020,54,45,33,38.7,14.2,1927,North Carolina,"Alexander County, NC",Alexander,North CarolinaAlexander,16377,1317
+1093,593,North Carolina,Avery,North CarolinaAvery,2020,80,46,37,30.2,20.7,1931,North Carolina,"Avery County, NC",Avery,North CarolinaAvery,6825,462
+1094,594,North Carolina,Beaufort,North CarolinaBeaufort,2020,34,6,0,32.5,20.6,1932,North Carolina,"Beaufort County, NC",Beaufort,North CarolinaBeaufort,18159,1228
+1095,595,North Carolina,Brunswick,North CarolinaBrunswick,2020,100,34,0,27.9,29.9,1935,North Carolina,"Brunswick County, NC",Brunswick,North CarolinaBrunswick,47641,4605
+1096,596,North Carolina,Buncombe,North CarolinaBuncombe,2020,97,45,31,23.2,40.1,1936,North Carolina,"Buncombe County, NC",Buncombe,North CarolinaBuncombe,125114,11366
+1097,597,North Carolina,Caldwell,North CarolinaCaldwell,2020,50,44,31,32.5,15.7,1939,North Carolina,"Caldwell County, NC",Caldwell,North CarolinaCaldwell,32931,2823
+1098,598,North Carolina,Carteret,North CarolinaCarteret,2020,61,43,34,25.6,29.1,1941,North Carolina,"Carteret County, NC",Carteret,North CarolinaCarteret,29373,1947
+1099,599,North Carolina,Caswell,North CarolinaCaswell,2020,61,44,31,33.6,15.9,1942,North Carolina,"Caswell County, NC",Caswell,North CarolinaCaswell,8869,752
+1100,600,North Carolina,Catawba,North CarolinaCatawba,2020,94,53,31,30.0,22.6,1943,North Carolina,"Catawba County, NC",Catawba,North CarolinaCatawba,71632,6220
+1101,601,North Carolina,Cumberland,North CarolinaCumberland,2020,81,49,35,25.9,25.5,1951,North Carolina,"Cumberland County, NC",Cumberland,North CarolinaCumberland,114386,12001
+1102,602,North Carolina,Davidson,North CarolinaDavidson,2020,95,54,32,32.8,18.5,1954,North Carolina,"Davidson County, NC",Davidson,North CarolinaDavidson,73311,5605
+1103,603,North Carolina,Durham,North CarolinaDurham,2020,97,49,35,17.7,48.2,1957,North Carolina,"Durham County, NC",Durham,North CarolinaDurham,159304,11118
+1104,604,North Carolina,Edgecombe,North CarolinaEdgecombe,2020,94,46,32,37.5,13.6,1958,North Carolina,"Edgecombe County, NC",Edgecombe,North CarolinaEdgecombe,18511,2191
+1105,605,North Carolina,Forsyth,North CarolinaForsyth,2020,97,56,40,25.7,34.0,1959,North Carolina,"Forsyth County, NC",Forsyth,North CarolinaForsyth,170449,13700
+1106,606,North Carolina,Graham,North CarolinaGraham,2020,97,49,40,36.3,12.9,1963,North Carolina,"Graham County, NC",Graham,North CarolinaGraham,2772,305
+1107,607,North Carolina,Granville,North CarolinaGranville,2020,51,46,36,30.6,22.5,1964,North Carolina,"Granville County, NC",Granville,North CarolinaGranville,27832,1734
+1108,608,North Carolina,Guilford,North CarolinaGuilford,2020,87,50,36,23.3,36.0,1966,North Carolina,"Guilford County, NC",Guilford,North CarolinaGuilford,234933,22064
+1109,609,North Carolina,Haywood,North CarolinaHaywood,2020,93,50,35,26.4,26.0,1969,North Carolina,"Haywood County, NC",Haywood,North CarolinaHaywood,26503,2160
+1110,610,North Carolina,Hyde,North CarolinaHyde,2020,53,30,16,38.7,9.2,1973,North Carolina,"Hyde County, NC",Hyde,North CarolinaHyde,1614,183
+1111,611,North Carolina,Jackson,North CarolinaJackson,2020,68,40,24,26.8,30.4,1975,North Carolina,"Jackson County, NC",Jackson,North CarolinaJackson,18286,1499
+1112,612,North Carolina,Johnston,North CarolinaJohnston,2020,72,49,36,27.8,22.9,1976,North Carolina,"Johnston County, NC",Johnston,North CarolinaJohnston,92056,6241
+1113,613,North Carolina,Lenoir,North CarolinaLenoir,2020,58,45,32,31.9,14.9,1979,North Carolina,"Lenoir County, NC",Lenoir,North CarolinaLenoir,25892,1708
+1114,614,North Carolina,Lincoln,North CarolinaLincoln,2020,71,45,35,31.1,23.0,1980,North Carolina,"Lincoln County, NC",Lincoln,North CarolinaLincoln,40410,2852
+1115,615,North Carolina,Macon,North CarolinaMacon,2020,64,41,29,31.0,23.8,1982,North Carolina,"Macon County, NC",Macon,North CarolinaMacon,14416,1033
+1116,616,North Carolina,Martin,North CarolinaMartin,2020,49,41,30,33.9,16.4,1984,North Carolina,"Martin County, NC",Martin,North CarolinaMartin,8267,617
+1117,617,North Carolina,Mecklenburg,North CarolinaMecklenburg,2020,112,56,40,17.0,45.4,1985,North Carolina,"Mecklenburg County, NC",Mecklenburg,North CarolinaMecklenburg,569616,47927
+1118,618,North Carolina,Mitchell,North CarolinaMitchell,2020,103,36,20,33.0,20.5,1986,North Carolina,"Mitchell County, NC",Mitchell,North CarolinaMitchell,5427,459
+1119,619,North Carolina,Montgomery,North CarolinaMontgomery,2020,83,47,35,34.6,15.7,1987,North Carolina,"Montgomery County, NC",Montgomery,North CarolinaMontgomery,10573,755
+1120,620,North Carolina,New Hanover,North CarolinaNew,2020,74,45,31,21.3,40.6,1990,North Carolina,"New Hanover County, NC",New,North CarolinaNew,112078,8761
+1121,621,North Carolina,Northampton,North CarolinaNorthampton,2020,88,42,22,38.5,13.8,1991,North Carolina,"Northampton County, NC",Northampton,North CarolinaNorthampton,6978,550
+1122,622,North Carolina,Person,North CarolinaPerson,2020,74,43,29,37.4,15.6,1998,North Carolina,"Person County, NC",Person,North CarolinaPerson,16766,1332
+1123,623,North Carolina,Pitt,North CarolinaPitt,2020,95,47,33,23.8,32.7,1999,North Carolina,"Pitt County, NC",Pitt,North CarolinaPitt,81504,5946
+1124,624,North Carolina,Rockingham,North CarolinaRockingham,2020,54,46,34,34.9,15.1,2004,North Carolina,"Rockingham County, NC",Rockingham,North CarolinaRockingham,35723,3260
+1125,625,North Carolina,Rowan,North CarolinaRowan,2020,88,52,39,32.6,18.5,2005,North Carolina,"Rowan County, NC",Rowan,North CarolinaRowan,59909,5174
+1126,626,North Carolina,Swain,North CarolinaSwain,2020,119,47,33,30.6,18.2,2012,North Carolina,"Swain County, NC",Swain,North CarolinaSwain,6351,588
+1127,627,North Carolina,Union,North CarolinaUnion,2020,50,44,31,24.6,35.4,2015,North Carolina,"Union County, NC",Union,North CarolinaUnion,113926,7247
+1128,628,North Carolina,Wake,North CarolinaWake,2020,101,56,38,15.1,52.8,2017,North Carolina,"Wake County, NC",Wake,North CarolinaWake,546490,37598
+1129,629,North Carolina,Yancey,North CarolinaYancey,2020,105,58,44,33.2,20.3,2025,North Carolina,"Yancey County, NC",Yancey,North CarolinaYancey,7649,540
+1130,640,Ohio,Adams,OhioAdams,2020,81,45,27,44.5,13.2,2081,Ohio,"Adams County, OH",Adams,OhioAdams,9968,1013
+1131,641,Ohio,Allen,OhioAllen,2020,105,52,36,38.8,18.9,2082,Ohio,"Allen County, OH",Allen,OhioAllen,44181,4122
+1132,642,Ohio,Ashtabula,OhioAshtabula,2020,93,44,31,44.6,14.3,2084,Ohio,"Ashtabula County, OH",Ashtabula,OhioAshtabula,40162,3645
+1133,643,Ohio,Athens,OhioAthens,2020,61,41,24,35.1,30.2,2085,Ohio,"Athens County, OH",Athens,OhioAthens,25214,1993
+1134,644,Ohio,Belmont,OhioBelmont,2020,66,30,12,42.4,16.7,2087,Ohio,"Belmont County, OH",Belmont,OhioBelmont,25970,2918
+1135,645,Ohio,Butler,OhioButler,2020,126,61,40,32.9,30.2,2089,Ohio,"Butler County, OH",Butler,OhioButler,180029,14048
+1136,646,Ohio,Clark,OhioClark,2020,108,57,40,37.9,18.7,2092,Ohio,"Clark County, OH",Clark,OhioClark,57829,5116
+1137,647,Ohio,Clermont,OhioClermont,2020,100,50,35,32.4,28.6,2093,Ohio,"Clermont County, OH",Clermont,OhioClermont,98953,7284
+1138,648,Ohio,Clinton,OhioClinton,2020,97,54,39,39.1,18.9,2094,Ohio,"Clinton County, OH",Clinton,OhioClinton,16299,1479
+1139,649,Ohio,Columbiana,OhioColumbiana,2020,31,7,1,44.7,14.9,2095,Ohio,"Columbiana County, OH",Columbiana,OhioColumbiana,42928,4452
+1140,650,Ohio,Cuyahoga,OhioCuyahoga,2020,152,67,46,27.8,32.5,2098,Ohio,"Cuyahoga County, OH",Cuyahoga,OhioCuyahoga,531193,61697
+1141,651,Ohio,Delaware,OhioDelaware,2020,101,50,38,18.3,54.3,2101,Ohio,"Delaware County, OH",Delaware,OhioDelaware,105395,5957
+1142,652,Ohio,Fayette,OhioFayette,2020,80,49,35,45.9,16.3,2104,Ohio,"Fayette County, OH",Fayette,OhioFayette,12991,1032
+1143,653,Ohio,Franklin,OhioFranklin,2020,102,58,40,24.6,40.0,2105,Ohio,"Franklin County, OH",Franklin,OhioFranklin,652631,52518
+1144,654,Ohio,Gallia,OhioGallia,2020,116,43,7,41.2,15.9,2107,Ohio,"Gallia County, OH",Gallia,OhioGallia,11253,976
+1145,655,Ohio,Geauga,OhioGeauga,2020,100,61,41,25.3,38.0,2108,Ohio,"Geauga County, OH",Geauga,OhioGeauga,43210,3119
+1146,656,Ohio,Greene,OhioGreene,2020,93,51,39,24.5,39.2,2109,Ohio,"Greene County, OH",Greene,OhioGreene,77337,5303
+1147,657,Ohio,Guernsey,OhioGuernsey,2020,50,40,3,42.7,14.6,2110,Ohio,"Guernsey County, OH",Guernsey,OhioGuernsey,16708,1588
+1148,658,Ohio,Hamilton,OhioHamilton,2020,126,70,48,26.3,37.9,2111,Ohio,"Hamilton County, OH",Hamilton,OhioHamilton,383560,32306
+1149,659,Ohio,Hancock,OhioHancock,2020,21,21,0,36.0,27.1,2112,Ohio,"Hancock County, OH",Hancock,OhioHancock,38943,2860
+1150,660,Ohio,Harrison,OhioHarrison,2020,49,23,1,47.9,11.6,2114,Ohio,"Harrison County, OH",Harrison,OhioHarrison,6133,621
+1151,661,Ohio,Jefferson,OhioJefferson,2020,112,58,37,44.8,15.8,2121,Ohio,"Jefferson County, OH",Jefferson,OhioJefferson,24721,2775
+1152,662,Ohio,Knox,OhioKnox,2020,80,49,38,39.8,23.0,2122,Ohio,"Knox County, OH",Knox,OhioKnox,29315,1929
+1153,663,Ohio,Lake,OhioLake,2020,140,59,37,31.8,27.4,2123,Ohio,"Lake County, OH",Lake,OhioLake,110740,10136
+1154,664,Ohio,Lawrence,OhioLawrence,2020,77,51,35,43.9,14.9,2124,Ohio,"Lawrence County, OH",Lawrence,OhioLawrence,21825,2024
+1155,665,Ohio,Licking,OhioLicking,2020,77,48,37,34.3,26.1,2125,Ohio,"Licking County, OH",Licking,OhioLicking,84753,5935
+1156,666,Ohio,Lorain,OhioLorain,2020,154,51,35,31.0,24.9,2127,Ohio,"Lorain County, OH",Lorain,OhioLorain,134333,14728
+1157,667,Ohio,Lucas,OhioLucas,2020,136,61,38,29.7,26.3,2128,Ohio,"Lucas County, OH",Lucas,OhioLucas,187666,21679
+1158,668,Ohio,Madison,OhioMadison,2020,84,51,39,41.6,17.5,2129,Ohio,"Madison County, OH",Madison,OhioMadison,19598,1236
+1159,669,Ohio,Mahoning,OhioMahoning,2020,142,54,38,37.6,24.2,2130,Ohio,"Mahoning County, OH",Mahoning,OhioMahoning,90990,10298
+1160,670,Ohio,Medina,OhioMedina,2020,93,51,35,31.0,33.9,2132,Ohio,"Medina County, OH",Medina,OhioMedina,86254,7124
+1161,671,Ohio,Miami,OhioMiami,2020,93,49,39,36.6,23.3,2135,Ohio,"Miami County, OH",Miami,OhioMiami,50380,3783
+1162,672,Ohio,Montgomery,OhioMontgomery,2020,112,64,44,27.8,27.9,2137,Ohio,"Montgomery County, OH",Montgomery,OhioMontgomery,231691,21730
+1163,673,Ohio,Morgan,OhioMorgan,2020,96,9,1,43.9,10.2,2138,Ohio,"Morgan County, OH",Morgan,OhioMorgan,6077,620
+1164,674,Ohio,Noble,OhioNoble,2020,87,47,36,47.9,9.9,2141,Ohio,"Noble County, OH",Noble,OhioNoble,4207,449
+1165,675,Ohio,Portage,OhioPortage,2020,101,55,39,36.6,29.0,2147,Ohio,"Portage County, OH",Portage,OhioPortage,79554,6229
+1166,676,Ohio,Preble,OhioPreble,2020,101,54,38,43.9,16.3,2148,Ohio,"Preble County, OH",Preble,OhioPreble,19757,1418
+1167,677,Ohio,Scioto,OhioScioto,2020,92,31,14,41.2,15.7,2153,Ohio,"Scioto County, OH",Scioto,OhioScioto,26808,2546
+1168,678,Ohio,Stark,OhioStark,2020,119,62,42,38.2,22.8,2156,Ohio,"Stark County, OH",Stark,OhioStark,169291,14858
+1169,679,Ohio,Summit,OhioSummit,2020,114,59,39,30.2,32.5,2157,Ohio,"Summit County, OH",Summit,OhioSummit,248140,22267
+1170,680,Ohio,Trumbull,OhioTrumbull,2020,153,52,37,44.5,18.7,2158,Ohio,"Trumbull County, OH",Trumbull,OhioTrumbull,76338,8857
+1171,681,Ohio,Warren,OhioWarren,2020,115,59,39,25.8,43.0,2163,Ohio,"Warren County, OH",Warren,OhioWarren,111257,7581
+1172,682,Ohio,Washington,OhioWashington,2020,108,48,38,40.3,18.8,2164,Ohio,"Washington County, OH",Washington,OhioWashington,24633,2311
+1173,683,Ohio,Wood,OhioWood,2020,80,46,34,30.7,33.5,2167,Ohio,"Wood County, OH",Wood,OhioWood,64533,4911
+1174,684,Oklahoma,Adair,OklahomaAdair,2020,151,49,33,46.6,11.6,2170,Oklahoma,"Adair County, OK",Adair,OklahomaAdair,7904,488
+1175,685,Oklahoma,Canadian,OklahomaCanadian,2020,84,49,36,29.8,27.4,2178,Oklahoma,"Canadian County, OK",Canadian,OklahomaCanadian,71482,4544
+1176,686,Oklahoma,Carter,OklahomaCarter,2020,147,64,43,36.7,20.5,2179,Oklahoma,"Carter County, OK",Carter,OklahomaCarter,20051,1506
+1177,687,Oklahoma,Cleveland,OklahomaCleveland,2020,121,64,43,24.7,33.4,2183,Oklahoma,"Cleveland County, OK",Cleveland,OklahomaCleveland,134700,7984
+1178,688,Oklahoma,Comanche,OklahomaComanche,2020,107,58,40,32.8,22.2,2185,Oklahoma,"Comanche County, OK",Comanche,OklahomaComanche,45028,3239
+1179,689,Oklahoma,Creek,OklahomaCreek,2020,93,47,35,40.0,17.0,2188,Oklahoma,"Creek County, OK",Creek,OklahomaCreek,29298,2029
+1180,690,Oklahoma,Dewey,OklahomaDewey,2020,99,57,39,41.5,24.0,2191,Oklahoma,"Dewey County, OK",Dewey,OklahomaDewey,2604,131
+1181,691,Oklahoma,Garfield,OklahomaGarfield,2020,72,11,0,36.2,22.9,2193,Oklahoma,"Garfield County, OK",Garfield,OklahomaGarfield,25532,1475
+1182,692,Oklahoma,Grant,OklahomaGrant,2020,65,44,19,36.9,24.6,2196,Oklahoma,"Grant County, OK",Grant,OklahomaGrant,2694,92
+1183,693,Oklahoma,Johnston,OklahomaJohnston,2020,97,49,38,34.9,20.1,2204,Oklahoma,"Johnston County, OK",Johnston,OklahomaJohnston,3465,288
+1184,694,Oklahoma,Kay,OklahomaKay,2020,113,58,42,32.4,18.9,2205,Oklahoma,"Kay County, OK",Kay,OklahomaKay,17094,1220
+1185,695,Oklahoma,Mayes,OklahomaMayes,2020,51,44,31,39.5,14.3,2218,Oklahoma,"Mayes County, OK",Mayes,OklahomaMayes,18480,980
+1186,696,Oklahoma,Muskogee,OklahomaMuskogee,2020,27,6,0,34.4,20.4,2220,Oklahoma,"Muskogee County, OK",Muskogee,OklahomaMuskogee,27643,1778
+1187,697,Oklahoma,Oklahoma,OklahomaOklahoma,2020,112,67,45,31.3,25.5,2169,Oklahoma,Oklahoma,Oklahoma,OklahomaOklahoma,1734924,113561
+1188,697,Oklahoma,Oklahoma,OklahomaOklahoma,2020,112,67,45,31.3,25.5,2224,Oklahoma,"Oklahoma County, OK",Oklahoma,OklahomaOklahoma,361100,24760
+1191,698,Oklahoma,Osage,OklahomaOsage,2020,90,49,36,38.1,18.0,2226,Oklahoma,"Osage County, OK",Osage,OklahomaOsage,19209,1320
+1192,699,Oklahoma,Ottawa,OklahomaOttawa,2020,154,60,37,36.3,14.5,2227,Oklahoma,"Ottawa County, OK",Ottawa,OklahomaOttawa,13581,818
+1193,700,Oklahoma,Pittsburg,OklahomaPittsburg,2020,141,56,39,38.2,16.1,2230,Oklahoma,"Pittsburg County, OK",Pittsburg,OklahomaPittsburg,15489,1273
+1194,701,Oklahoma,Sequoyah,OklahomaSequoyah,2020,141,47,33,38.6,14.4,2237,Oklahoma,"Sequoyah County, OK",Sequoyah,OklahomaSequoyah,15431,1124
+1195,702,Oklahoma,Tulsa,OklahomaTulsa,2020,129,58,42,25.4,31.8,2241,Oklahoma,"Tulsa County, OK",Tulsa,OklahomaTulsa,302728,21282
+1196,703,Oklahoma,Washington,OklahomaWashington,2020,101,56,40,34.0,28.5,2243,Oklahoma,"Washington County, OK",Washington,OklahomaWashington,21049,1311
+1197,704,Oregon,Baker,OregonBaker,2020,200,51,25,31.1,23.7,2248,Oregon,"Baker County, OR",Baker,OregonBaker,6763,522
+1198,705,Oregon,Benton,OregonBenton,2020,396,50,18,13.3,54.1,2249,Oregon,"Benton County, OR",Benton,OregonBenton,43645,2612
+1199,706,Oregon,Clackamas,OregonClackamas,2020,366,49,30,21.2,37.4,2250,Oregon,"Clackamas County, OR",Clackamas,OregonClackamas,202243,15797
+1200,707,Oregon,Columbia,OregonColumbia,2020,268,40,25,33.8,18.5,2252,Oregon,"Columbia County, OR",Columbia,OregonColumbia,22155,1906
+1201,708,Oregon,Crook,OregonCrook,2020,561,60,21,33.3,19.8,2254,Oregon,"Crook County, OR",Crook,OregonCrook,9417,911
+1202,709,Oregon,Deschutes,OregonDeschutes,2020,583,55,18,21.8,35.4,2256,Oregon,"Deschutes County, OR",Deschutes,OregonDeschutes,90211,7764
+1203,710,Oregon,Douglas,OregonDouglas,2020,518,57,22,32.3,17.3,2257,Oregon,"Douglas County, OR",Douglas,OregonDouglas,43757,3658
+1204,711,Oregon,Grant,OregonGrant,2020,322,66,33,36.0,18.9,2259,Oregon,"Grant County, OR",Grant,OregonGrant,2944,267
+1205,712,Oregon,Harney,OregonHarney,2020,304,72,32,36.6,18.4,2260,Oregon,"Harney County, OR",Harney,OregonHarney,3454,216
+1206,713,Oregon,Jackson,OregonJackson,2020,517,70,40,26.1,27.8,2262,Oregon,"Jackson County, OR",Jackson,OregonJackson,96937,8210
+1207,714,Oregon,Jefferson,OregonJefferson,2020,595,59,21,30.7,19.4,2263,Oregon,"Jefferson County, OR",Jefferson,OregonJefferson,9482,848
+1208,715,Oregon,Josephine,OregonJosephine,2020,472,73,26,31.0,17.5,2264,Oregon,"Josephine County, OR",Josephine,OregonJosephine,33277,2847
+1209,716,Oregon,Klamath,OregonKlamath,2020,679,124,41,31.0,20.0,2265,Oregon,"Klamath County, OR",Klamath,OregonKlamath,26957,2554
+1210,717,Oregon,Lake,OregonLake,2020,165,66,23,34.5,16.4,2266,Oregon,"Lake County, OR",Lake,OregonLake,3441,206
+1211,718,Oregon,Lane,OregonLane,2020,550,75,40,23.2,30.5,2267,Oregon,"Lane County, OR",Lane,OregonLane,164364,14103
+1212,719,Oregon,Linn,OregonLinn,2020,502,63,27,29.0,19.3,2269,Oregon,"Linn County, OR",Linn,OregonLinn,54251,4568
+1213,720,Oregon,Marion,OregonMarion,2020,641,58,32,26.6,23.5,2271,Oregon,"Marion County, OR",Marion,OregonMarion,151713,11304
+1214,721,Oregon,Multnomah,OregonMultnomah,2020,477,58,33,17.0,45.9,2273,Oregon,"Multnomah County, OR",Multnomah,OregonMultnomah,418070,39302
+1215,722,Oregon,Umatilla,OregonUmatilla,2020,463,55,35,28.5,17.2,2277,Oregon,"Umatilla County, OR",Umatilla,OregonUmatilla,34496,2505
+1216,723,Oregon,Union,OregonUnion,2020,288,48,20,32.2,24.5,2278,Oregon,"Union County, OR",Union,OregonUnion,11109,944
+1217,724,Oregon,Wallowa,OregonWallowa,2020,198,53,20,28.6,26.4,2279,Oregon,"Wallowa County, OR",Wallowa,OregonWallowa,3227,246
+1218,725,Oregon,Wasco,OregonWasco,2020,417,45,18,29.1,19.6,2280,Oregon,"Wasco County, OR",Wasco,OregonWasco,12477,953
+1219,726,Oregon,Washington,OregonWashington,2020,416,56,31,17.4,44.4,2281,Oregon,"Washington County, OR",Washington,OregonWashington,300742,20837
+1220,727,Pennsylvania,Adams,PennsylvaniaAdams,2020,86,54,40,39.9,22.3,2285,Pennsylvania,"Adams County, PA",Adams,PennsylvaniaAdams,50293,3742
+1221,728,Pennsylvania,Allegheny,PennsylvaniaAllegheny,2020,128,79,47,27.0,41.6,2286,Pennsylvania,"Allegheny County, PA",Allegheny,PennsylvaniaAllegheny,578590,57367
+1222,729,Pennsylvania,Armstrong,PennsylvaniaArmstrong,2020,122,54,39,49.0,16.7,2287,Pennsylvania,"Armstrong County, PA",Armstrong,PennsylvaniaArmstrong,28377,3074
+1223,730,Pennsylvania,Beaver,PennsylvaniaBeaver,2020,142,62,42,36.8,24.7,2288,Pennsylvania,"Beaver County, PA",Beaver,PennsylvaniaBeaver,74445,8518
+1224,731,Pennsylvania,Berks,PennsylvaniaBerks,2020,102,58,40,36.7,24.9,2290,Pennsylvania,"Berks County, PA",Berks,PennsylvaniaBerks,191443,20043
+1225,732,Pennsylvania,Blair,PennsylvaniaBlair,2020,87,54,38,45.0,21.3,2291,Pennsylvania,"Blair County, PA",Blair,PennsylvaniaBlair,54053,5152
+1226,733,Pennsylvania,Bradford,PennsylvaniaBradford,2020,81,48,37,47.0,18.7,2292,Pennsylvania,"Bradford County, PA",Bradford,PennsylvaniaBradford,25992,2107
+1227,734,Pennsylvania,Bucks,PennsylvaniaBucks,2020,115,46,33,28.2,41.3,2293,Pennsylvania,"Bucks County, PA",Bucks,PennsylvaniaBucks,310681,28120
+1228,735,Pennsylvania,Cambria,PennsylvaniaCambria,2020,89,56,38,45.4,21.1,2295,Pennsylvania,"Cambria County, PA",Cambria,PennsylvaniaCambria,50872,5363
+1229,736,Pennsylvania,Centre,PennsylvaniaCentre,2020,90,51,38,29.4,45.5,2298,Pennsylvania,"Centre County, PA",Centre,PennsylvaniaCentre,71955,4461
+1230,737,Pennsylvania,Chester,PennsylvaniaChester,2020,143,55,39,20.8,53.0,2299,Pennsylvania,"Chester County, PA",Chester,PennsylvaniaChester,262061,18035
+1231,738,Pennsylvania,Clearfield,PennsylvaniaClearfield,2020,54,42,31,49.5,15.1,2301,Pennsylvania,"Clearfield County, PA",Clearfield,PennsylvaniaClearfield,32307,3275
+1232,739,Pennsylvania,Cumberland,PennsylvaniaCumberland,2020,137,55,33,32.0,36.6,2305,Pennsylvania,"Cumberland County, PA",Cumberland,PennsylvaniaCumberland,121949,8702
+1233,740,Pennsylvania,Dauphin,PennsylvaniaDauphin,2020,116,61,40,33.2,30.8,2306,Pennsylvania,"Dauphin County, PA",Dauphin,PennsylvaniaDauphin,131661,12767
+1234,741,Pennsylvania,Delaware,PennsylvaniaDelaware,2020,129,64,43,30.2,39.0,2307,Pennsylvania,"Delaware County, PA",Delaware,PennsylvaniaDelaware,267759,26947
+1235,742,Pennsylvania,Elk,PennsylvaniaElk,2020,67,44,34,48.0,19.6,2308,Pennsylvania,"Elk County, PA",Elk,PennsylvaniaElk,13337,1871
+1236,743,Pennsylvania,Erie,PennsylvaniaErie,2020,87,49,34,38.5,27.9,2309,Pennsylvania,"Erie County, PA",Erie,PennsylvaniaErie,114331,12418
+1237,744,Pennsylvania,Fayette,PennsylvaniaFayette,2020,100,51,37,48.0,17.3,2310,Pennsylvania,"Fayette County, PA",Fayette,PennsylvaniaFayette,49743,6594
+1238,745,Pennsylvania,Franklin,PennsylvaniaFranklin,2020,50,42,32,43.1,21.6,2312,Pennsylvania,"Franklin County, PA",Franklin,PennsylvaniaFranklin,71308,5876
+1239,746,Pennsylvania,Greene,PennsylvaniaGreene,2020,101,49,36,46.0,17.6,2314,Pennsylvania,"Greene County, PA",Greene,PennsylvaniaGreene,14425,1556
+1240,747,Pennsylvania,Indiana,PennsylvaniaIndiana,2020,112,48,36,43.2,23.0,2316,Pennsylvania,"Indiana County, PA",Indiana,PennsylvaniaIndiana,34238,3428
+1241,748,Pennsylvania,Lackawanna,PennsylvaniaLackawanna,2020,81,50,38,36.9,28.3,2319,Pennsylvania,"Lackawanna County, PA",Lackawanna,PennsylvaniaLackawanna,93870,9962
+1242,749,Pennsylvania,Lancaster,PennsylvaniaLancaster,2020,153,62,43,35.3,27.3,2320,Pennsylvania,"Lancaster County, PA",Lancaster,PennsylvaniaLancaster,260618,21118
+1243,750,Pennsylvania,Lawrence,PennsylvaniaLawrence,2020,93,43,31,43.3,22.1,2321,Pennsylvania,"Lawrence County, PA",Lawrence,PennsylvaniaLawrence,36080,4152
+1244,751,Pennsylvania,Lebanon,PennsylvaniaLebanon,2020,115,55,30,44.0,20.7,2322,Pennsylvania,"Lebanon County, PA",Lebanon,PennsylvaniaLebanon,66060,5703
+1245,752,Pennsylvania,Lehigh,PennsylvaniaLehigh,2020,93,52,37,32.9,29.9,2323,Pennsylvania,"Lehigh County, PA",Lehigh,PennsylvaniaLehigh,173080,18308
+1246,753,Pennsylvania,Luzerne,PennsylvaniaLuzerne,2020,54,43,31,39.0,22.9,2324,Pennsylvania,"Luzerne County, PA",Luzerne,PennsylvaniaLuzerne,140183,17091
+1247,754,Pennsylvania,Lycoming,PennsylvaniaLycoming,2020,109,51,37,38.9,23.4,2325,Pennsylvania,"Lycoming County, PA",Lycoming,PennsylvaniaLycoming,50970,4913
+1248,755,Pennsylvania,Mercer,PennsylvaniaMercer,2020,105,54,38,43.0,22.8,2327,Pennsylvania,"Mercer County, PA",Mercer,PennsylvaniaMercer,43397,4651
+1249,756,Pennsylvania,Monroe,PennsylvaniaMonroe,2020,80,44,33,35.1,24.7,2329,Pennsylvania,"Monroe County, PA",Monroe,PennsylvaniaMonroe,71996,9390
+1250,757,Pennsylvania,Montgomery,PennsylvaniaMontgomery,2020,99,56,38,23.6,49.3,2330,Pennsylvania,"Montgomery County, PA",Montgomery,PennsylvaniaMontgomery,412925,34036
+1251,758,Pennsylvania,Northampton,PennsylvaniaNorthampton,2020,117,54,38,34.5,30.3,2332,Pennsylvania,"Northampton County, PA",Northampton,PennsylvaniaNorthampton,144689,14239
+1252,759,Pennsylvania,Philadelphia,PennsylvaniaPhiladelphia,2020,119,59,41,32.6,29.7,2335,Pennsylvania,"Philadelphia County/city, PA",Philadelphia,PennsylvaniaPhiladelphia,634409,89529
+1253,760,Pennsylvania,Somerset,PennsylvaniaSomerset,2020,71,44,34,49.8,15.9,2340,Pennsylvania,"Somerset County, PA",Somerset,PennsylvaniaSomerset,29567,3094
+1254,761,Pennsylvania,Susquehanna,PennsylvaniaSusquehanna,2020,71,40,23,45.0,18.6,2342,Pennsylvania,"Susquehanna County, PA",Susquehanna,PennsylvaniaSusquehanna,18323,1451
+1255,762,Pennsylvania,Tioga,PennsylvaniaTioga,2020,79,47,37,45.3,19.1,2343,Pennsylvania,"Tioga County, PA",Tioga,PennsylvaniaTioga,17128,1703
+1256,763,Pennsylvania,Warren,PennsylvaniaWarren,2020,95,24,9,45.4,19.5,2346,Pennsylvania,"Warren County, PA",Warren,PennsylvaniaWarren,17163,1505
+1257,764,Pennsylvania,Washington,PennsylvaniaWashington,2020,100,58,41,37.3,30.0,2347,Pennsylvania,"Washington County, PA",Washington,PennsylvaniaWashington,95218,9871
+1258,765,Pennsylvania,Westmoreland,PennsylvaniaWestmoreland,2020,81,50,35,36.9,29.1,2349,Pennsylvania,"Westmoreland County, PA",Westmoreland,PennsylvaniaWestmoreland,160646,16077
+1259,766,Pennsylvania,Wyoming,PennsylvaniaWyoming,2020,76,43,25,46.4,19.6,2350,Pennsylvania,"Wyoming County, PA",Wyoming,PennsylvaniaWyoming,12144,1110
+1260,767,Pennsylvania,York,PennsylvaniaYork,2020,97,57,40,39.6,24.9,2351,Pennsylvania,"York County, PA",York,PennsylvaniaYork,214165,18647
+1261,779,Rhode Island,Kent,Rhode IslandKent,2020,133,47,31,28.0,33.3,2354,Rhode Island,"Kent County, RI",Kent,Rhode IslandKent,80562,7721
+1262,780,Rhode Island,Providence,Rhode IslandProvidence,2020,112,54,40,31.0,29.0,2356,Rhode Island,"Providence County, RI",Providence,Rhode IslandProvidence,287648,32616
+1263,781,Rhode Island,Washington,Rhode IslandWashington,2020,154,49,32,22.8,46.1,2357,Rhode Island,"Washington County, RI",Washington,Rhode IslandWashington,60597,5139
+1264,782,South Carolina,Aiken,South CarolinaAiken,2020,71,44,32,32.8,26.4,2360,South Carolina,"Aiken County, SC",Aiken,South CarolinaAiken,71743,3788
+1265,783,South Carolina,Anderson,South CarolinaAnderson,2020,71,46,35,31.2,22.2,2362,South Carolina,"Anderson County, SC",Anderson,South CarolinaAnderson,85475,5402
+1266,784,South Carolina,Berkeley,South CarolinaBerkeley,2020,51,43,31,29.4,25.0,2366,South Carolina,"Berkeley County, SC",Berkeley,South CarolinaBerkeley,99042,5874
+1267,785,South Carolina,Charleston,South CarolinaCharleston,2020,117,51,35,22.7,43.6,2368,South Carolina,"Charleston County, SC",Charleston,South CarolinaCharleston,198552,13387
+1268,786,South Carolina,Chesterfield,South CarolinaChesterfield,2020,89,49,34,41.3,10.4,2371,South Carolina,"Chesterfield County, SC",Chesterfield,South CarolinaChesterfield,20511,1323
+1269,787,South Carolina,Darlington,South CarolinaDarlington,2020,49,42,32,35.1,18.4,2374,South Carolina,"Darlington County, SC",Darlington,South CarolinaDarlington,28542,1979
+1270,788,South Carolina,Edgefield,South CarolinaEdgefield,2020,115,46,33,36.7,16.7,2377,South Carolina,"Edgefield County, SC",Edgefield,South CarolinaEdgefield,10247,552
+1271,789,South Carolina,Florence,South CarolinaFlorence,2020,95,42,28,32.9,23.6,2379,South Carolina,"Florence County, SC",Florence,South CarolinaFlorence,63406,3744
+1272,790,South Carolina,Greenville,South CarolinaGreenville,2020,116,55,39,23.8,35.1,2381,South Carolina,"Greenville County, SC",Greenville,South CarolinaGreenville,241371,14613
+1273,791,South Carolina,Horry,South CarolinaHorry,2020,50,44,32,32.5,23.6,2384,South Carolina,"Horry County, SC",Horry,South CarolinaHorry,134956,12741
+1274,792,South Carolina,Lexington,South CarolinaLexington,2020,111,48,29,28.2,30.4,2390,South Carolina,"Lexington County, SC",Lexington,South CarolinaLexington,143882,6557
+1275,793,South Carolina,Oconee,South CarolinaOconee,2020,0,0,0,29.0,25.8,2395,South Carolina,"Oconee County, SC",Oconee,South CarolinaOconee,33180,1876
+1276,794,South Carolina,Richland,South CarolinaRichland,2020,117,49,35,22.5,39.1,2398,South Carolina,"Richland County, SC",Richland,South CarolinaRichland,188057,11661
+1277,795,South Carolina,Spartanburg,South CarolinaSpartanburg,2020,112,54,40,29.3,24.5,2400,South Carolina,"Spartanburg County, SC",Spartanburg,South CarolinaSpartanburg,148274,10427
+1278,796,South Carolina,York,South CarolinaYork,2020,92,47,35,25.1,33.3,2404,South Carolina,"York County, SC",York,South CarolinaYork,135143,8747
+1279,797,South Dakota,Brookings,South DakotaBrookings,2020,87,55,38,25.2,40.3,2410,South Dakota,"Brookings County, SD",Brookings,South DakotaBrookings,17669,811
+1280,798,South Dakota,Brown,South DakotaBrown,2020,75,47,23,31.6,29.4,2411,South Dakota,"Brown County, SD",Brown,South DakotaBrown,19678,904
+1281,799,South Dakota,Codington,South DakotaCodington,2020,101,53,36,36.5,21.5,2419,South Dakota,"Codington County, SD",Codington,South DakotaCodington,14662,754
+1282,800,South Dakota,Custer,South DakotaCuster,2020,119,54,41,35.0,23.5,2421,South Dakota,"Custer County, SD",Custer,South DakotaCuster,3834,243
+1283,801,South Dakota,Hughes,South DakotaHughes,2020,76,30,14,27.3,34.7,2437,South Dakota,"Hughes County, SD",Hughes,South DakotaHughes,9574,335
+1284,802,South Dakota,Jackson,South DakotaJackson,2020,90,51,39,33.5,17.8,2440,South Dakota,"Jackson County, SD",Jackson,South DakotaJackson,1155,52
+1285,803,South Dakota,Meade,South DakotaMeade,2020,84,47,38,28.7,27.2,2451,South Dakota,"Meade County, SD",Meade,South DakotaMeade,13235,683
+1286,804,South Dakota,Minnehaha,South DakotaMinnehaha,2020,90,52,35,26.4,33.1,2454,South Dakota,"Minnehaha County, SD",Minnehaha,South DakotaMinnehaha,108033,5135
+1287,805,South Dakota,Pennington,South DakotaPennington,2020,91,62,31,27.5,31.5,2457,South Dakota,"Pennington County, SD",Pennington,South DakotaPennington,54074,3020
+1288,806,South Dakota,Union,South DakotaUnion,2020,141,53,36,29.5,30.6,2468,South Dakota,"Union County, SD",Union,South DakotaUnion,8088,434
+1289,807,Tennessee,Anderson,TennesseeAnderson,2020,64,46,35,32.9,23.3,2473,Tennessee,"Anderson County, TN",Anderson,TennesseeAnderson,32049,2311
+1290,808,Tennessee,Blount,TennesseeBlount,2020,92,51,38,34.6,24.2,2477,Tennessee,"Blount County, TN",Blount,TennesseeBlount,59440,4065
+1291,809,Tennessee,Claiborne,TennesseeClaiborne,2020,51,44,32,38.0,16.1,2485,Tennessee,"Claiborne County, TN",Claiborne,TennesseeClaiborne,11838,889
+1292,810,Tennessee,Davidson,TennesseeDavidson,2020,116,58,41,22.1,41.7,2491,Tennessee,"Davidson County, TN",Davidson,TennesseeDavidson,369787,32271
+1293,811,Tennessee,DeKalb,TennesseeDeKalb,2020,61,44,33,40.9,16.7,2493,Tennessee,"DeKalb County, TN",DeKalb,TennesseeDeKalb,6957,694
+1294,812,Tennessee,Dyer,TennesseeDyer,2020,117,42,23,38.8,16.1,2495,Tennessee,"Dyer County, TN",Dyer,TennesseeDyer,14603,1276
+1295,813,Tennessee,Hamilton,TennesseeHamilton,2020,151,55,40,26.9,32.2,2505,Tennessee,"Hamilton County, TN",Hamilton,TennesseeHamilton,169337,13015
+1296,814,Tennessee,Jefferson,TennesseeJefferson,2020,74,48,37,39.1,16.8,2517,Tennessee,"Jefferson County, TN",Jefferson,TennesseeJefferson,22853,1844
+1297,815,Tennessee,Knox,TennesseeKnox,2020,90,55,38,25.3,37.6,2519,Tennessee,"Knox County, TN",Knox,TennesseeKnox,228282,14361
+1298,816,Tennessee,Lawrence,TennesseeLawrence,2020,72,37,20,44.3,14.3,2522,Tennessee,"Lawrence County, TN",Lawrence,TennesseeLawrence,17603,1489
+1299,817,Tennessee,Loudon,TennesseeLoudon,2020,97,49,34,32.4,26.4,2525,Tennessee,"Loudon County, TN",Loudon,TennesseeLoudon,22072,1500
+1300,818,Tennessee,Madison,TennesseeMadison,2020,108,42,25,35.3,25.6,2529,Tennessee,"Madison County, TN",Madison,TennesseeMadison,45343,3685
+1301,819,Tennessee,Maury,TennesseeMaury,2020,91,42,22,35.7,23.0,2532,Tennessee,"Maury County, TN",Maury,TennesseeMaury,45854,4061
+1302,820,Tennessee,McMinn,TennesseeMcMinn,2020,88,47,28,40.4,16.2,2526,Tennessee,"McMinn County, TN",McMinn,TennesseeMcMinn,21579,1814
+1303,821,Tennessee,Montgomery,TennesseeMontgomery,2020,116,44,26,28.5,28.5,2535,Tennessee,"Montgomery County, TN",Montgomery,TennesseeMontgomery,79666,6568
+1304,822,Tennessee,Putnam,TennesseePutnam,2020,105,40,23,36.5,26.4,2543,Tennessee,"Putnam County, TN",Putnam,TennesseePutnam,32661,2309
+1305,823,Tennessee,Roane,TennesseeRoane,2020,91,46,26,36.3,19.8,2545,Tennessee,"Roane County, TN",Roane,TennesseeRoane,21508,1513
+1306,824,Tennessee,Sevier,TennesseeSevier,2020,105,49,40,37.2,17.4,2550,Tennessee,"Sevier County, TN",Sevier,TennesseeSevier,48540,5181
+1307,825,Tennessee,Shelby,TennesseeShelby,2020,152,61,44,27.5,31.6,2551,Tennessee,"Shelby County, TN",Shelby,TennesseeShelby,404507,43262
+1308,826,Tennessee,Sullivan,TennesseeSullivan,2020,109,54,37,34.7,23.6,2554,Tennessee,"Sullivan County, TN",Sullivan,TennesseeSullivan,64370,4982
+1309,827,Tennessee,Sumner,TennesseeSumner,2020,121,52,37,30.9,28.1,2555,Tennessee,"Sumner County, TN",Sumner,TennesseeSumner,95424,6645
+1310,828,Tennessee,Williamson,TennesseeWilliamson,2020,71,47,37,13.3,59.8,2566,Tennessee,"Williamson County, TN",Williamson,TennesseeWilliamson,120874,6123
+1311,829,Tennessee,Wilson,TennesseeWilson,2020,64,45,33,29.0,32.4,2567,Tennessee,"Wilson County, TN",Wilson,TennesseeWilson,71882,4812
+1312,830,Texas,Atascosa,TexasAtascosa,2020,156,60,29,38.7,14.4,2575,Texas,"Atascosa County, TX",Atascosa,TexasAtascosa,19979,1843
+1313,831,Texas,Bell,TexasBell,2020,135,61,40,26.0,25.2,2582,Texas,"Bell County, TX",Bell,TexasBell,134459,10099
+1314,832,Texas,Bexar,TexasBexar,2020,158,77,49,25.4,28.0,2583,Texas,"Bexar County, TX",Bexar,TexasBexar,871017,71110
+1315,833,Texas,Bowie,TexasBowie,2020,127,56,36,34.8,20.6,2587,Texas,"Bowie County, TX",Bowie,TexasBowie,35891,2864
+1316,834,Texas,Brazoria,TexasBrazoria,2020,182,51,33,25.5,30.0,2588,Texas,"Brazoria County, TX",Brazoria,TexasBrazoria,162442,15267
+1317,835,Texas,Brazos,TexasBrazos,2020,99,52,30,19.2,41.7,2589,Texas,"Brazos County, TX",Brazos,TexasBrazos,110366,6233
+1318,836,Texas,Brewster,TexasBrewster,2020,80,50,40,21.3,40.0,2590,Texas,"Brewster County, TX",Brewster,TexasBrewster,3811,272
+1319,837,Texas,Cameron,TexasCameron,2020,176,70,43,26.4,17.3,2599,Texas,"Cameron County, TX",Cameron,TexasCameron,151855,17219
+1320,838,Texas,Collin,TexasCollin,2020,154,54,37,15.0,52.3,2611,Texas,"Collin County, TX",Collin,TexasCollin,534617,36006
+1321,839,Texas,Culberson,TexasCulberson,2020,112,80,47,35.0,10.2,2623,Texas,"Culberson County, TX",Culberson,TexasCulberson,1075,75
+1322,840,Texas,Dallas,TexasDallas,2020,135,67,42,22.6,31.5,2625,Texas,"Dallas County, TX",Dallas,TexasDallas,1251192,103841
+1323,841,Texas,Denton,TexasDenton,2020,142,71,40,17.8,45.1,2629,Texas,"Denton County, TX",Denton,TexasDenton,471296,32666
+1324,842,Texas,Ector,TexasEctor,2020,95,51,27,30.3,15.4,2636,Texas,"Ector County, TX",Ector,TexasEctor,73736,9116
+1325,843,Texas,El Paso,TexasEl,2020,192,84,54,23.7,23.3,2639,Texas,"El Paso County, TX",El,TexasEl,333991,30094
+1326,844,Texas,Ellis,TexasEllis,2020,125,58,39,27.7,24.3,2638,Texas,"Ellis County, TX",Ellis,TexasEllis,87937,5641
+1327,845,Texas,Freestone,TexasFreestone,2020,10,1,0,33.2,15.3,2649,Texas,"Freestone County, TX",Freestone,TexasFreestone,5820,528
+1328,846,Texas,Galveston,TexasGalveston,2020,143,62,40,24.9,31.1,2652,Texas,"Galveston County, TX",Galveston,TexasGalveston,150218,14390
+1329,847,Texas,Gregg,TexasGregg,2020,86,46,32,28.2,21.3,2660,Texas,"Gregg County, TX",Gregg,TexasGregg,51883,4682
+1330,848,Texas,Harris,TexasHarris,2020,179,80,50,23.4,31.5,2669,Texas,"Harris County, TX",Harris,TexasHarris,2088449,204310
+1331,849,Texas,Harrison,TexasHarrison,2020,100,52,36,34.0,19.1,2670,Texas,"Harrison County, TX",Harrison,TexasHarrison,26843,2290
+1332,850,Texas,Hidalgo,TexasHidalgo,2020,155,65,37,23.5,18.7,2676,Texas,"Hidalgo County, TX",Hidalgo,TexasHidalgo,318076,41893
+1333,851,Texas,Hood,TexasHood,2020,100,48,33,30.0,26.4,2679,Texas,"Hood County, TX",Hood,TexasHood,25745,1833
+1334,852,Texas,Howard,TexasHoward,2020,200,71,9,33.7,12.6,2682,Texas,"Howard County, TX",Howard,TexasHoward,12409,1093
+1335,853,Texas,Hunt,TexasHunt,2020,87,45,32,34.0,19.9,2684,Texas,"Hunt County, TX",Hunt,TexasHunt,40659,2847
+1336,854,Texas,Hutchinson,TexasHutchinson,2020,156,113,16,34.4,14.0,2685,Texas,"Hutchinson County, TX",Hutchinson,TexasHutchinson,7926,613
+1337,855,Texas,Jefferson,TexasJefferson,2020,122,63,41,31.9,19.7,2691,Texas,"Jefferson County, TX",Jefferson,TexasJefferson,93022,12570
+1338,856,Texas,Johnson,TexasJohnson,2020,105,50,34,35.9,18.7,2694,Texas,"Johnson County, TX",Johnson,TexasJohnson,77541,5390
+1339,857,Texas,Karnes,TexasKarnes,2020,32,17,6,36.9,15.3,2696,Texas,"Karnes County, TX",Karnes,TexasKarnes,6567,440
+1340,858,Texas,Kaufman,TexasKaufman,2020,134,56,37,32.4,20.5,2697,Texas,"Kaufman County, TX",Kaufman,TexasKaufman,62886,4377
+1341,859,Texas,Kleberg,TexasKleberg,2020,168,66,35,26.7,24.6,2705,Texas,"Kleberg County, TX",Kleberg,TexasKleberg,12277,1125
+1342,860,Texas,Lubbock,TexasLubbock,2020,81,40,20,25.6,30.1,2720,Texas,"Lubbock County, TX",Lubbock,TexasLubbock,147629,8996
+1343,861,Texas,Maverick,TexasMaverick,2020,160,56,27,22.6,12.7,2730,Texas,"Maverick County, TX",Maverick,TexasMaverick,20821,3673
+1344,862,Texas,McLennan,TexasMcLennan,2020,97,50,38,27.0,24.2,2723,Texas,"McLennan County, TX",McLennan,TexasMcLennan,112937,7410
+1345,863,Texas,Milam,TexasMilam,2020,3,1,0,38.1,14.1,2734,Texas,"Milam County, TX",Milam,TexasMilam,9054,696
+1346,864,Texas,Montgomery,TexasMontgomery,2020,129,62,40,22.8,34.5,2738,Texas,"Montgomery County, TX",Montgomery,TexasMontgomery,263501,21493
+1347,865,Texas,Navarro,TexasNavarro,2020,153,68,40,29.0,15.9,2743,Texas,"Navarro County, TX",Navarro,TexasNavarro,21803,1442
+1348,866,Texas,Nueces,TexasNueces,2020,159,64,40,29.3,21.8,2746,Texas,"Nueces County, TX",Nueces,TexasNueces,149232,14688
+1349,867,Texas,Orange,TexasOrange,2020,103,62,41,37.2,15.5,2749,Texas,"Orange County, TX",Orange,TexasOrange,32241,3786
+1350,868,Texas,Parker,TexasParker,2020,115,50,35,28.8,26.4,2752,Texas,"Parker County, TX",Parker,TexasParker,64129,4012
+1351,869,Texas,Polk,TexasPolk,2020,71,43,31,39.5,13.1,2755,Texas,"Polk County, TX",Polk,TexasPolk,16755,1602
+1352,870,Texas,Potter,TexasPotter,2020,138,67,22,32.0,14.9,2756,Texas,"Potter County, TX",Potter,TexasPotter,51189,2961
+1353,871,Texas,Randall,TexasRandall,2020,90,64,42,22.8,32.4,2759,Texas,"Randall County, TX",Randall,TexasRandall,69134,3246
+1354,872,Texas,Robertson,TexasRobertson,2020,29,1,0,35.5,16.1,2766,Texas,"Robertson County, TX",Robertson,TexasRobertson,6875,470
+1355,873,Texas,Rockwall,TexasRockwall,2020,133,45,32,18.7,40.7,2767,Texas,"Rockwall County, TX",Rockwall,TexasRockwall,50009,3200
+1356,874,Texas,Rusk,TexasRusk,2020,120,44,3,31.8,15.5,2769,Texas,"Rusk County, TX",Rusk,TexasRusk,20508,1619
+1357,875,Texas,Smith,TexasSmith,2020,84,46,33,23.4,26.4,2780,Texas,"Smith County, TX",Smith,TexasSmith,101201,7343
+1358,876,Texas,Tarrant,TexasTarrant,2020,159,77,45,24.0,32.3,2788,Texas,"Tarrant County, TX",Tarrant,TexasTarrant,1003269,79553
+1359,877,Texas,Titus,TexasTitus,2020,36,7,0,33.4,16.3,2793,Texas,"Titus County, TX",Titus,TexasTitus,12412,891
+1360,878,Texas,Travis,TexasTravis,2020,153,63,44,16.5,50.0,2795,Texas,"Travis County, TX",Travis,TexasTravis,694433,46579
+1361,879,Texas,Victoria,TexasVictoria,2020,100,47,31,30.8,20.0,2803,Texas,"Victoria County, TX",Victoria,TexasVictoria,37761,3411
+1362,880,Texas,Webb,TexasWebb,2020,160,65,41,25.3,18.9,2808,Texas,"Webb County, TX",Webb,TexasWebb,106376,9819
+1363,881,Texas,Wilson,TexasWilson,2020,34,18,7,36.1,21.8,2815,Texas,"Wilson County, TX",Wilson,TexasWilson,23077,1396
+1364,882,Utah,Box Elder,UtahBox,2020,147,51,40,31.0,23.9,2825,Utah,"Box Elder County, UT",Box,UtahBox,25272,1152
+1365,883,Utah,Cache,UtahCache,2020,159,71,44,20.2,38.3,2826,Utah,"Cache County, UT",Cache,UtahCache,63497,1910
+1366,884,Utah,Carbon,UtahCarbon,2020,93,51,43,27.1,17.1,2827,Utah,"Carbon County, UT",Carbon,UtahCarbon,8130,445
+1367,885,Utah,Davis,UtahDavis,2020,155,77,44,21.2,37.8,2829,Utah,"Davis County, UT",Davis,UtahDavis,168737,7168
+1368,886,Utah,Duchesne,UtahDuchesne,2020,125,64,45,36.7,14.7,2830,Utah,"Duchesne County, UT",Duchesne,UtahDuchesne,7179,603
+1369,887,Utah,Garfield,UtahGarfield,2020,74,50,42,36.2,25.9,2832,Utah,"Garfield County, UT",Garfield,UtahGarfield,2365,269
+1370,888,Utah,Iron,UtahIron,2020,86,50,40,23.6,29.8,2834,Utah,"Iron County, UT",Iron,UtahIron,23879,1115
+1371,889,Utah,Salt Lake,UtahSalt,2020,194,87,50,22.6,35.6,2841,Utah,"Salt Lake County, UT",Salt,UtahSalt,609766,32591
+1372,890,Utah,San Juan,UtahSan,2020,108,54,43,32.2,18.3,2842,Utah,"San Juan County, UT",San,UtahSan,4903,554
+1373,891,Utah,Tooele,UtahTooele,2020,159,67,42,29.3,24.2,2846,Utah,"Tooele County, UT",Tooele,UtahTooele,33417,1667
+1374,892,Utah,Uintah,UtahUintah,2020,119,65,45,34.9,15.8,2847,Utah,"Uintah County, UT",Uintah,UtahUintah,12157,1228
+1375,893,Utah,Utah,UtahUtah,2020,150,77,45,22.8,34.0,2823,Utah,Utah,Utah,UtahUtah,1555782,76433
+1376,893,Utah,Utah,UtahUtah,2020,150,77,45,22.8,34.0,2848,Utah,"Utah County, UT",Utah,UtahUtah,302248,11774
+1379,894,Utah,Washington,UtahWashington,2020,112,61,44,23.4,28.1,2850,Utah,"Washington County, UT",Washington,UtahWashington,75007,4201
+1380,895,Utah,Wayne,UtahWayne,2020,66,31,8,24.6,23.4,2851,Utah,"Wayne County, UT",Wayne,UtahWayne,1320,108
+1381,896,Utah,Weber,UtahWeber,2020,140,71,44,29.6,24.5,2852,Utah,"Weber County, UT",Weber,UtahWeber,123697,6210
+1382,897,Vermont,Bennington,VermontBennington,2020,70,45,35,29.1,36.2,2855,Vermont,"Bennington County, VT",Bennington,VermontBennington,16004,1128
+1383,898,Vermont,Chittenden,VermontChittenden,2020,98,47,36,19.0,51.3,2857,Vermont,"Chittenden County, VT",Chittenden,VermontChittenden,88659,4451
+1384,899,Vermont,Rutland,VermontRutland,2020,96,51,37,34.4,30.8,2864,Vermont,"Rutland County, VT",Rutland,VermontRutland,27352,2031
+1385,900,Vermont,Windham,VermontWindham,2020,31,19,9,29.5,38.1,2866,Vermont,"Windham County, VT",Windham,VermontWindham,19687,1327
+1386,904,Virginia,Albemarle,VirginiaAlbemarle,2020,66,47,35,15.8,55.1,2870,Virginia,"Albemarle County, VA",Albemarle,VirginiaAlbemarle,52792,3002
+1387,905,Virginia,Arlington,VirginiaArlington,2020,90,46,33,7.8,75.3,2875,Virginia,"Arlington County, VA",Arlington,VirginiaArlington,144307,6773
+1388,906,Virginia,Botetourt,VirginiaBotetourt,2020,69,20,3,32.3,28.3,2880,Virginia,"Botetourt County, VA",Botetourt,VirginiaBotetourt,16363,777
+1389,907,Virginia,Bristol City,VirginiaBristol,2020,55,43,24,29.7,25.4,2965,Virginia,"Bristol city, VA",Bristol,VirginiaBristol,6750,566
+1390,908,Virginia,Caroline,VirginiaCaroline,2020,64,45,34,37.7,19.9,2885,Virginia,"Caroline County, VA",Caroline,VirginiaCaroline,13995,1009
+1391,909,Virginia,Carroll,VirginiaCarroll,2020,15,12,7,36.0,15.0,2886,Virginia,"Carroll County, VA",Carroll,VirginiaCarroll,12078,1075
+1392,910,Virginia,Charles,VirginiaCharles,2020,67,44,31,38.3,14.7,2887,Virginia,"Charles City County, VA",Charles,VirginiaCharles,3375,235
+1393,911,Virginia,Chesterfield,VirginiaChesterfield,2020,61,44,32,23.6,40.5,2889,Virginia,"Chesterfield County, VA",Chesterfield,VirginiaChesterfield,175116,10971
+1394,912,Virginia,Covington City,VirginiaCovington,2020,84,33,10,44.4,15.6,2970,Virginia,"Covington city, VA",Covington,VirginiaCovington,2181,231
+1395,913,Virginia,Fairfax,VirginiaFairfax,2020,100,54,38,12.8,61.6,2897,Virginia,"Fairfax County, VA",Fairfax,VirginiaFairfax,591882,36515
+1396,913,Virginia,Fairfax,VirginiaFairfax,2020,100,54,38,12.8,61.6,2973,Virginia,"Fairfax city, VA",Fairfax,VirginiaFairfax,12304,734
+1399,914,Virginia,Fauquier,VirginiaFauquier,2020,61,42,31,26.6,36.4,2898,Virginia,"Fauquier County, VA",Fauquier,VirginiaFauquier,35091,1721
+1400,915,Virginia,Frederick,VirginiaFrederick,2020,78,45,35,32.4,28.3,2902,Virginia,"Frederick County, VA",Frederick,VirginiaFrederick,46376,2260
+1401,916,Virginia,Giles,VirginiaGiles,2020,200,61,37,38.7,18.1,2903,Virginia,"Giles County, VA",Giles,VirginiaGiles,7255,484
+1402,917,Virginia,Hampton City,VirginiaHampton,2020,64,45,34,29.1,26.9,2978,Virginia,"Hampton city, VA",Hampton,VirginiaHampton,59090,5514
+1403,918,Virginia,Hanover,VirginiaHanover,2020,64,45,34,25.5,39.8,2910,Virginia,"Hanover County, VA",Hanover,VirginiaHanover,55136,2798
+1404,919,Virginia,Henrico,VirginiaHenrico,2020,71,48,36,21.2,43.7,2911,Virginia,"Henrico County, VA",Henrico,VirginiaHenrico,168617,11704
+1405,920,Virginia,Hopewell City,VirginiaHopewell,2020,15,13,6,36.7,14.8,2980,Virginia,"Hopewell city, VA",Hopewell,VirginiaHopewell,8758,1053
+1406,921,Virginia,Loudoun,VirginiaLoudoun,2020,108,45,33,12.4,61.3,2921,Virginia,"Loudoun County, VA",Loudoun,VirginiaLoudoun,211258,11936
+1407,922,Virginia,Lynchburg City,VirginiaLynchburg,2020,54,38,21,25.2,35.6,2982,Virginia,"Lynchburg city, VA",Lynchburg,VirginiaLynchburg,33405,2610
+1408,923,Virginia,Madison,VirginiaMadison,2020,54,45,37,36.3,23.4,2924,Virginia,"Madison County, VA",Madison,VirginiaMadison,7026,280
+1409,924,Virginia,Norfolk City,VirginiaNorfolk,2020,60,31,17,25.6,28.8,2987,Virginia,"Norfolk city, VA",Norfolk,VirginiaNorfolk,102074,9751
+1410,925,Virginia,Prince Edward,VirginiaPrince,2020,49,42,30,34.1,26.8,2939,Virginia,"Prince Edward County, VA",Prince,VirginiaPrince,9415,652
+1411,925,Virginia,Prince Edward,VirginiaPrince,2020,49,42,30,34.1,26.8,2940,Virginia,"Prince George County, VA",Prince,VirginiaPrince,13928,969
+1412,925,Virginia,Prince Edward,VirginiaPrince,2020,49,42,30,34.1,26.8,2941,Virginia,"Prince William County, VA",Prince,VirginiaPrince,229901,16028
+1428,927,Virginia,Richmond City,VirginiaRichmond,2020,77,44,29,35.4,17.7,2944,Virginia,"Richmond County, VA",Richmond,VirginiaRichmond,3851,197
+1429,927,Virginia,Richmond City,VirginiaRichmond,2020,77,44,29,35.4,17.7,2993,Virginia,"Richmond city, VA",Richmond,VirginiaRichmond,109370,10592
+1432,928,Virginia,Roanoke,VirginiaRoanoke,2020,69,48,35,25.0,35.6,2945,Virginia,"Roanoke County, VA",Roanoke,VirginiaRoanoke,46231,2489
+1433,928,Virginia,Roanoke,VirginiaRoanoke,2020,69,48,35,25.0,35.6,2994,Virginia,"Roanoke city, VA",Roanoke,VirginiaRoanoke,45388,3786
+1436,929,Virginia,Rockbridge,VirginiaRockbridge,2020,49,42,31,33.7,26.7,2946,Virginia,"Rockbridge County, VA",Rockbridge,VirginiaRockbridge,9892,575
+1437,930,Virginia,Rockingham,VirginiaRockingham,2020,74,44,32,35.1,26.3,2947,Virginia,"Rockingham County, VA",Rockingham,VirginiaRockingham,39573,1952
+1438,931,Virginia,Salem City,VirginiaSalem,2020,66,42,23,29.0,27.9,2995,Virginia,"Salem city, VA",Salem,VirginiaSalem,11938,733
+1439,932,Virginia,Stafford,VirginiaStafford,2020,84,44,32,22.9,39.9,2954,Virginia,"Stafford County, VA",Stafford,VirginiaStafford,68242,4099
+1440,933,Virginia,Suffolk City,VirginiaSuffolk,2020,67,44,36,27.1,29.5,2997,Virginia,"Suffolk city, VA",Suffolk,VirginiaSuffolk,41643,2903
+1441,934,Virginia,Virginia Beach City,VirginiaVirginia,2020,71,45,23,24.0,38.8,2868,Virginia,Virginia,Virginia,VirginiaVirginia,4075237,271407
+1442,934,Virginia,Virginia Beach City,VirginiaVirginia,2020,71,45,23,24.0,38.8,2998,Virginia,"Virginia Beach city, VA",Virginia,VirginiaVirginia,215991,14331
+1445,935,Virginia,Winchester City,VirginiaWinchester,2020,18,12,6,24.6,35.1,3001,Virginia,"Winchester city, VA",Winchester,VirginiaWinchester,14041,871
+1446,936,Virginia,Wythe,VirginiaWythe,2020,61,45,34,37.9,19.0,2962,Virginia,"Wythe County, VA",Wythe,VirginiaWythe,12760,1067
+1447,937,Washington,Adams,WashingtonAdams,2020,241,33,13,28.7,14.3,3003,Washington,"Adams County, WA",Adams,WashingtonAdams,8584,677
+1448,938,Washington,Asotin,WashingtonAsotin,2020,289,62,29,28.0,21.4,3004,Washington,"Asotin County, WA",Asotin,WashingtonAsotin,9845,538
+1449,939,Washington,Benton,WashingtonBenton,2020,908,54,33,24.5,30.9,3005,Washington,"Benton County, WA",Benton,WashingtonBenton,94682,8461
+1450,940,Washington,Chelan,WashingtonChelan,2020,489,54,21,26.4,25.8,3006,Washington,"Chelan County, WA",Chelan,WashingtonChelan,40497,3693
+1451,941,Washington,Clallam,WashingtonClallam,2020,309,47,33,26.3,27.4,3007,Washington,"Clallam County, WA",Clallam,WashingtonClallam,26303,2977
+1452,942,Washington,Clark,WashingtonClark,2020,509,58,27,24.2,30.6,3008,Washington,"Clark County, WA",Clark,WashingtonClark,221896,20682
+1453,943,Washington,Columbia,WashingtonColumbia,2020,233,41,18,21.7,25.6,3009,Washington,"Columbia County, WA",Columbia,WashingtonColumbia,1599,125
+1454,944,Washington,Cowlitz,WashingtonCowlitz,2020,257,38,16,30.6,17.0,3010,Washington,"Cowlitz County, WA",Cowlitz,WashingtonCowlitz,43999,4523
+1455,945,Washington,Franklin,WashingtonFranklin,2020,260,34,14,25.5,17.7,3013,Washington,"Franklin County, WA",Franklin,WashingtonFranklin,38664,3833
+1456,946,Washington,Garfield,WashingtonGarfield,2020,228,36,15,27.9,24.5,3014,Washington,"Garfield County, WA",Garfield,WashingtonGarfield,750,69
+1457,947,Washington,Grant,WashingtonGrant,2020,283,39,16,27.2,17.7,3015,Washington,"Grant County, WA",Grant,WashingtonGrant,43247,4195
+1458,948,Washington,Grays Harbor,WashingtonGrays,2020,218,38,20,34.0,16.5,3016,Washington,"Grays Harbor County, WA",Grays,WashingtonGrays,25653,3402
+1459,949,Washington,Jefferson,WashingtonJefferson,2020,208,33,18,20.7,44.3,3018,Washington,"Jefferson County, WA",Jefferson,WashingtonJefferson,11850,1231
+1460,950,Washington,King,WashingtonKing,2020,275,62,36,15.0,52.5,3019,Washington,"King County, WA",King,WashingtonKing,1190168,96440
+1461,951,Washington,Kitsap,WashingtonKitsap,2020,221,38,18,22.2,33.2,3020,Washington,"Kitsap County, WA",Kitsap,WashingtonKitsap,119140,9952
+1462,952,Washington,Kittitas,WashingtonKittitas,2020,459,54,18,24.9,32.3,3021,Washington,"Kittitas County, WA",Kittitas,WashingtonKittitas,20087,1998
+1463,953,Washington,Klickitat,WashingtonKlickitat,2020,669,39,17,24.8,31.5,3022,Washington,"Klickitat County, WA",Klickitat,WashingtonKlickitat,9002,808
+1464,954,Washington,Lewis,WashingtonLewis,2020,233,34,19,29.1,17.7,3023,Washington,"Lewis County, WA",Lewis,WashingtonLewis,31819,3284
+1465,955,Washington,Mason,WashingtonMason,2020,324,41,18,31.2,17.6,3025,Washington,"Mason County, WA",Mason,WashingtonMason,23009,2508
+1466,956,Washington,Okanogan,WashingtonOkanogan,2020,423,71,35,30.3,20.0,3026,Washington,"Okanogan County, WA",Okanogan,WashingtonOkanogan,17822,1759
+1467,957,Washington,Pend Oreille,WashingtonPend,2020,59,53,35,31.0,20.8,3028,Washington,"Pend Oreille County, WA",Pend,WashingtonPend,4428,530
+1468,958,Washington,Pierce,WashingtonPierce,2020,231,62,40,27.2,27.2,3029,Washington,"Pierce County, WA",Pierce,WashingtonPierce,406822,43374
+1469,959,Washington,Skagit,WashingtonSkagit,2020,52,31,16,26.3,26.2,3031,Washington,"Skagit County, WA",Skagit,WashingtonSkagit,56374,6124
+1470,960,Washington,Snohomish,WashingtonSnohomish,2020,225,64,30,23.3,32.8,3033,Washington,"Snohomish County, WA",Snohomish,WashingtonSnohomish,403863,37293
+1471,961,Washington,Spokane,WashingtonSpokane,2020,479,52,33,23.2,30.8,3034,Washington,"Spokane County, WA",Spokane,WashingtonSpokane,234789,22519
+1472,962,Washington,Stevens,WashingtonStevens,2020,536,63,32,34.5,18.7,3035,Washington,"Stevens County, WA",Stevens,WashingtonStevens,16799,1746
+1473,963,Washington,Thurston,WashingtonThurston,2020,217,44,25,21.3,35.7,3036,Washington,"Thurston County, WA",Thurston,WashingtonThurston,132365,11947
+1474,964,Washington,Walla Walla,WashingtonWalla,2020,819,50,22,19.8,29.8,3038,Washington,"Walla Walla County, WA",Walla,WashingtonWalla,28096,2069
+1475,965,Washington,Whatcom,WashingtonWhatcom,2020,212,60,29,23.4,34.3,3039,Washington,"Whatcom County, WA",Whatcom,WashingtonWhatcom,103992,10724
+1476,966,Washington,Whitman,WashingtonWhitman,2020,212,35,15,15.9,49.8,3040,Washington,"Whitman County, WA",Whitman,WashingtonWhitman,20683,1301
+1477,967,Washington,Yakima,WashingtonYakima,2020,465,76,35,28.1,16.7,3041,Washington,"Yakima County, WA",Yakima,WashingtonYakima,118071,12688
+1478,968,West Virginia,Berkeley,West VirginiaBerkeley,2020,95,48,36,37.6,21.2,3044,West Virginia,"Berkeley County, WV",Berkeley,West VirginiaBerkeley,54709,3628
+1479,969,West Virginia,Brooke,West VirginiaBrooke,2020,94,48,20,40.9,19.0,3047,West Virginia,"Brooke County, WV",Brooke,West VirginiaBrooke,9012,889
+1480,970,West Virginia,Cabell,West VirginiaCabell,2020,100,47,36,33.3,26.0,3048,West Virginia,"Cabell County, WV",Cabell,West VirginiaCabell,38604,3342
+1481,971,West Virginia,Gilmer,West VirginiaGilmer,2020,49,41,29,44.7,17.0,3053,West Virginia,"Gilmer County, WV",Gilmer,West VirginiaGilmer,2106,236
+1482,972,West Virginia,Greenbrier,West VirginiaGreenbrier,2020,54,44,34,37.8,19.9,3055,West Virginia,"Greenbrier County, WV",Greenbrier,West VirginiaGreenbrier,14416,1264
+1483,973,West Virginia,Hancock,West VirginiaHancock,2020,133,49,32,41.9,17.4,3057,West Virginia,"Hancock County, WV",Hancock,West VirginiaHancock,11814,1317
+1484,974,West Virginia,Harrison,West VirginiaHarrison,2020,78,43,26,38.6,23.3,3059,West Virginia,"Harrison County, WV",Harrison,West VirginiaHarrison,31381,2709
+1485,975,West Virginia,Kanawha,West VirginiaKanawha,2020,84,48,37,37.1,25.5,3062,West Virginia,"Kanawha County, WV",Kanawha,West VirginiaKanawha,75431,7369
+1486,976,West Virginia,Marion,West VirginiaMarion,2020,67,47,26,40.7,22.6,3067,West Virginia,"Marion County, WV",Marion,West VirginiaMarion,23168,2195
+1487,977,West Virginia,Marshall,West VirginiaMarshall,2020,68,37,6,44.5,18.0,3068,West Virginia,"Marshall County, WV",Marshall,West VirginiaMarshall,12260,1350
+1488,978,West Virginia,Mason,West VirginiaMason,2020,113,29,1,45.5,14.4,3069,West Virginia,"Mason County, WV",Mason,West VirginiaMason,9479,877
+1489,979,West Virginia,Mineral,West VirginiaMineral,2020,3,1,1,49.2,15.5,3071,West Virginia,"Mineral County, WV",Mineral,West VirginiaMineral,11323,926
+1490,980,West Virginia,Monongalia,West VirginiaMonongalia,2020,90,46,33,27.2,42.8,3073,West Virginia,"Monongalia County, WV",Monongalia,West VirginiaMonongalia,51146,3467
+1491,981,West Virginia,Ohio,West VirginiaOhio,2020,101,51,38,34.2,32.0,3077,West Virginia,"Ohio County, WV",Ohio,West VirginiaOhio,18715,1724
+1492,982,West Virginia,Tucker,West VirginiaTucker,2020,51,44,33,46.8,19.4,3089,West Virginia,"Tucker County, WV",Tucker,West VirginiaTucker,3013,279
+1493,983,West Virginia,Wood,West VirginiaWood,2020,80,45,32,34.4,21.9,3096,West Virginia,"Wood County, WV",Wood,West VirginiaWood,33221,3224
+1494,984,Wisconsin,Ashland,WisconsinAshland,2020,71,43,32,37.0,19.8,3100,Wisconsin,"Ashland County, WI",Ashland,WisconsinAshland,7035,651
+1495,985,Wisconsin,Brown,WisconsinBrown,2020,119,55,35,29.9,30.3,3103,Wisconsin,"Brown County, WI",Brown,WisconsinBrown,132013,8441
+1496,986,Wisconsin,Columbia,WisconsinColumbia,2020,115,48,38,33.7,23.3,3109,Wisconsin,"Columbia County, WI",Columbia,WisconsinColumbia,29438,1843
+1497,987,Wisconsin,Dane,WisconsinDane,2020,112,59,39,17.8,51.4,3111,Wisconsin,"Dane County, WI",Dane,WisconsinDane,304154,15279
+1498,988,Wisconsin,Dodge,WisconsinDodge,2020,136,56,38,40.9,17.0,3112,Wisconsin,"Dodge County, WI",Dodge,WisconsinDodge,44729,2484
+1499,989,Wisconsin,Door,WisconsinDoor,2020,150,51,36,30.3,33.7,3113,Wisconsin,"Door County, WI",Door,WisconsinDoor,13886,1019
+1500,990,Wisconsin,Eau Claire,WisconsinEau,2020,93,54,37,25.0,32.3,3116,Wisconsin,"Eau Claire County, WI",Eau,WisconsinEau,55064,3235
+1501,991,Wisconsin,Fond du Lac,WisconsinFond,2020,115,46,36,36.1,23.1,3118,Wisconsin,"Fond du Lac County, WI",Fond,WisconsinFond,52828,3286
+1502,992,Wisconsin,Forest,WisconsinForest,2020,93,47,35,39.2,14.7,3119,Wisconsin,"Forest County, WI",Forest,WisconsinForest,3407,483
+1503,993,Wisconsin,Grant,WisconsinGrant,2020,82,55,30,35.1,23.8,3120,Wisconsin,"Grant County, WI",Grant,WisconsinGrant,25875,1436
+1504,994,Wisconsin,Jefferson,WisconsinJefferson,2020,136,51,38,33.4,25.4,3126,Wisconsin,"Jefferson County, WI",Jefferson,WisconsinJefferson,42762,2451
+1505,995,Wisconsin,Kenosha,WisconsinKenosha,2020,197,67,40,30.1,26.1,3128,Wisconsin,"Kenosha County, WI",Kenosha,WisconsinKenosha,82200,6299
+1506,996,Wisconsin,Kewaunee,WisconsinKewaunee,2020,97,47,34,39.9,19.4,3129,Wisconsin,"Kewaunee County, WI",Kewaunee,WisconsinKewaunee,10172,489
+1507,997,Wisconsin,La Crosse,WisconsinLa,2020,93,54,37,25.4,34.9,3130,Wisconsin,"La Crosse County, WI",La,WisconsinLa,61467,3515
+1508,998,Wisconsin,Manitowoc,WisconsinManitowoc,2020,136,58,36,38.6,20.2,3134,Wisconsin,"Manitowoc County, WI",Manitowoc,WisconsinManitowoc,37911,2508
+1509,999,Wisconsin,Marathon,WisconsinMarathon,2020,74,45,31,34.3,25.4,3135,Wisconsin,"Marathon County, WI",Marathon,WisconsinMarathon,68711,3602
+1510,1000,Wisconsin,Milwaukee,WisconsinMilwaukee,2020,169,67,40,28.4,31.0,3139,Wisconsin,"Milwaukee County, WI",Milwaukee,WisconsinMilwaukee,425483,37937
+1511,1001,Wisconsin,Oneida,WisconsinOneida,2020,72,11,0,32.0,27.2,3142,Wisconsin,"Oneida County, WI",Oneida,WisconsinOneida,16508,1292
+1512,1002,Wisconsin,Outagamie,WisconsinOutagamie,2020,126,59,37,31.7,29.7,3143,Wisconsin,"Outagamie County, WI",Outagamie,WisconsinOutagamie,97137,5649
+1513,1003,Wisconsin,Ozaukee,WisconsinOzaukee,2020,164,59,35,20.0,49.0,3144,Wisconsin,"Ozaukee County, WI",Ozaukee,WisconsinOzaukee,45366,2597
+1514,1004,Wisconsin,Racine,WisconsinRacine,2020,172,67,38,31.6,25.2,3150,Wisconsin,"Racine County, WI",Racine,WisconsinRacine,90104,7051
+1515,1005,Wisconsin,Rock,WisconsinRock,2020,105,49,38,36.1,22.1,3152,Wisconsin,"Rock County, WI",Rock,WisconsinRock,78908,6027
+1516,1006,Wisconsin,Sauk,WisconsinSauk,2020,112,54,36,33.9,24.1,3155,Wisconsin,"Sauk County, WI",Sauk,WisconsinSauk,31770,2585
+1517,1007,Wisconsin,Sheboygan,WisconsinSheboygan,2020,159,74,39,35.9,25.1,3158,Wisconsin,"Sheboygan County, WI",Sheboygan,WisconsinSheboygan,57996,3514
+1518,1008,Wisconsin,Taylor,WisconsinTaylor,2020,78,49,35,43.4,15.1,3159,Wisconsin,"Taylor County, WI",Taylor,WisconsinTaylor,10372,533
+1519,1009,Wisconsin,Vilas,WisconsinVilas,2020,84,46,30,30.0,29.1,3162,Wisconsin,"Vilas County, WI",Vilas,WisconsinVilas,9480,741
+1520,1010,Wisconsin,Walworth,WisconsinWalworth,2020,136,50,39,31.3,28.8,3163,Wisconsin,"Walworth County, WI",Walworth,WisconsinWalworth,52906,3416
+1521,1011,Wisconsin,Waukesha,WisconsinWaukesha,2020,129,60,39,22.7,44.5,3166,Wisconsin,"Waukesha County, WI",Waukesha,WisconsinWaukesha,208246,12252
+1522,1012,Wyoming,Albany,WyomingAlbany,2020,177,71,46,14.7,51.8,3172,Wyoming,"Albany County, WY",Albany,WyomingAlbany,18946,780
+1523,1013,Wyoming,Big Horn,WyomingBig,2020,126,46,38,29.1,19.0,3173,Wyoming,"Big Horn County, WY",Big,WyomingBig,5112,269
+1524,1014,Wyoming,Campbell,WyomingCampbell,2020,124,68,44,35.6,18.9,3174,Wyoming,"Campbell County, WY",Campbell,WyomingCampbell,21822,1617
+1525,1015,Wyoming,Carbon,WyomingCarbon,2020,82,25,9,38.2,20.6,3175,Wyoming,"Carbon County, WY",Carbon,WyomingCarbon,7743,368
+1526,1016,Wyoming,Converse,WyomingConverse,2020,129,60,42,39.0,17.3,3176,Wyoming,"Converse County, WY",Converse,WyomingConverse,7677,486
+1527,1017,Wyoming,Fremont,WyomingFremont,2020,158,58,45,29.7,24.3,3178,Wyoming,"Fremont County, WY",Fremont,WyomingFremont,18120,1206
+1528,1018,Wyoming,Johnson,WyomingJohnson,2020,93,50,40,26.8,31.7,3181,Wyoming,"Johnson County, WY",Johnson,WyomingJohnson,3960,232
+1529,1019,Wyoming,Laramie,WyomingLaramie,2020,157,54,39,25.8,28.5,3182,Wyoming,"Laramie County, WY",Laramie,WyomingLaramie,48231,2595
+1530,1020,Wyoming,Lincoln,WyomingLincoln,2020,71,34,15,31.8,23.7,3183,Wyoming,"Lincoln County, WY",Lincoln,WyomingLincoln,8907,466
+1531,1021,Wyoming,Natrona,WyomingNatrona,2020,124,52,41,30.3,22.8,3184,Wyoming,"Natrona County, WY",Natrona,WyomingNatrona,37529,3181
+1532,1022,Wyoming,Park,WyomingPark,2020,113,30,11,25.8,34.0,3186,Wyoming,"Park County, WY",Park,WyomingPark,14549,831
+1533,1023,Wyoming,Platte,WyomingPlatte,2020,283,50,19,38.3,20.7,3187,Wyoming,"Platte County, WY",Platte,WyomingPlatte,4418,233
+1534,1024,Wyoming,Sheridan,WyomingSheridan,2020,100,47,39,25.6,31.0,3188,Wyoming,"Sheridan County, WY",Sheridan,WyomingSheridan,15409,801
+1535,1025,Wyoming,Sublette,WyomingSublette,2020,151,61,44,34.6,22.8,3189,Wyoming,"Sublette County, WY",Sublette,WyomingSublette,3765,294
+1536,1026,Wyoming,Sweetwater,WyomingSweetwater,2020,1250,76,46,33.0,22.5,3190,Wyoming,"Sweetwater County, WY",Sweetwater,WyomingSweetwater,19308,1532
+1537,1027,Wyoming,Teton,WyomingTeton,2020,161,54,42,14.9,57.0,3191,Wyoming,"Teton County, WY",Teton,WyomingTeton,14292,912
+1538,1028,Wyoming,Uinta,WyomingUinta,2020,122,51,40,41.5,16.0,3192,Wyoming,"Uinta County, WY",Uinta,WyomingUinta,8730,582
+1539,1029,Wyoming,Weston,WyomingWeston,2020,119,49,40,37.4,20.0,3194,Wyoming,"Weston County, WY",Weston,WyomingWeston,3688,148

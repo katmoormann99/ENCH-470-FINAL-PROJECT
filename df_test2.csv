@@ -1,0 +1,1031 @@
+,State,County,First Word of Each County,Abbreviation,Year,Max AQI,90th Percentile AQI,Median AQI
+0,Alabama,Baldwin,Baldwin,AlabamaBaldwin,2020,74,49,36
+1,Alabama,Russell,Russell,AlabamaRussell,2020,99,56,36
+2,Alabama,Shelby,Shelby,AlabamaShelby,2020,71,46,28
+3,Alabama,Sumter,Sumter,AlabamaSumter,2020,70,43,29
+4,Alabama,Tuscaloosa,Tuscaloosa,AlabamaTuscaloosa,2020,97,45,31
+5,Alaska,Aleutians East ,Aleutians,AlaskaAleutians,2020,31,22,8
+6,Alaska,Anchorage ,Anchorage,AlaskaAnchorage,2020,91,48,22
+7,Alaska,Bethel ,Bethel,AlaskaBethel,2020,56,21,6
+8,Alaska,Denali ,Denali,AlaskaDenali,2020,54,42,33
+9,Alaska,Fairbanks North Star ,Fairbanks,AlaskaFairbanks,2020,170,106,33
+10,Alaska,Juneau ,Juneau,AlaskaJuneau,2020,101,40,14
+11,Alaska,Kenai Peninsula ,Kenai,AlaskaKenai,2020,43,15,8
+12,Alaska,Matanuska-Susitna ,Matanuska-Susitna,AlaskaMatanuska-Susitna,2020,103,45,14
+13,Alaska,North Slope ,North,AlaskaNorth,2020,36,12,5
+14,Arizona,Apache,Apache,ArizonaApache,2020,58,29,14
+15,Arizona,Cochise,Cochise,ArizonaCochise,2020,108,61,45
+16,Arizona,Coconino,Coconino,ArizonaCoconino,2020,93,54,44
+17,Arizona,Gila,Gila,ArizonaGila,2020,174,77,47
+18,Arizona,La Paz,La,ArizonaLa,2020,125,58,44
+19,Arizona,Maricopa,Maricopa,ArizonaMaricopa,2020,282,215,112
+20,Arizona,Mohave,Mohave,ArizonaMohave,2020,116,34,18
+21,Arizona,Navajo,Navajo,ArizonaNavajo,2020,136,54,43
+22,Arizona,Pima,Pima,ArizonaPima,2020,277,77,53
+23,Arizona,Pinal,Pinal,ArizonaPinal,2020,1124,119,72
+24,Arizona,Santa Cruz,Santa,ArizonaSanta,2020,165,69,34
+25,Arizona,Yavapai,Yavapai,ArizonaYavapai,2020,119,61,45
+26,Arizona,Yuma,Yuma,ArizonaYuma,2020,321,69,44
+27,Arkansas,Arkansas,Arkansas,ArkansasArkansas,2020,82,50,27
+28,Arkansas,Ashley,Ashley,ArkansasAshley,2020,89,49,28
+29,Arkansas,Clark,Clark,ArkansasClark,2020,67,40,29
+30,Arkansas,Crittenden,Crittenden,ArkansasCrittenden,2020,115,54,38
+31,Arkansas,Garland,Garland,ArkansasGarland,2020,83,53,29
+32,Arkansas,Jackson,Jackson,ArkansasJackson,2020,77,51,26
+33,Arkansas,Newton,Newton,ArkansasNewton,2020,84,45,35
+34,Arkansas,Polk,Polk,ArkansasPolk,2020,84,47,36
+35,Arkansas,Pulaski,Pulaski,ArkansasPulaski,2020,132,59,42
+36,Arkansas,Union,Union,ArkansasUnion,2020,89,52,34
+37,Arkansas,Washington,Washington,ArkansasWashington,2020,150,52,39
+38,California,Alameda,Alameda,CaliforniaAlameda,2020,218,79,43
+39,California,Amador,Amador,CaliforniaAmador,2020,156,50,37
+40,California,Butte,Butte,CaliforniaButte,2020,379,110,51
+41,California,Calaveras,Calaveras,CaliforniaCalaveras,2020,192,77,44
+42,California,Colusa,Colusa,CaliforniaColusa,2020,198,86,38
+43,California,Contra Costa,Contra,CaliforniaContra,2020,197,74,41
+44,California,Del Norte,Del,CaliforniaDel,2020,220,55,32
+45,California,El Dorado,El,CaliforniaEl,2020,190,90,43
+46,California,Fresno,Fresno,CaliforniaFresno,2020,298,153,74
+47,California,Glenn,Glenn,CaliforniaGlenn,2020,197,82,43
+48,California,Humboldt,Humboldt,CaliforniaHumboldt,2020,109,44,29
+49,California,Imperial,Imperial,CaliforniaImperial,2020,166,97,58
+50,California,Inyo,Inyo,CaliforniaInyo,2020,684,130,52
+51,California,Kern,Kern,CaliforniaKern,2020,267,140,81
+52,California,Kings,Kings,CaliforniaKings,2020,543,124,67
+53,California,Lake,Lake,CaliforniaLake,2020,180,43,32
+54,California,Los Angeles,Los,CaliforniaLos,2020,235,165,83
+55,California,Madera,Madera,CaliforniaMadera,2020,250,113,61
+56,California,Marin,Marin,CaliforniaMarin,2020,206,57,33
+57,California,Mariposa,Mariposa,CaliforniaMariposa,2020,618,111,47
+58,California,Mendocino,Mendocino,CaliforniaMendocino,2020,456,76,34
+59,California,Merced,Merced,CaliforniaMerced,2020,183,95,53
+60,California,Mono,Mono,CaliforniaMono,2020,1928,199,40
+61,California,Monterey,Monterey,CaliforniaMonterey,2020,250,63,36
+62,California,Napa,Napa,CaliforniaNapa,2020,199,62,36
+63,California,Nevada,Nevada,CaliforniaNevada,2020,252,90,41
+64,California,Orange,Orange,CaliforniaOrange,2020,218,108,51
+65,California,Placer,Placer,CaliforniaPlacer,2020,222,108,54
+66,California,Plumas,Plumas,CaliforniaPlumas,2020,469,146,49
+67,California,Riverside,Riverside,CaliforniaRiverside,2020,576,159,87
+68,California,Sacramento,Sacramento,CaliforniaSacramento,2020,200,100,52
+69,California,SanBenito,SanBenito,CaliforniaSanBenito,2020,168,67,39
+70,California,SanBernardino,SanBernardino,CaliforniaSanBernardino,2020,236,185,93
+71,California,SanDiego,SanDiego,CaliforniaSanDiego,2020,192,108,71
+72,California,SanFrancisco,SanFrancisco,CaliforniaSanFrancisco,2020,198,62,36
+73,California,SanJoaquin,SanJoaquin,CaliforniaSanJoaquin,2020,195,97,49
+74,California,SanLuis Obispo,SanLuis,CaliforniaSanLuis,2020,292,90,48
+75,California,SanMateo,SanMateo,CaliforniaSanMateo,2020,186,60,35
+76,California,SantaBarbara,SantaBarbara,CaliforniaSantaBarbara,2020,168,66,42
+77,California,SantaClara,SantaClara,CaliforniaSantaClara,2020,186,79,44
+78,California,SantaCruz,SantaCruz,CaliforniaSantaCruz,2020,426,64,34
+79,California,Shasta,Shasta,CaliforniaShasta,2020,166,64,41
+80,California,Siskiyou,Siskiyou,CaliforniaSiskiyou,2020,359,61,36
+81,California,Solano,Solano,CaliforniaSolano,2020,204,76,41
+82,California,Sonoma,Sonoma,CaliforniaSonoma,2020,187,53,33
+83,California,Stanislaus,Stanislaus,CaliforniaStanislaus,2020,189,102,55
+84,California,Sutter,Sutter,CaliforniaSutter,2020,303,89,48
+85,California,Tehama,Tehama,CaliforniaTehama,2020,196,93,43
+86,California,Trinity,Trinity,CaliforniaTrinity,2020,193,79,27
+87,California,Tulare,Tulare,CaliforniaTulare,2020,209,145,79
+88,California,Tuolumne,Tuolumne,CaliforniaTuolumne,2020,143,64,41
+89,California,Ventura,Ventura,CaliforniaVentura,2020,174,90,47
+90,California,Yolo,Yolo,CaliforniaYolo,2020,192,84,42
+91,Colorado,Adams,Adams,ColoradoAdams,2020,151,72,47
+92,Colorado,Alamosa,Alamosa,ColoradoAlamosa,2020,60,30,11
+93,Colorado,Arapahoe,Arapahoe,ColoradoArapahoe,2020,159,76,45
+94,Colorado,Archuleta,Archuleta,ColoradoArchuleta,2020,93,58,43
+95,Colorado,Boulder,Boulder,ColoradoBoulder,2020,173,84,47
+96,Colorado,Clear Creek,Clear,ColoradoClear,2020,143,71,47
+97,Colorado,Delta,Delta,ColoradoDelta,2020,97,51,41
+98,Colorado,Denver,Denver,ColoradoDenver,2020,150,80,50
+99,Colorado,Douglas,Douglas,ColoradoDouglas,2020,159,80,46
+100,Colorado,El Paso,El,ColoradoEl,2020,151,74,45
+101,Colorado,Fremont,Fremont,ColoradoFremont,2020,27,20,11
+102,Colorado,Garfield,Garfield,ColoradoGarfield,2020,122,74,46
+103,Colorado,Gilpin,Gilpin,ColoradoGilpin,2020,136,67,45
+104,Colorado,Gunnison,Gunnison,ColoradoGunnison,2020,108,54,44
+105,Colorado,Jackson,Jackson,ColoradoJackson,2020,84,46,8
+106,Colorado,Jefferson,Jefferson,ColoradoJefferson,2020,161,90,46
+107,Colorado,La Plata,La,ColoradoLa,2020,101,61,44
+108,Colorado,Larimer,Larimer,ColoradoLarimer,2020,157,87,48
+109,Colorado,Mesa,Mesa,ColoradoMesa,2020,108,58,44
+110,Colorado,Montezuma,Montezuma,ColoradoMontezuma,2020,126,58,44
+111,Colorado,Pitkin,Pitkin,ColoradoPitkin,2020,68,33,12
+112,Colorado,Prowers,Prowers,ColoradoProwers,2020,238,42,17
+113,Colorado,Pueblo,Pueblo,ColoradoPueblo,2020,63,45,19
+114,Colorado,Rio Blanco,Rio,ColoradoRio,2020,115,54,42
+115,Colorado,Routt,Routt,ColoradoRoutt,2020,68,29,14
+116,Colorado,SanJuan,SanJuan,ColoradoSanJuan,2020,69,26,8
+117,Colorado,SanMiguel,SanMiguel,ColoradoSanMiguel,2020,54,26,12
+118,Colorado,Weld,Weld,ColoradoWeld,2020,140,82,48
+119,Connecticut,Fairfield,Fairfield,ConnecticutFairfield,2020,161,80,44
+120,Connecticut,Hartford,Hartford,ConnecticutHartford,2020,98,55,39
+121,Connecticut,Litchfield,Litchfield,ConnecticutLitchfield,2020,84,50,38
+122,Connecticut,Middlesex,Middlesex,ConnecticutMiddlesex,2020,129,54,39
+123,Connecticut,New Haven,New,ConnecticutNew,2020,174,77,42
+124,Connecticut,New London,New,ConnecticutNew,2020,172,58,37
+125,Connecticut,Tolland,Tolland,ConnecticutTolland,2020,93,48,39
+126,Connecticut,Windham,Windham,ConnecticutWindham,2020,87,44,35
+127,Country Of Mexico,BAJA CALIFORNIA NORTE,BAJA,Country Of MexicoBAJA,2020,176,156,115
+128,Country Of Mexico,SONORA,SONORA,Country Of MexicoSONORA,2020,101,64,41
+129,Delaware,Kent,Kent,DelawareKent,2020,80,48,36
+130,Delaware,New Castle,New,DelawareNew,2020,105,58,40
+131,Delaware,Sussex,Sussex,DelawareSussex,2020,87,51,38
+132,District Of Columbia,District of Columbia,District,District Of ColumbiaDistrict,2020,166,53,40
+133,Florida,Alachua,Alachua,FloridaAlachua,2020,105,52,36
+134,Florida,Baker,Baker,FloridaBaker,2020,140,49,35
+135,Florida,Bay,Bay,FloridaBay,2020,146,58,40
+136,Florida,Brevard,Brevard,FloridaBrevard,2020,84,52,39
+137,Florida,Broward,Broward,FloridaBroward,2020,142,57,40
+138,Florida,Citrus,Citrus,FloridaCitrus,2020,125,54,32
+139,Florida,Collier,Collier,FloridaCollier,2020,85,54,36
+140,Florida,Columbia,Columbia,FloridaColumbia,2020,158,56,36
+141,Florida,Duval,Duval,FloridaDuval,2020,125,59,42
+142,Florida,Escambia,Escambia,FloridaEscambia,2020,80,58,42
+143,Florida,Flagler,Flagler,FloridaFlagler,2020,64,43,31
+144,Florida,Hamilton,Hamilton,FloridaHamilton,2020,154,52,33
+145,Florida,Highlands,Highlands,FloridaHighlands,2020,74,44,31
+146,Florida,Hillsborough,Hillsborough,FloridaHillsborough,2020,112,61,43
+147,Florida,Holmes,Holmes,FloridaHolmes,2020,138,54,38
+148,Florida,Indian River,Indian,FloridaIndian,2020,87,47,37
+149,Florida,Lake,Lake,FloridaLake,2020,87,45,32
+150,Florida,Lee,Lee,FloridaLee,2020,100,50,36
+151,Florida,Leon,Leon,FloridaLeon,2020,160,58,40
+152,Florida,Liberty,Liberty,FloridaLiberty,2020,51,44,31
+153,Florida,Manatee,Manatee,FloridaManatee,2020,97,44,33
+154,Florida,Marion,Marion,FloridaMarion,2020,100,55,39
+155,Florida,Martin,Martin,FloridaMartin,2020,95,52,36
+156,Florida,Miami-Dade,Miami-Dade,FloridaMiami-Dade,2020,90,58,39
+157,Florida,Nassau,Nassau,FloridaNassau,2020,157,34,4
+158,Florida,Okaloosa,Okaloosa,FloridaOkaloosa,2020,74,46,34
+159,Florida,Orange,Orange,FloridaOrange,2020,93,51,36
+160,Florida,Osceola,Osceola,FloridaOsceola,2020,90,44,32
+161,Florida,Palm Beach,Palm,FloridaPalm,2020,92,54,38
+162,Florida,Pasco,Pasco,FloridaPasco,2020,77,46,35
+163,Florida,Pinellas,Pinellas,FloridaPinellas,2020,100,56,40
+164,Florida,Polk,Polk,FloridaPolk,2020,87,54,37
+165,Florida,Putnam,Putnam,FloridaPutnam,2020,67,27,14
+166,Florida,Santa Rosa,Santa,FloridaSanta,2020,84,57,40
+167,Florida,Sarasota,Sarasota,FloridaSarasota,2020,90,55,38
+168,Florida,Seminole,Seminole,FloridaSeminole,2020,84,49,36
+169,Florida,St. Lucie,St.,FloridaSt.,2020,74,44,33
+170,Florida,Volusia,Volusia,FloridaVolusia,2020,77,50,38
+171,Florida,Wakulla,Wakulla,FloridaWakulla,2020,161,54,35
+172,Georgia,Bibb,Bibb,GeorgiaBibb,2020,97,52,35
+173,Georgia,Charlton,Charlton,GeorgiaCharlton,2020,139,34,20
+174,Georgia,Chatham,Chatham,GeorgiaChatham,2020,131,58,39
+175,Georgia,Chattooga,Chattooga,GeorgiaChattooga,2020,58,43,32
+176,Georgia,Clarke,Clarke,GeorgiaClarke,2020,99,54,36
+177,Georgia,Clayton,Clayton,GeorgiaClayton,2020,90,54,28
+178,Georgia,Cobb,Cobb,GeorgiaCobb,2020,90,49,35
+179,Georgia,Coffee,Coffee,GeorgiaCoffee,2020,108,42,25
+180,Georgia,Columbia,Columbia,GeorgiaColumbia,2020,51,44,31
+181,Georgia,Dawson,Dawson,GeorgiaDawson,2020,74,43,31
+182,Georgia,DeKalb,DeKalb,GeorgiaDeKalb,2020,106,57,38
+183,Georgia,Dougherty,Dougherty,GeorgiaDougherty,2020,114,61,37
+184,Georgia,Douglas,Douglas,GeorgiaDouglas,2020,77,44,32
+185,Georgia,Floyd,Floyd,GeorgiaFloyd,2020,80,52,30
+186,Georgia,Fulton,Fulton,GeorgiaFulton,2020,125,62,43
+187,Georgia,Glynn,Glynn,GeorgiaGlynn,2020,96,44,31
+188,Georgia,Gwinnett,Gwinnett,GeorgiaGwinnett,2020,101,55,37
+189,Georgia,Hall,Hall,GeorgiaHall,2020,98,55,33
+190,Georgia,Henry,Henry,GeorgiaHenry,2020,95,50,32
+191,Georgia,Houston,Houston,GeorgiaHouston,2020,114,57,35
+192,Georgia,Lowndes,Lowndes,GeorgiaLowndes,2020,141,54,30
+193,Georgia,Murray,Murray,GeorgiaMurray,2020,61,46,35
+194,Georgia,Muscogee,Muscogee,GeorgiaMuscogee,2020,101,53,35
+195,Georgia,Pike,Pike,GeorgiaPike,2020,64,44,33
+196,Georgia,Richmond,Richmond,GeorgiaRichmond,2020,114,60,42
+197,Georgia,Rockdale,Rockdale,GeorgiaRockdale,2020,77,46,34
+198,Georgia,Sumter,Sumter,GeorgiaSumter,2020,64,44,32
+199,Georgia,Walker,Walker,GeorgiaWalker,2020,84,53,30
+200,Georgia,Washington,Washington,GeorgiaWashington,2020,112,54,32
+201,Hawaii,Hawaii,Hawaii,HawaiiHawaii,2020,231,30,18
+202,Hawaii,Honolulu,Honolulu,HawaiiHonolulu,2020,92,40,26
+203,Hawaii,Kauai,Kauai,HawaiiKauai,2020,41,25,11
+204,Hawaii,Maui,Maui,HawaiiMaui,2020,56,23,15
+205,Idaho,Ada,Ada,IdahoAda,2020,185,72,40
+206,Idaho,Bannock,Bannock,IdahoBannock,2020,161,61,41
+207,Idaho,Benewah,Benewah,IdahoBenewah,2020,371,65,32
+208,Idaho,Blaine,Blaine,IdahoBlaine,2020,167,43,15
+209,Idaho,Boise,Boise,IdahoBoise,2020,198,68,35
+210,Idaho,Bonner,Bonner,IdahoBonner,2020,190,52,25
+211,Idaho,Bonneville,Bonneville,IdahoBonneville,2020,154,49,21
+212,Idaho,Butte,Butte,IdahoButte,2020,152,50,40
+213,Idaho,Canyon,Canyon,IdahoCanyon,2020,156,73,33
+214,Idaho,Caribou,Caribou,IdahoCaribou,2020,109,24,6
+215,Idaho,Custer,Custer,IdahoCuster,2020,126,59,5
+216,Idaho,Franklin,Franklin,IdahoFranklin,2020,159,53,20
+217,Idaho,Idaho,Idaho,IdahoIdaho,2020,191,60,36
+218,Idaho,Jerome,Jerome,IdahoJerome,2020,37,19,10
+219,Idaho,Kootenai,Kootenai,IdahoKootenai,2020,384,48,19
+220,Idaho,Latah,Latah,IdahoLatah,2020,333,41,16
+221,Idaho,Lemhi,Lemhi,IdahoLemhi,2020,163,77,35
+222,Idaho,Nez Perce,Nez,IdahoNez,2020,363,59,21
+223,Idaho,Shoshone,Shoshone,IdahoShoshone,2020,346,64,30
+224,Idaho,Twin Falls,Twin,IdahoTwin,2020,160,48,18
+225,Idaho,Valley,Valley,IdahoValley,2020,192,63,30
+226,Illinois,Adams,Adams,IllinoisAdams,2020,84,50,38
+227,Illinois,Champaign,Champaign,IllinoisChampaign,2020,126,56,39
+228,Illinois,Clark,Clark,IllinoisClark,2020,97,45,31
+229,Illinois,Cook,Cook,IllinoisCook,2020,164,84,53
+230,Illinois,DuPage,DuPage,IllinoisDuPage,2020,154,59,41
+231,Illinois,Effingham,Effingham,IllinoisEffingham,2020,84,48,37
+232,Illinois,Hamilton,Hamilton,IllinoisHamilton,2020,118,56,40
+233,Illinois,Jersey,Jersey,IllinoisJersey,2020,112,55,39
+234,Illinois,Jo Daviess,Jo,IllinoisJo,2020,87,44,32
+235,Illinois,Kane,Kane,IllinoisKane,2020,161,64,39
+236,Illinois,La Salle,La,IllinoisLa,2020,26,3,0
+237,Illinois,Lake,Lake,IllinoisLake,2020,185,74,39
+238,Illinois,Macon,Macon,IllinoisMacon,2020,90,56,41
+239,Illinois,Macoupin,Macoupin,IllinoisMacoupin,2020,93,45,31
+240,Illinois,Madison,Madison,IllinoisMadison,2020,112,70,47
+241,Illinois,McHenry,McHenry,IllinoisMcHenry,2020,147,58,40
+242,Illinois,McLean,McLean,IllinoisMcLean,2020,136,58,41
+243,Illinois,Monroe,Monroe,IllinoisMonroe,2020,43,7,1
+244,Illinois,Peoria,Peoria,IllinoisPeoria,2020,115,57,40
+245,Illinois,Randolph,Randolph,IllinoisRandolph,2020,103,54,38
+246,Illinois,Rock Island,Rock,IllinoisRock,2020,102,56,38
+247,Illinois,Saint Clair,Saint,IllinoisSaint,2020,100,56,36
+248,Illinois,Sangamon,Sangamon,IllinoisSangamon,2020,97,54,39
+249,Illinois,Tazewell,Tazewell,IllinoisTazewell,2020,26,9,1
+250,Illinois,Wabash,Wabash,IllinoisWabash,2020,74,17,1
+251,Illinois,Will,Will,IllinoisWill,2020,155,60,42
+252,Illinois,Winnebago,Winnebago,IllinoisWinnebago,2020,101,61,39
+253,Indiana,Allen,Allen,IndianaAllen,2020,120,58,39
+254,Indiana,Bartholomew,Bartholomew,IndianaBartholomew,2020,97,52,37
+255,Indiana,Boone,Boone,IndianaBoone,2020,101,48,32
+256,Indiana,Brown,Brown,IndianaBrown,2020,80,44,33
+257,Indiana,Carroll,Carroll,IndianaCarroll,2020,100,44,31
+258,Indiana,Clark,Clark,IndianaClark,2020,91,58,42
+259,Indiana,Daviess,Daviess,IndianaDaviess,2020,19,4,0
+260,Indiana,Delaware,Delaware,IndianaDelaware,2020,97,50,35
+261,Indiana,Dubois,Dubois,IndianaDubois,2020,67,54,33
+262,Indiana,Elkhart,Elkhart,IndianaElkhart,2020,158,54,36
+263,Indiana,Floyd,Floyd,IndianaFloyd,2020,143,44,32
+264,Indiana,Gibson,Gibson,IndianaGibson,2020,114,26,3
+265,Indiana,Greene,Greene,IndianaGreene,2020,90,50,34
+266,Indiana,Hamilton,Hamilton,IndianaHamilton,2020,97,54,38
+267,Indiana,Hendricks,Hendricks,IndianaHendricks,2020,87,45,32
+268,Indiana,Henry,Henry,IndianaHenry,2020,63,51,29
+269,Indiana,Howard,Howard,IndianaHoward,2020,108,53,38
+270,Indiana,Knox,Knox,IndianaKnox,2020,105,48,33
+271,Indiana,LaPorte,LaPorte,IndianaLaPorte,2020,154,61,37
+272,Indiana,Lake,Lake,IndianaLake,2020,136,65,44
+273,Indiana,Madison,Madison,IndianaMadison,2020,97,55,39
+274,Indiana,Marion,Marion,IndianaMarion,2020,144,68,48
+275,Indiana,Monroe,Monroe,IndianaMonroe,2020,69,51,31
+276,Indiana,Perry,Perry,IndianaPerry,2020,105,45,34
+277,Indiana,Porter,Porter,IndianaPorter,2020,151,67,41
+278,Indiana,Posey,Posey,IndianaPosey,2020,112,45,31
+279,Indiana,Shelby,Shelby,IndianaShelby,2020,115,46,32
+280,Indiana,Spencer,Spencer,IndianaSpencer,2020,63,53,32
+281,Indiana,St. Joseph,St.,IndianaSt.,2020,162,62,41
+282,Indiana,Sullivan,Sullivan,IndianaSullivan,2020,53,51,29
+283,Indiana,Tippecanoe,Tippecanoe,IndianaTippecanoe,2020,69,56,39
+284,Indiana,Vanderburgh,Vanderburgh,IndianaVanderburgh,2020,101,57,39
+285,Indiana,Vigo,Vigo,IndianaVigo,2020,112,57,40
+286,Indiana,Wabash,Wabash,IndianaWabash,2020,97,49,35
+287,Indiana,Warrick,Warrick,IndianaWarrick,2020,112,47,33
+288,Indiana,Whitley,Whitley,IndianaWhitley,2020,76,56,39
+289,Iowa,Black Hawk,Black,IowaBlack,2020,91,53,32
+290,Iowa,Bremer,Bremer,IowaBremer,2020,87,45,35
+291,Iowa,Cerro Gordo,Cerro,IowaCerro,2020,60,37,18
+292,Iowa,Clinton,Clinton,IowaClinton,2020,87,56,37
+293,Iowa,Harrison,Harrison,IowaHarrison,2020,87,49,37
+294,Iowa,Johnson,Johnson,IowaJohnson,2020,105,58,35
+295,Iowa,Lee,Lee,IowaLee,2020,73,52,30
+296,Iowa,Linn,Linn,IowaLinn,2020,105,60,40
+297,Iowa,Montgomery,Montgomery,IowaMontgomery,2020,76,51,35
+298,Iowa,Muscatine,Muscatine,IowaMuscatine,2020,124,54,30
+299,Iowa,Palo Alto,Palo,IowaPalo,2020,87,51,36
+300,Iowa,Polk,Polk,IowaPolk,2020,186,54,36
+301,Iowa,Pottawattamie,Pottawattamie,IowaPottawattamie,2020,77,52,31
+302,Iowa,Scott,Scott,IowaScott,2020,155,63,44
+303,Iowa,Van Buren,Van,IowaVan,2020,87,49,36
+304,Iowa,Woodbury,Woodbury,IowaWoodbury,2020,79,50,29
+305,Kansas,Chase,Chase,KansasChase,2020,58,38,18
+306,Kansas,Ford,Ford,KansasFord,2020,79,29,11
+307,Kansas,Johnson,Johnson,KansasJohnson,2020,117,56,36
+308,Kansas,Leavenworth,Leavenworth,KansasLeavenworth,2020,77,44,32
+309,Kansas,Neosho,Neosho,KansasNeosho,2020,106,54,39
+310,Kansas,Sedgwick,Sedgwick,KansasSedgwick,2020,114,54,38
+311,Kansas,Shawnee,Shawnee,KansasShawnee,2020,169,58,39
+312,Kansas,Sherman,Sherman,KansasSherman,2020,106,44,13
+313,Kansas,Sumner,Sumner,KansasSumner,2020,117,59,40
+314,Kansas,Trego,Trego,KansasTrego,2020,147,51,37
+315,Kansas,Wyandotte,Wyandotte,KansasWyandotte,2020,116,63,44
+316,Kentucky,Bell,Bell,KentuckyBell,2020,71,46,33
+317,Kentucky,Boone,Boone,KentuckyBoone,2020,87,50,36
+318,Kentucky,Boyd,Boyd,KentuckyBoyd,2020,88,51,36
+319,Kentucky,Bullitt,Bullitt,KentuckyBullitt,2020,115,48,37
+320,Kentucky,Campbell,Campbell,KentuckyCampbell,2020,93,54,39
+321,Kentucky,Carter,Carter,KentuckyCarter,2020,59,44,31
+322,Kentucky,Christian,Christian,KentuckyChristian,2020,83,51,38
+323,Kentucky,Daviess,Daviess,KentuckyDaviess,2020,105,54,38
+324,Kentucky,Edmonson,Edmonson,KentuckyEdmonson,2020,64,45,33
+325,Kentucky,Fayette,Fayette,KentuckyFayette,2020,84,51,38
+326,Kentucky,Greenup,Greenup,KentuckyGreenup,2020,61,42,28
+327,Kentucky,Hancock,Hancock,KentuckyHancock,2020,97,47,37
+328,Kentucky,Hardin,Hardin,KentuckyHardin,2020,80,51,38
+329,Kentucky,Henderson,Henderson,KentuckyHenderson,2020,114,44,1
+330,Kentucky,Jefferson,Jefferson,KentuckyJefferson,2020,115,61,45
+331,Kentucky,Jessamine,Jessamine,KentuckyJessamine,2020,77,44,31
+332,Kentucky,Livingston,Livingston,KentuckyLivingston,2020,105,47,37
+333,Kentucky,McCracken,McCracken,KentuckyMcCracken,2020,111,57,39
+334,Kentucky,Morgan,Morgan,KentuckyMorgan,2020,64,44,33
+335,Kentucky,Oldham,Oldham,KentuckyOldham,2020,97,49,38
+336,Kentucky,Perry,Perry,KentuckyPerry,2020,99,48,34
+337,Kentucky,Pike,Pike,KentuckyPike,2020,92,45,32
+338,Kentucky,Pulaski,Pulaski,KentuckyPulaski,2020,77,48,36
+339,Kentucky,Simpson,Simpson,KentuckySimpson,2020,67,46,36
+340,Kentucky,Trigg,Trigg,KentuckyTrigg,2020,84,45,34
+341,Kentucky,Warren,Warren,KentuckyWarren,2020,97,53,38
+342,Kentucky,Washington,Washington,KentuckyWashington,2020,77,46,34
+343,Louisiana,Ascension,Ascension,LouisianaAscension,2020,100,46,31
+344,Louisiana,Bossier,Bossier,LouisianaBossier,2020,105,53,36
+345,Louisiana,Caddo,Caddo,LouisianaCaddo,2020,126,49,34
+346,Louisiana,Calcasieu,Calcasieu,LouisianaCalcasieu,2020,116,61,41
+347,Louisiana,East Baton Rouge,East,LouisianaEast,2020,119,55,38
+348,Louisiana,Iberville,Iberville,LouisianaIberville,2020,136,54,36
+349,Louisiana,Jefferson,Jefferson,LouisianaJefferson,2020,87,54,36
+350,Louisiana,Lafayette,Lafayette,LouisianaLafayette,2020,120,59,40
+351,Louisiana,Lafourche,Lafourche,LouisianaLafourche,2020,115,56,39
+352,Louisiana,Livingston,Livingston,LouisianaLivingston,2020,105,58,39
+353,Louisiana,Orleans,Orleans,LouisianaOrleans,2020,88,47,28
+354,Louisiana,Ouachita,Ouachita,LouisianaOuachita,2020,111,45,32
+355,Louisiana,Pointe Coupee,Pointe,LouisianaPointe,2020,100,45,32
+356,Louisiana,Rapides,Rapides,LouisianaRapides,2020,103,49,26
+357,Louisiana,St. Bernard,St.,LouisianaSt.,2020,91,55,40
+358,Louisiana,St. Charles,St.,LouisianaSt.,2020,77,37,3
+359,Louisiana,St. James,St.,LouisianaSt.,2020,90,44,28
+360,Louisiana,St. John the Baptist,St.,LouisianaSt.,2020,80,45,31
+361,Louisiana,St. Martin,St.,LouisianaSt.,2020,87,48,33
+362,Louisiana,St. Tammany,St.,LouisianaSt.,2020,90,52,36
+363,Louisiana,Tangipahoa,Tangipahoa,LouisianaTangipahoa,2020,64,49,26
+364,Louisiana,Terrebonne,Terrebonne,LouisianaTerrebonne,2020,74,50,27
+365,Louisiana,West Baton Rouge,West,LouisianaWest,2020,101,58,38
+366,Maine,Androscoggin,Androscoggin,MaineAndroscoggin,2020,66,44,29
+367,Maine,Aroostook,Aroostook,MaineAroostook,2020,189,47,33
+368,Maine,Cumberland,Cumberland,MaineCumberland,2020,97,53,38
+369,Maine,Hancock,Hancock,MaineHancock,2020,105,48,35
+370,Maine,Kennebec,Kennebec,MaineKennebec,2020,64,44,35
+371,Maine,Knox,Knox,MaineKnox,2020,71,45,31
+372,Maine,Oxford,Oxford,MaineOxford,2020,65,44,33
+373,Maine,Penobscot,Penobscot,MainePenobscot,2020,73,44,29
+374,Maine,Washington,Washington,MaineWashington,2020,61,44,33
+375,Maine,York,York,MaineYork,2020,87,47,39
+376,Maryland,Allegany,Allegany,MarylandAllegany,2020,9,3,1
+377,Maryland,Anne Arundel,Anne,MarylandAnne,2020,108,49,32
+378,Maryland,Baltimore,Baltimore,MarylandBaltimore,2020,105,57,39
+379,Maryland,Baltimore (City),Baltimore,MarylandBaltimore,2020,97,51,34
+380,Maryland,Calvert,Calvert,MarylandCalvert,2020,67,44,35
+381,Maryland,Carroll,Carroll,MarylandCarroll,2020,84,49,39
+382,Maryland,Cecil,Cecil,MarylandCecil,2020,97,49,34
+383,Maryland,Charles,Charles,MarylandCharles,2020,58,44,34
+384,Maryland,Dorchester,Dorchester,MarylandDorchester,2020,84,47,35
+385,Maryland,Frederick,Frederick,MarylandFrederick,2020,90,49,40
+386,Maryland,Garrett,Garrett,MarylandGarrett,2020,71,46,36
+387,Maryland,Harford,Harford,MarylandHarford,2020,119,55,38
+388,Maryland,Howard,Howard,MarylandHoward,2020,68,44,28
+389,Maryland,Kent,Kent,MarylandKent,2020,100,46,33
+390,Maryland,Montgomery,Montgomery,MarylandMontgomery,2020,77,45,33
+391,Maryland,Prince George's,Prince,MarylandPrince,2020,105,50,37
+392,Maryland,Washington,Washington,MarylandWashington,2020,81,51,37
+393,Massachusetts,Barnstable,Barnstable,MassachusettsBarnstable,2020,108,45,35
+394,Massachusetts,Berkshire,Berkshire,MassachusettsBerkshire,2020,94,52,36
+395,Massachusetts,Bristol,Bristol,MassachusettsBristol,2020,119,53,39
+396,Massachusetts,Dukes,Dukes,MassachusettsDukes,2020,126,45,37
+397,Massachusetts,Essex,Essex,MassachusettsEssex,2020,97,50,37
+398,Massachusetts,Franklin,Franklin,MassachusettsFranklin,2020,96,55,37
+399,Massachusetts,Hampden,Hampden,MassachusettsHampden,2020,99,55,39
+400,Massachusetts,Hampshire,Hampshire,MassachusettsHampshire,2020,84,48,35
+401,Massachusetts,Middlesex,Middlesex,MassachusettsMiddlesex,2020,93,48,36
+402,Massachusetts,Norfolk,Norfolk,MassachusettsNorfolk,2020,71,43,32
+403,Massachusetts,Plymouth,Plymouth,MassachusettsPlymouth,2020,80,51,37
+404,Massachusetts,Suffolk,Suffolk,MassachusettsSuffolk,2020,84,51,37
+405,Massachusetts,Worcester,Worcester,MassachusettsWorcester,2020,90,52,38
+406,Michigan,Allegan,Allegan,MichiganAllegan,2020,136,54,36
+407,Michigan,Bay,Bay,MichiganBay,2020,74,39,17
+408,Michigan,Benzie,Benzie,MichiganBenzie,2020,164,47,36
+409,Michigan,Berrien,Berrien,MichiganBerrien,2020,150,61,38
+410,Michigan,Cass,Cass,MichiganCass,2020,122,61,39
+411,Michigan,Clinton,Clinton,MichiganClinton,2020,93,46,34
+412,Michigan,Genesee,Genesee,MichiganGenesee,2020,126,52,35
+413,Michigan,Huron,Huron,MichiganHuron,2020,150,48,36
+414,Michigan,Ingham,Ingham,MichiganIngham,2020,151,51,34
+415,Michigan,Kalamazoo,Kalamazoo,MichiganKalamazoo,2020,115,58,38
+416,Michigan,Kent,Kent,MichiganKent,2020,153,58,36
+417,Michigan,Keweenaw,Keweenaw,MichiganKeweenaw,2020,35,23,10
+418,Michigan,Lenawee,Lenawee,MichiganLenawee,2020,122,57,38
+419,Michigan,Macomb,Macomb,MichiganMacomb,2020,126,60,36
+420,Michigan,Manistee,Manistee,MichiganManistee,2020,80,41,28
+421,Michigan,Mason,Mason,MichiganMason,2020,159,49,37
+422,Michigan,Missaukee,Missaukee,MichiganMissaukee,2020,105,52,36
+423,Michigan,Monroe,Monroe,MichiganMonroe,2020,66,14,1
+424,Michigan,Muskegon,Muskegon,MichiganMuskegon,2020,143,64,37
+425,Michigan,Oakland,Oakland,MichiganOakland,2020,126,59,36
+426,Michigan,Ottawa,Ottawa,MichiganOttawa,2020,150,56,33
+427,Michigan,Schoolcraft,Schoolcraft,MichiganSchoolcraft,2020,133,44,33
+428,Michigan,St. Clair,St.,MichiganSt.,2020,114,60,35
+429,Michigan,Tuscola,Tuscola,MichiganTuscola,2020,101,44,32
+430,Michigan,Washtenaw,Washtenaw,MichiganWashtenaw,2020,157,58,38
+431,Michigan,Wayne,Wayne,MichiganWayne,2020,179,73,48
+432,Michigan,Wexford,Wexford,MichiganWexford,2020,100,44,33
+433,Minnesota,Anoka,Anoka,MinnesotaAnoka,2020,87,52,35
+434,Minnesota,Becker,Becker,MinnesotaBecker,2020,101,46,32
+435,Minnesota,Beltrami,Beltrami,MinnesotaBeltrami,2020,73,39,23
+436,Minnesota,Carlton,Carlton,MinnesotaCarlton,2020,84,42,24
+437,Minnesota,Cass,Cass,MinnesotaCass,2020,75,35,17
+438,Minnesota,Cook,Cook,MinnesotaCook,2020,53,21,10
+439,Minnesota,Crow Wing,Crow,MinnesotaCrow,2020,76,42,28
+440,Minnesota,Dakota,Dakota,MinnesotaDakota,2020,135,52,30
+441,Minnesota,Goodhue,Goodhue,MinnesotaGoodhue,2020,87,46,35
+442,Minnesota,Hennepin,Hennepin,MinnesotaHennepin,2020,156,57,38
+443,Minnesota,Lake,Lake,MinnesotaLake,2020,71,42,30
+444,Minnesota,Lyon,Lyon,MinnesotaLyon,2020,80,48,32
+445,Minnesota,Mille Lacs,Mille,MinnesotaMille,2020,87,44,33
+446,Minnesota,Olmsted,Olmsted,MinnesotaOlmsted,2020,111,52,35
+447,Minnesota,Ramsey,Ramsey,MinnesotaRamsey,2020,160,54,30
+448,Minnesota,Saint Louis,Saint,MinnesotaSaint,2020,104,49,36
+449,Minnesota,Scott,Scott,MinnesotaScott,2020,121,49,32
+450,Minnesota,Stearns,Stearns,MinnesotaStearns,2020,80,47,33
+451,Minnesota,Washington,Washington,MinnesotaWashington,2020,77,42,24
+452,Minnesota,Winona,Winona,MinnesotaWinona,2020,52,27,16
+453,Minnesota,Wright,Wright,MinnesotaWright,2020,112,51,34
+454,Mississippi,Bolivar,Bolivar,MississippiBolivar,2020,85,56,39
+455,Mississippi,DeSoto,DeSoto,MississippiDeSoto,2020,100,54,37
+456,Mississippi,Forrest,Forrest,MississippiForrest,2020,97,59,36
+457,Mississippi,Hancock,Hancock,MississippiHancock,2020,88,54,38
+458,Mississippi,Harrison,Harrison,MississippiHarrison,2020,101,60,42
+459,Mississippi,Hinds,Hinds,MississippiHinds,2020,114,62,44
+460,Mississippi,Jackson,Jackson,MississippiJackson,2020,84,55,39
+461,Mississippi,Lauderdale,Lauderdale,MississippiLauderdale,2020,50,42,31
+462,Mississippi,Lee,Lee,MississippiLee,2020,54,45,35
+463,Mississippi,Yalobusha,Yalobusha,MississippiYalobusha,2020,51,42,31
+464,Missouri,Andrew,Andrew,MissouriAndrew,2020,77,49,38
+465,Missouri,Boone,Boone,MissouriBoone,2020,93,44,33
+466,Missouri,Buchanan,Buchanan,MissouriBuchanan,2020,126,53,33
+467,Missouri,Callaway,Callaway,MissouriCallaway,2020,87,45,35
+468,Missouri,Cass,Cass,MissouriCass,2020,105,49,36
+469,Missouri,Cedar,Cedar,MissouriCedar,2020,99,50,36
+470,Missouri,Clay,Clay,MissouriClay,2020,101,55,35
+471,Missouri,Clinton,Clinton,MissouriClinton,2020,87,48,37
+472,Missouri,Franklin,Franklin,MissouriFranklin,2020,94,17,1
+473,Missouri,Greene,Greene,MissouriGreene,2020,116,52,37
+474,Missouri,Iron,Iron,MissouriIron,2020,100,47,17
+475,Missouri,Jackson,Jackson,MissouriJackson,2020,157,60,40
+476,Missouri,Jasper,Jasper,MissouriJasper,2020,82,52,35
+477,Missouri,Jefferson,Jefferson,MissouriJefferson,2020,141,54,38
+478,Missouri,Lincoln,Lincoln,MissouriLincoln,2020,108,48,37
+479,Missouri,Monroe,Monroe,MissouriMonroe,2020,84,43,31
+480,Missouri,New Madrid,New,MissouriNew,2020,200,168,117
+481,Missouri,Perry,Perry,MissouriPerry,2020,97,47,36
+482,Missouri,Saint Charles,Saint,MissouriSaint,2020,112,50,33
+483,Missouri,Saint Louis,Saint,MissouriSaint,2020,144,61,40
+484,Missouri,Sainte Genevieve,Sainte,MissouriSainte,2020,87,46,36
+485,Missouri,St. Louis City,St.,MissouriSt.,2020,155,67,46
+486,Missouri,Stoddard,Stoddard,MissouriStoddard,2020,62,36,18
+487,Missouri,Taney,Taney,MissouriTaney,2020,57,35,17
+488,Montana,Cascade,Cascade,MontanaCascade,2020,115,44,18
+489,Montana,Fergus,Fergus,MontanaFergus,2020,157,47,39
+490,Montana,Flathead,Flathead,MontanaFlathead,2020,190,56,35
+491,Montana,Gallatin,Gallatin,MontanaGallatin,2020,159,52,22
+492,Montana,Lake,Lake,MontanaLake,2020,174,27,6
+493,Montana,Lewis and Clark,Lewis,MontanaLewis,2020,164,55,40
+494,Montana,Lincoln,Lincoln,MontanaLincoln,2020,327,71,40
+495,Montana,Missoula,Missoula,MontanaMissoula,2020,176,83,47
+496,Montana,Phillips,Phillips,MontanaPhillips,2020,140,64,35
+497,Montana,Powder River,Powder,MontanaPowder,2020,157,66,40
+498,Montana,Powell,Powell,MontanaPowell,2020,11,7,3
+499,Montana,Ravalli,Ravalli,MontanaRavalli,2020,176,54,11
+500,Montana,Richland,Richland,MontanaRichland,2020,68,46,36
+501,Montana,Roosevelt,Roosevelt,MontanaRoosevelt,2020,55,26,9
+502,Montana,Rosebud,Rosebud,MontanaRosebud,2020,153,48,37
+503,Montana,Sanders,Sanders,MontanaSanders,2020,236,51,23
+504,Montana,Sheridan,Sheridan,MontanaSheridan,2020,53,20,10
+505,Montana,Silver Bow,Silver,MontanaSilver,2020,173,56,19
+506,Montana,Yellowstone,Yellowstone,MontanaYellowstone,2020,160,48,23
+507,Nebraska,Cass,Cass,NebraskaCass,2020,71,32,14
+508,Nebraska,Douglas,Douglas,NebraskaDouglas,2020,156,55,36
+509,Nebraska,Hall,Hall,NebraskaHall,2020,85,43,20
+510,Nebraska,Knox,Knox,NebraskaKnox,2020,84,48,35
+511,Nebraska,Lancaster,Lancaster,NebraskaLancaster,2020,74,45,30
+512,Nebraska,Sarpy,Sarpy,NebraskaSarpy,2020,149,52,29
+513,Nebraska,Scotts Bluff,Scotts,NebraskaScotts,2020,122,55,27
+514,Nebraska,Thomas,Thomas,NebraskaThomas,2020,71,29,11
+515,Nebraska,Washington,Washington,NebraskaWashington,2020,72,42,23
+516,Nevada,Carson City,Carson,NevadaCarson,2020,192,67,41
+517,Nevada,Churchill,Churchill,NevadaChurchill,2020,147,50,40
+518,Nevada,Clark,Clark,NevadaClark,2020,174,93,61
+519,Nevada,Douglas,Douglas,NevadaDouglas,2020,249,60,17
+520,Nevada,Elko,Elko,NevadaElko,2020,154,47,18
+521,Nevada,Lyon,Lyon,NevadaLyon,2020,331,59,38
+522,Nevada,Nye,Nye,NevadaNye,2020,200,40,21
+523,Nevada,Washoe,Washoe,NevadaWashoe,2020,240,85,46
+524,Nevada,White Pine,White,NevadaWhite,2020,136,61,44
+525,New Hampshire,Belknap,Belknap,New HampshireBelknap,2020,61,43,30
+526,New Hampshire,Cheshire,Cheshire,New HampshireCheshire,2020,75,47,35
+527,New Hampshire,Coos,Coos,New HampshireCoos,2020,74,50,43
+528,New Hampshire,Grafton,Grafton,New HampshireGrafton,2020,66,43,33
+529,New Hampshire,Hillsborough,Hillsborough,New HampshireHillsborough,2020,90,45,36
+530,New Hampshire,Merrimack,Merrimack,New HampshireMerrimack,2020,74,44,28
+531,New Hampshire,Rockingham,Rockingham,New HampshireRockingham,2020,90,51,38
+532,New Jersey,Atlantic,Atlantic,New JerseyAtlantic,2020,90,47,34
+533,New Jersey,Bergen,Bergen,New JerseyBergen,2020,119,58,39
+534,New Jersey,Camden,Camden,New JerseyCamden,2020,87,58,40
+535,New Jersey,Cumberland,Cumberland,New JerseyCumberland,2020,71,52,38
+536,New Jersey,Essex,Essex,New JerseyEssex,2020,127,58,39
+537,New Jersey,Gloucester,Gloucester,New JerseyGloucester,2020,101,49,36
+538,New Jersey,Hudson,Hudson,New JerseyHudson,2020,90,54,37
+539,New Jersey,Hunterdon,Hunterdon,New JerseyHunterdon,2020,85,52,38
+540,New Jersey,Mercer,Mercer,New JerseyMercer,2020,112,54,38
+541,New Jersey,Middlesex,Middlesex,New JerseyMiddlesex,2020,112,53,37
+542,New Jersey,Monmouth,Monmouth,New JerseyMonmouth,2020,93,48,37
+543,New Jersey,Morris,Morris,New JerseyMorris,2020,84,47,35
+544,New Jersey,Ocean,Ocean,New JerseyOcean,2020,84,48,35
+545,New Jersey,Passaic,Passaic,New JerseyPassaic,2020,100,47,36
+546,New Jersey,Union,Union,New JerseyUnion,2020,111,56,38
+547,New Jersey,Warren,Warren,New JerseyWarren,2020,100,50,34
+548,New Mexico,Bernalillo,Bernalillo,New MexicoBernalillo,2020,214,77,54
+549,New Mexico,Catron,Catron,New MexicoCatron,2020,79,31,11
+550,New Mexico,Chaves,Chaves,New MexicoChaves,2020,75,39,19
+551,New Mexico,Dona Ana,Dona,New MexicoDona,2020,400,88,53
+552,New Mexico,Eddy,Eddy,New MexicoEddy,2020,115,80,46
+553,New Mexico,Lea,Lea,New MexicoLea,2020,76,50,39
+554,New Mexico,Lincoln,Lincoln,New MexicoLincoln,2020,51,29,13
+555,New Mexico,Los Alamos,Los,New MexicoLos,2020,53,19,11
+556,New Mexico,Luna,Luna,New MexicoLuna,2020,360,40,19
+557,New Mexico,Rio Arriba,Rio,New MexicoRio,2020,90,54,44
+558,New Mexico,San Juan,San,New MexicoSan,2020,109,64,45
+559,New Mexico,Sandoval,Sandoval,New MexicoSandoval,2020,119,61,44
+560,New Mexico,Santa Fe,Santa,New MexicoSanta,2020,101,58,44
+561,New Mexico,Socorro,Socorro,New MexicoSocorro,2020,49,28,12
+562,New Mexico,Taos,Taos,New MexicoTaos,2020,64,43,20
+563,New Mexico,Valencia,Valencia,New MexicoValencia,2020,105,61,44
+564,New York,Albany,Albany,New YorkAlbany,2020,143,55,38
+565,New York,Bronx,Bronx,New YorkBronx,2020,108,61,39
+566,New York,Chautauqua,Chautauqua,New YorkChautauqua,2020,93,47,35
+567,New York,Dutchess,Dutchess,New YorkDutchess,2020,87,44,33
+568,New York,Erie,Erie,New YorkErie,2020,155,52,37
+569,New York,Essex,Essex,New YorkEssex,2020,80,47,38
+570,New York,Hamilton,Hamilton,New YorkHamilton,2020,54,44,34
+571,New York,Jefferson,Jefferson,New YorkJefferson,2020,90,44,33
+572,New York,Kings,Kings,New YorkKings,2020,77,47,23
+573,New York,Monroe,Monroe,New YorkMonroe,2020,80,52,36
+574,New York,Nassau,Nassau,New YorkNassau,2020,72,41,20
+575,New York,New York,New,New YorkNew,2020,108,56,37
+576,New York,Niagara,Niagara,New YorkNiagara,2020,87,46,34
+577,New York,Oneida,Oneida,New YorkOneida,2020,78,36,16
+578,New York,Onondaga,Onondaga,New YorkOnondaga,2020,74,48,35
+579,New York,Orange,Orange,New YorkOrange,2020,97,47,36
+580,New York,Oswego,Oswego,New YorkOswego,2020,58,44,33
+581,New York,Putnam,Putnam,New YorkPutnam,2020,64,44,32
+582,New York,Queens,Queens,New YorkQueens,2020,140,61,38
+583,New York,Richmond,Richmond,New YorkRichmond,2020,108,52,36
+584,New York,Rockland,Rockland,New YorkRockland,2020,93,48,34
+585,New York,Saratoga,Saratoga,New YorkSaratoga,2020,61,44,33
+586,New York,St. Lawrence,St.,New YorkSt.,2020,118,69,14
+587,New York,Steuben,Steuben,New YorkSteuben,2020,79,44,34
+588,New York,Suffolk,Suffolk,New YorkSuffolk,2020,133,59,37
+589,New York,Tompkins,Tompkins,New YorkTompkins,2020,64,44,34
+590,New York,Wayne,Wayne,New YorkWayne,2020,80,46,34
+591,New York,Westchester,Westchester,New YorkWestchester,2020,105,50,36
+592,North Carolina,Alexander,Alexander,North CarolinaAlexander,2020,54,45,33
+593,North Carolina,Avery,Avery,North CarolinaAvery,2020,80,46,37
+594,North Carolina,Beaufort,Beaufort,North CarolinaBeaufort,2020,34,6,0
+595,North Carolina,Brunswick,Brunswick,North CarolinaBrunswick,2020,100,34,0
+596,North Carolina,Buncombe,Buncombe,North CarolinaBuncombe,2020,97,45,31
+597,North Carolina,Caldwell,Caldwell,North CarolinaCaldwell,2020,50,44,31
+598,North Carolina,Carteret,Carteret,North CarolinaCarteret,2020,61,43,34
+599,North Carolina,Caswell,Caswell,North CarolinaCaswell,2020,61,44,31
+600,North Carolina,Catawba,Catawba,North CarolinaCatawba,2020,94,53,31
+601,North Carolina,Cumberland,Cumberland,North CarolinaCumberland,2020,81,49,35
+602,North Carolina,Davidson,Davidson,North CarolinaDavidson,2020,95,54,32
+603,North Carolina,Durham,Durham,North CarolinaDurham,2020,97,49,35
+604,North Carolina,Edgecombe,Edgecombe,North CarolinaEdgecombe,2020,94,46,32
+605,North Carolina,Forsyth,Forsyth,North CarolinaForsyth,2020,97,56,40
+606,North Carolina,Graham,Graham,North CarolinaGraham,2020,97,49,40
+607,North Carolina,Granville,Granville,North CarolinaGranville,2020,51,46,36
+608,North Carolina,Guilford,Guilford,North CarolinaGuilford,2020,87,50,36
+609,North Carolina,Haywood,Haywood,North CarolinaHaywood,2020,93,50,35
+610,North Carolina,Hyde,Hyde,North CarolinaHyde,2020,53,30,16
+611,North Carolina,Jackson,Jackson,North CarolinaJackson,2020,68,40,24
+612,North Carolina,Johnston,Johnston,North CarolinaJohnston,2020,72,49,36
+613,North Carolina,Lenoir,Lenoir,North CarolinaLenoir,2020,58,45,32
+614,North Carolina,Lincoln,Lincoln,North CarolinaLincoln,2020,71,45,35
+615,North Carolina,Macon,Macon,North CarolinaMacon,2020,64,41,29
+616,North Carolina,Martin,Martin,North CarolinaMartin,2020,49,41,30
+617,North Carolina,Mecklenburg,Mecklenburg,North CarolinaMecklenburg,2020,112,56,40
+618,North Carolina,Mitchell,Mitchell,North CarolinaMitchell,2020,103,36,20
+619,North Carolina,Montgomery,Montgomery,North CarolinaMontgomery,2020,83,47,35
+620,North Carolina,New Hanover,New,North CarolinaNew,2020,74,45,31
+621,North Carolina,Northampton,Northampton,North CarolinaNorthampton,2020,88,42,22
+622,North Carolina,Person,Person,North CarolinaPerson,2020,74,43,29
+623,North Carolina,Pitt,Pitt,North CarolinaPitt,2020,95,47,33
+624,North Carolina,Rockingham,Rockingham,North CarolinaRockingham,2020,54,46,34
+625,North Carolina,Rowan,Rowan,North CarolinaRowan,2020,88,52,39
+626,North Carolina,Swain,Swain,North CarolinaSwain,2020,119,47,33
+627,North Carolina,Union,Union,North CarolinaUnion,2020,50,44,31
+628,North Carolina,Wake,Wake,North CarolinaWake,2020,101,56,38
+629,North Carolina,Yancey,Yancey,North CarolinaYancey,2020,105,58,44
+630,North Dakota,Billings,Billings,North DakotaBillings,2020,61,44,34
+631,North Dakota,Burke,Burke,North DakotaBurke,2020,69,45,33
+632,North Dakota,Burleigh,Burleigh,North DakotaBurleigh,2020,74,48,33
+633,North Dakota,Cass,Cass,North DakotaCass,2020,80,46,34
+634,North Dakota,Dunn,Dunn,North DakotaDunn,2020,58,44,33
+635,North Dakota,McKenzie,McKenzie,North DakotaMcKenzie,2020,62,44,33
+636,North Dakota,Mercer,Mercer,North DakotaMercer,2020,120,45,33
+637,North Dakota,Oliver,Oliver,North DakotaOliver,2020,74,46,35
+638,North Dakota,Ward,Ward,North DakotaWard,2020,69,43,33
+639,North Dakota,Williams,Williams,North DakotaWilliams,2020,26,4,1
+640,Ohio,Adams,Adams,OhioAdams,2020,81,45,27
+641,Ohio,Allen,Allen,OhioAllen,2020,105,52,36
+642,Ohio,Ashtabula,Ashtabula,OhioAshtabula,2020,93,44,31
+643,Ohio,Athens,Athens,OhioAthens,2020,61,41,24
+644,Ohio,Belmont,Belmont,OhioBelmont,2020,66,30,12
+645,Ohio,Butler,Butler,OhioButler,2020,126,61,40
+646,Ohio,Clark,Clark,OhioClark,2020,108,57,40
+647,Ohio,Clermont,Clermont,OhioClermont,2020,100,50,35
+648,Ohio,Clinton,Clinton,OhioClinton,2020,97,54,39
+649,Ohio,Columbiana,Columbiana,OhioColumbiana,2020,31,7,1
+650,Ohio,Cuyahoga,Cuyahoga,OhioCuyahoga,2020,152,67,46
+651,Ohio,Delaware,Delaware,OhioDelaware,2020,101,50,38
+652,Ohio,Fayette,Fayette,OhioFayette,2020,80,49,35
+653,Ohio,Franklin,Franklin,OhioFranklin,2020,102,58,40
+654,Ohio,Gallia,Gallia,OhioGallia,2020,116,43,7
+655,Ohio,Geauga,Geauga,OhioGeauga,2020,100,61,41
+656,Ohio,Greene,Greene,OhioGreene,2020,93,51,39
+657,Ohio,Guernsey,Guernsey,OhioGuernsey,2020,50,40,3
+658,Ohio,Hamilton,Hamilton,OhioHamilton,2020,126,70,48
+659,Ohio,Hancock,Hancock,OhioHancock,2020,21,21,0
+660,Ohio,Harrison,Harrison,OhioHarrison,2020,49,23,1
+661,Ohio,Jefferson,Jefferson,OhioJefferson,2020,112,58,37
+662,Ohio,Knox,Knox,OhioKnox,2020,80,49,38
+663,Ohio,Lake,Lake,OhioLake,2020,140,59,37
+664,Ohio,Lawrence,Lawrence,OhioLawrence,2020,77,51,35
+665,Ohio,Licking,Licking,OhioLicking,2020,77,48,37
+666,Ohio,Lorain,Lorain,OhioLorain,2020,154,51,35
+667,Ohio,Lucas,Lucas,OhioLucas,2020,136,61,38
+668,Ohio,Madison,Madison,OhioMadison,2020,84,51,39
+669,Ohio,Mahoning,Mahoning,OhioMahoning,2020,142,54,38
+670,Ohio,Medina,Medina,OhioMedina,2020,93,51,35
+671,Ohio,Miami,Miami,OhioMiami,2020,93,49,39
+672,Ohio,Montgomery,Montgomery,OhioMontgomery,2020,112,64,44
+673,Ohio,Morgan,Morgan,OhioMorgan,2020,96,9,1
+674,Ohio,Noble,Noble,OhioNoble,2020,87,47,36
+675,Ohio,Portage,Portage,OhioPortage,2020,101,55,39
+676,Ohio,Preble,Preble,OhioPreble,2020,101,54,38
+677,Ohio,Scioto,Scioto,OhioScioto,2020,92,31,14
+678,Ohio,Stark,Stark,OhioStark,2020,119,62,42
+679,Ohio,Summit,Summit,OhioSummit,2020,114,59,39
+680,Ohio,Trumbull,Trumbull,OhioTrumbull,2020,153,52,37
+681,Ohio,Warren,Warren,OhioWarren,2020,115,59,39
+682,Ohio,Washington,Washington,OhioWashington,2020,108,48,38
+683,Ohio,Wood,Wood,OhioWood,2020,80,46,34
+684,Oklahoma,Adair,Adair,OklahomaAdair,2020,151,49,33
+685,Oklahoma,Canadian,Canadian,OklahomaCanadian,2020,84,49,36
+686,Oklahoma,Carter,Carter,OklahomaCarter,2020,147,64,43
+687,Oklahoma,Cleveland,Cleveland,OklahomaCleveland,2020,121,64,43
+688,Oklahoma,Comanche,Comanche,OklahomaComanche,2020,107,58,40
+689,Oklahoma,Creek,Creek,OklahomaCreek,2020,93,47,35
+690,Oklahoma,Dewey,Dewey,OklahomaDewey,2020,99,57,39
+691,Oklahoma,Garfield,Garfield,OklahomaGarfield,2020,72,11,0
+692,Oklahoma,Grant,Grant,OklahomaGrant,2020,65,44,19
+693,Oklahoma,Johnston,Johnston,OklahomaJohnston,2020,97,49,38
+694,Oklahoma,Kay,Kay,OklahomaKay,2020,113,58,42
+695,Oklahoma,Mayes,Mayes,OklahomaMayes,2020,51,44,31
+696,Oklahoma,Muskogee,Muskogee,OklahomaMuskogee,2020,27,6,0
+697,Oklahoma,Oklahoma,Oklahoma,OklahomaOklahoma,2020,112,67,45
+698,Oklahoma,Osage,Osage,OklahomaOsage,2020,90,49,36
+699,Oklahoma,Ottawa,Ottawa,OklahomaOttawa,2020,154,60,37
+700,Oklahoma,Pittsburg,Pittsburg,OklahomaPittsburg,2020,141,56,39
+701,Oklahoma,Sequoyah,Sequoyah,OklahomaSequoyah,2020,141,47,33
+702,Oklahoma,Tulsa,Tulsa,OklahomaTulsa,2020,129,58,42
+703,Oklahoma,Washington,Washington,OklahomaWashington,2020,101,56,40
+704,Oregon,Baker,Baker,OregonBaker,2020,200,51,25
+705,Oregon,Benton,Benton,OregonBenton,2020,396,50,18
+706,Oregon,Clackamas,Clackamas,OregonClackamas,2020,366,49,30
+707,Oregon,Columbia,Columbia,OregonColumbia,2020,268,40,25
+708,Oregon,Crook,Crook,OregonCrook,2020,561,60,21
+709,Oregon,Deschutes,Deschutes,OregonDeschutes,2020,583,55,18
+710,Oregon,Douglas,Douglas,OregonDouglas,2020,518,57,22
+711,Oregon,Grant,Grant,OregonGrant,2020,322,66,33
+712,Oregon,Harney,Harney,OregonHarney,2020,304,72,32
+713,Oregon,Jackson,Jackson,OregonJackson,2020,517,70,40
+714,Oregon,Jefferson,Jefferson,OregonJefferson,2020,595,59,21
+715,Oregon,Josephine,Josephine,OregonJosephine,2020,472,73,26
+716,Oregon,Klamath,Klamath,OregonKlamath,2020,679,124,41
+717,Oregon,Lake,Lake,OregonLake,2020,165,66,23
+718,Oregon,Lane,Lane,OregonLane,2020,550,75,40
+719,Oregon,Linn,Linn,OregonLinn,2020,502,63,27
+720,Oregon,Marion,Marion,OregonMarion,2020,641,58,32
+721,Oregon,Multnomah,Multnomah,OregonMultnomah,2020,477,58,33
+722,Oregon,Umatilla,Umatilla,OregonUmatilla,2020,463,55,35
+723,Oregon,Union,Union,OregonUnion,2020,288,48,20
+724,Oregon,Wallowa,Wallowa,OregonWallowa,2020,198,53,20
+725,Oregon,Wasco,Wasco,OregonWasco,2020,417,45,18
+726,Oregon,Washington,Washington,OregonWashington,2020,416,56,31
+727,Pennsylvania,Adams,Adams,PennsylvaniaAdams,2020,86,54,40
+728,Pennsylvania,Allegheny,Allegheny,PennsylvaniaAllegheny,2020,128,79,47
+729,Pennsylvania,Armstrong,Armstrong,PennsylvaniaArmstrong,2020,122,54,39
+730,Pennsylvania,Beaver,Beaver,PennsylvaniaBeaver,2020,142,62,42
+731,Pennsylvania,Berks,Berks,PennsylvaniaBerks,2020,102,58,40
+732,Pennsylvania,Blair,Blair,PennsylvaniaBlair,2020,87,54,38
+733,Pennsylvania,Bradford,Bradford,PennsylvaniaBradford,2020,81,48,37
+734,Pennsylvania,Bucks,Bucks,PennsylvaniaBucks,2020,115,46,33
+735,Pennsylvania,Cambria,Cambria,PennsylvaniaCambria,2020,89,56,38
+736,Pennsylvania,Centre,Centre,PennsylvaniaCentre,2020,90,51,38
+737,Pennsylvania,Chester,Chester,PennsylvaniaChester,2020,143,55,39
+738,Pennsylvania,Clearfield,Clearfield,PennsylvaniaClearfield,2020,54,42,31
+739,Pennsylvania,Cumberland,Cumberland,PennsylvaniaCumberland,2020,137,55,33
+740,Pennsylvania,Dauphin,Dauphin,PennsylvaniaDauphin,2020,116,61,40
+741,Pennsylvania,Delaware,Delaware,PennsylvaniaDelaware,2020,129,64,43
+742,Pennsylvania,Elk,Elk,PennsylvaniaElk,2020,67,44,34
+743,Pennsylvania,Erie,Erie,PennsylvaniaErie,2020,87,49,34
+744,Pennsylvania,Fayette,Fayette,PennsylvaniaFayette,2020,100,51,37
+745,Pennsylvania,Franklin,Franklin,PennsylvaniaFranklin,2020,50,42,32
+746,Pennsylvania,Greene,Greene,PennsylvaniaGreene,2020,101,49,36
+747,Pennsylvania,Indiana,Indiana,PennsylvaniaIndiana,2020,112,48,36
+748,Pennsylvania,Lackawanna,Lackawanna,PennsylvaniaLackawanna,2020,81,50,38
+749,Pennsylvania,Lancaster,Lancaster,PennsylvaniaLancaster,2020,153,62,43
+750,Pennsylvania,Lawrence,Lawrence,PennsylvaniaLawrence,2020,93,43,31
+751,Pennsylvania,Lebanon,Lebanon,PennsylvaniaLebanon,2020,115,55,30
+752,Pennsylvania,Lehigh,Lehigh,PennsylvaniaLehigh,2020,93,52,37
+753,Pennsylvania,Luzerne,Luzerne,PennsylvaniaLuzerne,2020,54,43,31
+754,Pennsylvania,Lycoming,Lycoming,PennsylvaniaLycoming,2020,109,51,37
+755,Pennsylvania,Mercer,Mercer,PennsylvaniaMercer,2020,105,54,38
+756,Pennsylvania,Monroe,Monroe,PennsylvaniaMonroe,2020,80,44,33
+757,Pennsylvania,Montgomery,Montgomery,PennsylvaniaMontgomery,2020,99,56,38
+758,Pennsylvania,Northampton,Northampton,PennsylvaniaNorthampton,2020,117,54,38
+759,Pennsylvania,Philadelphia,Philadelphia,PennsylvaniaPhiladelphia,2020,119,59,41
+760,Pennsylvania,Somerset,Somerset,PennsylvaniaSomerset,2020,71,44,34
+761,Pennsylvania,Susquehanna,Susquehanna,PennsylvaniaSusquehanna,2020,71,40,23
+762,Pennsylvania,Tioga,Tioga,PennsylvaniaTioga,2020,79,47,37
+763,Pennsylvania,Warren,Warren,PennsylvaniaWarren,2020,95,24,9
+764,Pennsylvania,Washington,Washington,PennsylvaniaWashington,2020,100,58,41
+765,Pennsylvania,Westmoreland,Westmoreland,PennsylvaniaWestmoreland,2020,81,50,35
+766,Pennsylvania,Wyoming,Wyoming,PennsylvaniaWyoming,2020,76,43,25
+767,Pennsylvania,York,York,PennsylvaniaYork,2020,97,57,40
+768,Puerto Rico,Adjuntas,Adjuntas,Puerto RicoAdjuntas,2020,58,38,14
+769,Puerto Rico,Bayamon,Bayamon,Puerto RicoBayamon,2020,95,36,19
+770,Puerto Rico,Caguas,Caguas,Puerto RicoCaguas,2020,69,20,10
+771,Puerto Rico,Catano,Catano,Puerto RicoCatano,2020,336,61,25
+772,Puerto Rico,Fajardo,Fajardo,Puerto RicoFajardo,2020,80,51,20
+773,Puerto Rico,Guayama,Guayama,Puerto RicoGuayama,2020,80,54,22
+774,Puerto Rico,Guaynabo,Guaynabo,Puerto RicoGuaynabo,2020,72,54,24
+775,Puerto Rico,Juncos,Juncos,Puerto RicoJuncos,2020,174,16,9
+776,Puerto Rico,Mayagnez,Mayagnez,Puerto RicoMayagnez,2020,396,59,22
+777,Puerto Rico,Ponce,Ponce,Puerto RicoPonce,2020,81,51,22
+778,Puerto Rico,San Juan,San,Puerto RicoSan,2020,39,32,9
+779,Rhode Island,Kent,Kent,Rhode IslandKent,2020,133,47,31
+780,Rhode Island,Providence,Providence,Rhode IslandProvidence,2020,112,54,40
+781,Rhode Island,Washington,Washington,Rhode IslandWashington,2020,154,49,32
+782,South Carolina,Aiken,Aiken,South CarolinaAiken,2020,71,44,32
+783,South Carolina,Anderson,Anderson,South CarolinaAnderson,2020,71,46,35
+784,South Carolina,Berkeley,Berkeley,South CarolinaBerkeley,2020,51,43,31
+785,South Carolina,Charleston,Charleston,South CarolinaCharleston,2020,117,51,35
+786,South Carolina,Chesterfield,Chesterfield,South CarolinaChesterfield,2020,89,49,34
+787,South Carolina,Darlington,Darlington,South CarolinaDarlington,2020,49,42,32
+788,South Carolina,Edgefield,Edgefield,South CarolinaEdgefield,2020,115,46,33
+789,South Carolina,Florence,Florence,South CarolinaFlorence,2020,95,42,28
+790,South Carolina,Greenville,Greenville,South CarolinaGreenville,2020,116,55,39
+791,South Carolina,Horry,Horry,South CarolinaHorry,2020,50,44,32
+792,South Carolina,Lexington,Lexington,South CarolinaLexington,2020,111,48,29
+793,South Carolina,Oconee,Oconee,South CarolinaOconee,2020,0,0,0
+794,South Carolina,Richland,Richland,South CarolinaRichland,2020,117,49,35
+795,South Carolina,Spartanburg,Spartanburg,South CarolinaSpartanburg,2020,112,54,40
+796,South Carolina,York,York,South CarolinaYork,2020,92,47,35
+797,South Dakota,Brookings,Brookings,South DakotaBrookings,2020,87,55,38
+798,South Dakota,Brown,Brown,South DakotaBrown,2020,75,47,23
+799,South Dakota,Codington,Codington,South DakotaCodington,2020,101,53,36
+800,South Dakota,Custer,Custer,South DakotaCuster,2020,119,54,41
+801,South Dakota,Hughes,Hughes,South DakotaHughes,2020,76,30,14
+802,South Dakota,Jackson,Jackson,South DakotaJackson,2020,90,51,39
+803,South Dakota,Meade,Meade,South DakotaMeade,2020,84,47,38
+804,South Dakota,Minnehaha,Minnehaha,South DakotaMinnehaha,2020,90,52,35
+805,South Dakota,Pennington,Pennington,South DakotaPennington,2020,91,62,31
+806,South Dakota,Union,Union,South DakotaUnion,2020,141,53,36
+807,Tennessee,Anderson,Anderson,TennesseeAnderson,2020,64,46,35
+808,Tennessee,Blount,Blount,TennesseeBlount,2020,92,51,38
+809,Tennessee,Claiborne,Claiborne,TennesseeClaiborne,2020,51,44,32
+810,Tennessee,Davidson,Davidson,TennesseeDavidson,2020,116,58,41
+811,Tennessee,DeKalb,DeKalb,TennesseeDeKalb,2020,61,44,33
+812,Tennessee,Dyer,Dyer,TennesseeDyer,2020,117,42,23
+813,Tennessee,Hamilton,Hamilton,TennesseeHamilton,2020,151,55,40
+814,Tennessee,Jefferson,Jefferson,TennesseeJefferson,2020,74,48,37
+815,Tennessee,Knox,Knox,TennesseeKnox,2020,90,55,38
+816,Tennessee,Lawrence,Lawrence,TennesseeLawrence,2020,72,37,20
+817,Tennessee,Loudon,Loudon,TennesseeLoudon,2020,97,49,34
+818,Tennessee,Madison,Madison,TennesseeMadison,2020,108,42,25
+819,Tennessee,Maury,Maury,TennesseeMaury,2020,91,42,22
+820,Tennessee,McMinn,McMinn,TennesseeMcMinn,2020,88,47,28
+821,Tennessee,Montgomery,Montgomery,TennesseeMontgomery,2020,116,44,26
+822,Tennessee,Putnam,Putnam,TennesseePutnam,2020,105,40,23
+823,Tennessee,Roane,Roane,TennesseeRoane,2020,91,46,26
+824,Tennessee,Sevier,Sevier,TennesseeSevier,2020,105,49,40
+825,Tennessee,Shelby,Shelby,TennesseeShelby,2020,152,61,44
+826,Tennessee,Sullivan,Sullivan,TennesseeSullivan,2020,109,54,37
+827,Tennessee,Sumner,Sumner,TennesseeSumner,2020,121,52,37
+828,Tennessee,Williamson,Williamson,TennesseeWilliamson,2020,71,47,37
+829,Tennessee,Wilson,Wilson,TennesseeWilson,2020,64,45,33
+830,Texas,Atascosa,Atascosa,TexasAtascosa,2020,156,60,29
+831,Texas,Bell,Bell,TexasBell,2020,135,61,40
+832,Texas,Bexar,Bexar,TexasBexar,2020,158,77,49
+833,Texas,Bowie,Bowie,TexasBowie,2020,127,56,36
+834,Texas,Brazoria,Brazoria,TexasBrazoria,2020,182,51,33
+835,Texas,Brazos,Brazos,TexasBrazos,2020,99,52,30
+836,Texas,Brewster,Brewster,TexasBrewster,2020,80,50,40
+837,Texas,Cameron,Cameron,TexasCameron,2020,176,70,43
+838,Texas,Collin,Collin,TexasCollin,2020,154,54,37
+839,Texas,Culberson,Culberson,TexasCulberson,2020,112,80,47
+840,Texas,Dallas,Dallas,TexasDallas,2020,135,67,42
+841,Texas,Denton,Denton,TexasDenton,2020,142,71,40
+842,Texas,Ector,Ector,TexasEctor,2020,95,51,27
+843,Texas,El Paso,El,TexasEl,2020,192,84,54
+844,Texas,Ellis,Ellis,TexasEllis,2020,125,58,39
+845,Texas,Freestone,Freestone,TexasFreestone,2020,10,1,0
+846,Texas,Galveston,Galveston,TexasGalveston,2020,143,62,40
+847,Texas,Gregg,Gregg,TexasGregg,2020,86,46,32
+848,Texas,Harris,Harris,TexasHarris,2020,179,80,50
+849,Texas,Harrison,Harrison,TexasHarrison,2020,100,52,36
+850,Texas,Hidalgo,Hidalgo,TexasHidalgo,2020,155,65,37
+851,Texas,Hood,Hood,TexasHood,2020,100,48,33
+852,Texas,Howard,Howard,TexasHoward,2020,200,71,9
+853,Texas,Hunt,Hunt,TexasHunt,2020,87,45,32
+854,Texas,Hutchinson,Hutchinson,TexasHutchinson,2020,156,113,16
+855,Texas,Jefferson,Jefferson,TexasJefferson,2020,122,63,41
+856,Texas,Johnson,Johnson,TexasJohnson,2020,105,50,34
+857,Texas,Karnes,Karnes,TexasKarnes,2020,32,17,6
+858,Texas,Kaufman,Kaufman,TexasKaufman,2020,134,56,37
+859,Texas,Kleberg,Kleberg,TexasKleberg,2020,168,66,35
+860,Texas,Lubbock,Lubbock,TexasLubbock,2020,81,40,20
+861,Texas,Maverick,Maverick,TexasMaverick,2020,160,56,27
+862,Texas,McLennan,McLennan,TexasMcLennan,2020,97,50,38
+863,Texas,Milam,Milam,TexasMilam,2020,3,1,0
+864,Texas,Montgomery,Montgomery,TexasMontgomery,2020,129,62,40
+865,Texas,Navarro,Navarro,TexasNavarro,2020,153,68,40
+866,Texas,Nueces,Nueces,TexasNueces,2020,159,64,40
+867,Texas,Orange,Orange,TexasOrange,2020,103,62,41
+868,Texas,Parker,Parker,TexasParker,2020,115,50,35
+869,Texas,Polk,Polk,TexasPolk,2020,71,43,31
+870,Texas,Potter,Potter,TexasPotter,2020,138,67,22
+871,Texas,Randall,Randall,TexasRandall,2020,90,64,42
+872,Texas,Robertson,Robertson,TexasRobertson,2020,29,1,0
+873,Texas,Rockwall,Rockwall,TexasRockwall,2020,133,45,32
+874,Texas,Rusk,Rusk,TexasRusk,2020,120,44,3
+875,Texas,Smith,Smith,TexasSmith,2020,84,46,33
+876,Texas,Tarrant,Tarrant,TexasTarrant,2020,159,77,45
+877,Texas,Titus,Titus,TexasTitus,2020,36,7,0
+878,Texas,Travis,Travis,TexasTravis,2020,153,63,44
+879,Texas,Victoria,Victoria,TexasVictoria,2020,100,47,31
+880,Texas,Webb,Webb,TexasWebb,2020,160,65,41
+881,Texas,Wilson,Wilson,TexasWilson,2020,34,18,7
+882,Utah,Box Elder,Box,UtahBox,2020,147,51,40
+883,Utah,Cache,Cache,UtahCache,2020,159,71,44
+884,Utah,Carbon,Carbon,UtahCarbon,2020,93,51,43
+885,Utah,Davis,Davis,UtahDavis,2020,155,77,44
+886,Utah,Duchesne,Duchesne,UtahDuchesne,2020,125,64,45
+887,Utah,Garfield,Garfield,UtahGarfield,2020,74,50,42
+888,Utah,Iron,Iron,UtahIron,2020,86,50,40
+889,Utah,Salt Lake,Salt,UtahSalt,2020,194,87,50
+890,Utah,San Juan,San,UtahSan,2020,108,54,43
+891,Utah,Tooele,Tooele,UtahTooele,2020,159,67,42
+892,Utah,Uintah,Uintah,UtahUintah,2020,119,65,45
+893,Utah,Utah,Utah,UtahUtah,2020,150,77,45
+894,Utah,Washington,Washington,UtahWashington,2020,112,61,44
+895,Utah,Wayne,Wayne,UtahWayne,2020,66,31,8
+896,Utah,Weber,Weber,UtahWeber,2020,140,71,44
+897,Vermont,Bennington,Bennington,VermontBennington,2020,70,45,35
+898,Vermont,Chittenden,Chittenden,VermontChittenden,2020,98,47,36
+899,Vermont,Rutland,Rutland,VermontRutland,2020,96,51,37
+900,Vermont,Windham,Windham,VermontWindham,2020,31,19,9
+901,Virgin Islands,St Croix,St,Virgin IslandsSt,2020,82,52,19
+902,Virgin Islands,St John,St,Virgin IslandsSt,2020,82,48,18
+903,Virgin Islands,St Thomas,St,Virgin IslandsSt,2020,72,56,23
+904,Virginia,Albemarle,Albemarle,VirginiaAlbemarle,2020,66,47,35
+905,Virginia,Arlington,Arlington,VirginiaArlington,2020,90,46,33
+906,Virginia,Botetourt,Botetourt,VirginiaBotetourt,2020,69,20,3
+907,Virginia,Bristol City,Bristol,VirginiaBristol,2020,55,43,24
+908,Virginia,Caroline,Caroline,VirginiaCaroline,2020,64,45,34
+909,Virginia,Carroll,Carroll,VirginiaCarroll,2020,15,12,7
+910,Virginia,Charles,Charles,VirginiaCharles,2020,67,44,31
+911,Virginia,Chesterfield,Chesterfield,VirginiaChesterfield,2020,61,44,32
+912,Virginia,Covington City,Covington,VirginiaCovington,2020,84,33,10
+913,Virginia,Fairfax,Fairfax,VirginiaFairfax,2020,100,54,38
+914,Virginia,Fauquier,Fauquier,VirginiaFauquier,2020,61,42,31
+915,Virginia,Frederick,Frederick,VirginiaFrederick,2020,78,45,35
+916,Virginia,Giles,Giles,VirginiaGiles,2020,200,61,37
+917,Virginia,Hampton City,Hampton,VirginiaHampton,2020,64,45,34
+918,Virginia,Hanover,Hanover,VirginiaHanover,2020,64,45,34
+919,Virginia,Henrico,Henrico,VirginiaHenrico,2020,71,48,36
+920,Virginia,Hopewell City,Hopewell,VirginiaHopewell,2020,15,13,6
+921,Virginia,Loudoun,Loudoun,VirginiaLoudoun,2020,108,45,33
+922,Virginia,Lynchburg City,Lynchburg,VirginiaLynchburg,2020,54,38,21
+923,Virginia,Madison,Madison,VirginiaMadison,2020,54,45,37
+924,Virginia,Norfolk City,Norfolk,VirginiaNorfolk,2020,60,31,17
+925,Virginia,Prince Edward,Prince,VirginiaPrince,2020,49,42,30
+926,Virginia,Prince William,Prince,VirginiaPrince,2020,74,44,32
+927,Virginia,Richmond City,Richmond,VirginiaRichmond,2020,77,44,29
+928,Virginia,Roanoke,Roanoke,VirginiaRoanoke,2020,69,48,35
+929,Virginia,Rockbridge,Rockbridge,VirginiaRockbridge,2020,49,42,31
+930,Virginia,Rockingham,Rockingham,VirginiaRockingham,2020,74,44,32
+931,Virginia,Salem City,Salem,VirginiaSalem,2020,66,42,23
+932,Virginia,Stafford,Stafford,VirginiaStafford,2020,84,44,32
+933,Virginia,Suffolk City,Suffolk,VirginiaSuffolk,2020,67,44,36
+934,Virginia,Virginia Beach City,Virginia,VirginiaVirginia,2020,71,45,23
+935,Virginia,Winchester City,Winchester,VirginiaWinchester,2020,18,12,6
+936,Virginia,Wythe,Wythe,VirginiaWythe,2020,61,45,34
+937,Washington,Adams,Adams,WashingtonAdams,2020,241,33,13
+938,Washington,Asotin,Asotin,WashingtonAsotin,2020,289,62,29
+939,Washington,Benton,Benton,WashingtonBenton,2020,908,54,33
+940,Washington,Chelan,Chelan,WashingtonChelan,2020,489,54,21
+941,Washington,Clallam,Clallam,WashingtonClallam,2020,309,47,33
+942,Washington,Clark,Clark,WashingtonClark,2020,509,58,27
+943,Washington,Columbia,Columbia,WashingtonColumbia,2020,233,41,18
+944,Washington,Cowlitz,Cowlitz,WashingtonCowlitz,2020,257,38,16
+945,Washington,Franklin,Franklin,WashingtonFranklin,2020,260,34,14
+946,Washington,Garfield,Garfield,WashingtonGarfield,2020,228,36,15
+947,Washington,Grant,Grant,WashingtonGrant,2020,283,39,16
+948,Washington,Grays Harbor,Grays,WashingtonGrays,2020,218,38,20
+949,Washington,Jefferson,Jefferson,WashingtonJefferson,2020,208,33,18
+950,Washington,King,King,WashingtonKing,2020,275,62,36
+951,Washington,Kitsap,Kitsap,WashingtonKitsap,2020,221,38,18
+952,Washington,Kittitas,Kittitas,WashingtonKittitas,2020,459,54,18
+953,Washington,Klickitat,Klickitat,WashingtonKlickitat,2020,669,39,17
+954,Washington,Lewis,Lewis,WashingtonLewis,2020,233,34,19
+955,Washington,Mason,Mason,WashingtonMason,2020,324,41,18
+956,Washington,Okanogan,Okanogan,WashingtonOkanogan,2020,423,71,35
+957,Washington,Pend Oreille,Pend,WashingtonPend,2020,59,53,35
+958,Washington,Pierce,Pierce,WashingtonPierce,2020,231,62,40
+959,Washington,Skagit,Skagit,WashingtonSkagit,2020,52,31,16
+960,Washington,Snohomish,Snohomish,WashingtonSnohomish,2020,225,64,30
+961,Washington,Spokane,Spokane,WashingtonSpokane,2020,479,52,33
+962,Washington,Stevens,Stevens,WashingtonStevens,2020,536,63,32
+963,Washington,Thurston,Thurston,WashingtonThurston,2020,217,44,25
+964,Washington,Walla Walla,Walla,WashingtonWalla,2020,819,50,22
+965,Washington,Whatcom,Whatcom,WashingtonWhatcom,2020,212,60,29
+966,Washington,Whitman,Whitman,WashingtonWhitman,2020,212,35,15
+967,Washington,Yakima,Yakima,WashingtonYakima,2020,465,76,35
+968,West Virginia,Berkeley,Berkeley,West VirginiaBerkeley,2020,95,48,36
+969,West Virginia,Brooke,Brooke,West VirginiaBrooke,2020,94,48,20
+970,West Virginia,Cabell,Cabell,West VirginiaCabell,2020,100,47,36
+971,West Virginia,Gilmer,Gilmer,West VirginiaGilmer,2020,49,41,29
+972,West Virginia,Greenbrier,Greenbrier,West VirginiaGreenbrier,2020,54,44,34
+973,West Virginia,Hancock,Hancock,West VirginiaHancock,2020,133,49,32
+974,West Virginia,Harrison,Harrison,West VirginiaHarrison,2020,78,43,26
+975,West Virginia,Kanawha,Kanawha,West VirginiaKanawha,2020,84,48,37
+976,West Virginia,Marion,Marion,West VirginiaMarion,2020,67,47,26
+977,West Virginia,Marshall,Marshall,West VirginiaMarshall,2020,68,37,6
+978,West Virginia,Mason,Mason,West VirginiaMason,2020,113,29,1
+979,West Virginia,Mineral,Mineral,West VirginiaMineral,2020,3,1,1
+980,West Virginia,Monongalia,Monongalia,West VirginiaMonongalia,2020,90,46,33
+981,West Virginia,Ohio,Ohio,West VirginiaOhio,2020,101,51,38
+982,West Virginia,Tucker,Tucker,West VirginiaTucker,2020,51,44,33
+983,West Virginia,Wood,Wood,West VirginiaWood,2020,80,45,32
+984,Wisconsin,Ashland,Ashland,WisconsinAshland,2020,71,43,32
+985,Wisconsin,Brown,Brown,WisconsinBrown,2020,119,55,35
+986,Wisconsin,Columbia,Columbia,WisconsinColumbia,2020,115,48,38
+987,Wisconsin,Dane,Dane,WisconsinDane,2020,112,59,39
+988,Wisconsin,Dodge,Dodge,WisconsinDodge,2020,136,56,38
+989,Wisconsin,Door,Door,WisconsinDoor,2020,150,51,36
+990,Wisconsin,Eau Claire,Eau,WisconsinEau,2020,93,54,37
+991,Wisconsin,Fond du Lac,Fond,WisconsinFond,2020,115,46,36
+992,Wisconsin,Forest,Forest,WisconsinForest,2020,93,47,35
+993,Wisconsin,Grant,Grant,WisconsinGrant,2020,82,55,30
+994,Wisconsin,Jefferson,Jefferson,WisconsinJefferson,2020,136,51,38
+995,Wisconsin,Kenosha,Kenosha,WisconsinKenosha,2020,197,67,40
+996,Wisconsin,Kewaunee,Kewaunee,WisconsinKewaunee,2020,97,47,34
+997,Wisconsin,La Crosse,La,WisconsinLa,2020,93,54,37
+998,Wisconsin,Manitowoc,Manitowoc,WisconsinManitowoc,2020,136,58,36
+999,Wisconsin,Marathon,Marathon,WisconsinMarathon,2020,74,45,31
+1000,Wisconsin,Milwaukee,Milwaukee,WisconsinMilwaukee,2020,169,67,40
+1001,Wisconsin,Oneida,Oneida,WisconsinOneida,2020,72,11,0
+1002,Wisconsin,Outagamie,Outagamie,WisconsinOutagamie,2020,126,59,37
+1003,Wisconsin,Ozaukee,Ozaukee,WisconsinOzaukee,2020,164,59,35
+1004,Wisconsin,Racine,Racine,WisconsinRacine,2020,172,67,38
+1005,Wisconsin,Rock,Rock,WisconsinRock,2020,105,49,38
+1006,Wisconsin,Sauk,Sauk,WisconsinSauk,2020,112,54,36
+1007,Wisconsin,Sheboygan,Sheboygan,WisconsinSheboygan,2020,159,74,39
+1008,Wisconsin,Taylor,Taylor,WisconsinTaylor,2020,78,49,35
+1009,Wisconsin,Vilas,Vilas,WisconsinVilas,2020,84,46,30
+1010,Wisconsin,Walworth,Walworth,WisconsinWalworth,2020,136,50,39
+1011,Wisconsin,Waukesha,Waukesha,WisconsinWaukesha,2020,129,60,39
+1012,Wyoming,Albany,Albany,WyomingAlbany,2020,177,71,46
+1013,Wyoming,Big Horn,Big,WyomingBig,2020,126,46,38
+1014,Wyoming,Campbell,Campbell,WyomingCampbell,2020,124,68,44
+1015,Wyoming,Carbon,Carbon,WyomingCarbon,2020,82,25,9
+1016,Wyoming,Converse,Converse,WyomingConverse,2020,129,60,42
+1017,Wyoming,Fremont,Fremont,WyomingFremont,2020,158,58,45
+1018,Wyoming,Johnson,Johnson,WyomingJohnson,2020,93,50,40
+1019,Wyoming,Laramie,Laramie,WyomingLaramie,2020,157,54,39
+1020,Wyoming,Lincoln,Lincoln,WyomingLincoln,2020,71,34,15
+1021,Wyoming,Natrona,Natrona,WyomingNatrona,2020,124,52,41
+1022,Wyoming,Park,Park,WyomingPark,2020,113,30,11
+1023,Wyoming,Platte,Platte,WyomingPlatte,2020,283,50,19
+1024,Wyoming,Sheridan,Sheridan,WyomingSheridan,2020,100,47,39
+1025,Wyoming,Sublette,Sublette,WyomingSublette,2020,151,61,44
+1026,Wyoming,Sweetwater,Sweetwater,WyomingSweetwater,2020,1250,76,46
+1027,Wyoming,Teton,Teton,WyomingTeton,2020,161,54,42
+1028,Wyoming,Uinta,Uinta,WyomingUinta,2020,122,51,40
+1029,Wyoming,Weston,Weston,WyomingWeston,2020,119,49,40
