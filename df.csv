@@ -168,7 +168,7 @@
 166,Florida,Santa Rosa,Santa,2020,84,57,40
 167,Florida,Sarasota,Sarasota,2020,90,55,38
 168,Florida,Seminole,Seminole,2020,84,49,36
-169,Florida,St. Lucie,St.,2020,74,44,33
+169,Florida,St.Lucie,St.Lucie,2020,74,44,33
 170,Florida,Volusia,Volusia,2020,77,50,38
 171,Florida,Wakulla,Wakulla,2020,161,54,35
 172,Georgia,Bibb,Bibb,2020,97,52,35
@@ -356,12 +356,12 @@
 354,Louisiana,Ouachita,Ouachita,2020,111,45,32
 355,Louisiana,Pointe Coupee,Pointe,2020,100,45,32
 356,Louisiana,Rapides,Rapides,2020,103,49,26
-357,Louisiana,St. Bernard,St.,2020,91,55,40
-358,Louisiana,St. Charles,St.,2020,77,37,3
-359,Louisiana,St. James,St.,2020,90,44,28
-360,Louisiana,St. John the Baptist,St.,2020,80,45,31
-361,Louisiana,St. Martin,St.,2020,87,48,33
-362,Louisiana,St. Tammany,St.,2020,90,52,36
+357,Louisiana,St.Bernard,St.Bernard,2020,91,55,40
+358,Louisiana,St.Charles,St.Charles,2020,77,37,3
+359,Louisiana,St.James,St.James,2020,90,44,28
+360,Louisiana,St.John the Baptist,St.John,2020,80,45,31
+361,Louisiana,St.Martin,St.Martin,2020,87,48,33
+362,Louisiana,St.Tammany,St.Tammany,2020,90,52,36
 363,Louisiana,Tangipahoa,Tangipahoa,2020,64,49,26
 364,Louisiana,Terrebonne,Terrebonne,2020,74,50,27
 365,Louisiana,West Baton Rouge,West,2020,101,58,38
@@ -1025,7 +1025,7 @@
 1023,Wyoming,Platte,Platte,2020,283,50,19
 1024,Wyoming,Sheridan,Sheridan,2020,100,47,39
 1025,Wyoming,Sublette,Sublette,2020,151,61,44
-1026,Wyoming,Sweetwater,Sweetwater,2020,1250,76,46
+1026,Wyoming,Sweetwater,Sweetwater,2020,125,76,46
 1027,Wyoming,Teton,Teton,2020,161,54,42
 1028,Wyoming,Uinta,Uinta,2020,122,51,40
 1029,Wyoming,Weston,Weston,2020,119,49,40
